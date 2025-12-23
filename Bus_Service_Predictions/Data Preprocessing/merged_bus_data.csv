@@ -1,0 +1,2001 @@
+Date,Time_Slot,From_Location,To_Location,Passenger_Count,Day_Type,Distance_km,Ticket_Price,Discount_Offered (%),Special_Event,Total_Revenue,High_Demand,Weekday,Time_Slot_Encoded,Day_Type_Encoded,Special_Event_Encoded
+2024-01-01,Evening,Visakhapatnam,Secunderabad,233,Weekday,610.32,732,5,No Event,162028.19999999998,0,Monday,1,0,2
+2024-01-01,Evening,Nizamabad,Guntur,195,Weekday,441.78,530,0,No Event,103350.0,0,Monday,1,0,2
+2024-01-02,Night,Hyderabad,Kurnool,136,Weekday,213.32,256,3,No Event,33771.52,0,Tuesday,3,0,2
+2024-01-02,Morning,Guntur,Rajahmundry,241,Weekday,195.41,234,1,No Event,55830.06,0,Tuesday,2,0,2
+2024-01-02,Afternoon,Tirupati,Secunderabad,184,Weekday,559.94,672,2,No Event,121175.04,0,Tuesday,0,0,2
+2024-01-02,Morning,Nizamabad,Kakinada,137,Weekday,597.23,717,0,No Event,98229.0,0,Tuesday,2,0,2
+2024-01-02,Afternoon,Hyderabad,Khammam,120,Weekday,194.9,234,5,No Event,26676.0,0,Tuesday,0,0,2
+2024-01-03,Evening,Nizamabad,Visakhapatnam,274,Weekday,742.62,891,2,No Event,239251.32,1,Wednesday,1,0,2
+2024-01-03,Afternoon,Nalagonda,Tirupati,131,Weekday,316.03,379,5,No Event,47166.549999999996,0,Wednesday,0,0,2
+2024-01-03,Afternoon,Hyderabad,Mahbubnagar,132,Weekday,99.48,119,4,No Event,15079.68,0,Wednesday,0,0,2
+2024-01-04,Afternoon,Kakinada,Rajahmundry,148,Weekday,60.27,72,1,No Event,10549.44,0,Thursday,0,0,2
+2024-01-04,Afternoon,Tenali,Rajahmundry,138,Weekday,190.49,229,1,No Event,31285.98,0,Thursday,0,0,2
+2024-01-04,Morning,Warangal,Kadapa,125,Weekday,493.86,593,3,No Event,71901.25,0,Thursday,2,0,2
+2024-01-04,Morning,Mahbubnagar,Visakhapatnam,129,Weekday,699.2,839,5,No Event,102819.45,0,Thursday,2,0,2
+2024-01-04,Night,Mahbubnagar,Kurnool,135,Weekday,120.89,145,3,No Event,18987.75,0,Thursday,3,0,2
+2024-01-04,Evening,Rajahmundry,Tirupati,237,Weekday,573.02,688,2,No Event,159794.88,0,Thursday,1,0,2
+2024-01-05,Night,Warangal,Kurnool,66,Weekday,355.52,427,0,No Event,28182.0,0,Friday,3,0,2
+2024-01-05,Afternoon,Nalagonda,Warangal,88,Weekday,901.64,1082,0,No Event,95216.0,0,Friday,0,0,2
+2024-01-05,Afternoon,Warangal,Hyderabad,97,Weekday,149.36,179,1,No Event,17189.37,0,Friday,0,0,2
+2024-01-05,Evening,Tirupati,Hyderabad,260,Weekday,551.16,661,2,No Event,168422.8,1,Friday,1,0,2
+2024-01-06,Morning,Secunderabad,Khammam,148,Weekend,199.31,239,15,Weekend,30066.2,0,Saturday,2,1,3
+2024-01-06,Evening,Kadapa,Guntur,265,Weekend,349.41,419,15,Weekend,94379.75,1,Saturday,1,1,3
+2024-01-06,Night,Warangal,Mahbubnagar,82,Weekend,244.22,293,10,Weekend,21623.4,0,Saturday,3,1,3
+2024-01-06,Evening,Kadapa,Vijayawada,200,Weekend,383.68,460,15,Weekend,78200.0,0,Saturday,1,1,3
+2024-01-06,Evening,Warangal,Nellore,272,Weekend,470.66,565,10,Weekend,138312.0,1,Saturday,1,1,3
+2024-01-06,Morning,Visakhapatnam,Karimnagar,149,Weekend,603.1,724,15,Weekend,91694.59999999999,0,Saturday,2,1,3
+2024-01-06,Night,Visakhapatnam,Kadapa,68,Weekend,744.57,893,15,Weekend,51615.4,0,Saturday,3,1,3
+2024-01-07,Evening,Vijayawada,Rajahmundry,291,Weekend,158.45,190,15,Weekend,46996.5,1,Sunday,1,1,3
+2024-01-08,Night,Rajahmundry,Warangal,80,Weekday,323.09,388,3,No Event,30108.8,0,Monday,3,0,2
+2024-01-08,Morning,Vijayawada,Nalagonda,199,Weekday,726.77,872,4,No Event,166586.88,0,Monday,2,0,2
+2024-01-08,Morning,Warangal,Nalagonda,182,Weekday,901.64,1082,5,No Event,187077.8,0,Monday,2,0,2
+2024-01-09,Morning,Kurnool,Tirupati,198,Weekday,343.02,412,2,No Event,79944.48,0,Tuesday,2,0,2
+2024-01-09,Morning,Kadapa,Visakhapatnam,238,Weekday,744.57,893,0,No Event,212534.0,0,Tuesday,2,0,2
+2024-01-09,Morning,Warangal,Kurnool,138,Weekday,355.52,427,0,No Event,58926.0,0,Tuesday,2,0,2
+2024-01-10,Evening,Rajahmundry,Visakhapatnam,281,Weekday,212.8,255,4,No Event,68788.8,1,Wednesday,1,0,2
+2024-01-10,Afternoon,Khammam,Guntur,103,Weekday,166.01,199,0,No Event,20497.0,0,Wednesday,0,0,2
+2024-01-10,Afternoon,Mahbubnagar,Tenali,113,Weekday,350.45,421,0,No Event,47573.0,0,Wednesday,0,0,2
+2024-01-10,Evening,Rajahmundry,Kakinada,183,Weekday,60.27,72,4,No Event,12648.96,0,Wednesday,1,0,2
+2024-01-10,Morning,Kakinada,Mahbubnagar,220,Weekday,548.14,658,3,No Event,140417.19999999998,0,Wednesday,2,0,2
+2024-01-10,Morning,Nellore,Nizamabad,166,Weekday,627.42,753,2,No Event,122498.04,0,Wednesday,2,0,2
+2024-01-10,Morning,Visakhapatnam,Kadapa,245,Weekday,744.57,893,3,No Event,212221.44999999998,0,Wednesday,2,0,2
+2024-01-11,Night,Khammam,Mahbubnagar,117,Weekday,283.12,340,1,No Event,39382.2,0,Thursday,3,0,2
+2024-01-11,Night,Tirupati,Secunderabad,149,Weekday,559.94,672,2,No Event,98125.44,0,Thursday,3,0,2
+2024-01-11,Night,Vijayawada,Kakinada,139,Weekday,217.33,261,3,No Event,35190.63,0,Thursday,3,0,2
+2024-01-11,Afternoon,Hyderabad,Guntur,187,Weekday,270.74,325,1,No Event,60167.25,0,Thursday,0,0,2
+2024-01-11,Morning,Secunderabad,Tenali,191,Weekday,304.51,365,3,No Event,67623.55,0,Thursday,2,0,2
+2024-01-12,Night,Warangal,Nellore,126,Weekday,470.66,565,0,No Event,71190.0,0,Friday,3,0,2
+2024-01-12,Morning,Vijayawada,Kurnool,217,Weekday,336.5,404,1,No Event,86791.31999999999,0,Friday,2,0,2
+2024-01-12,Evening,Secunderabad,Tirupati,238,Weekday,559.94,672,3,No Event,155137.91999999998,0,Friday,1,0,2
+2024-01-12,Evening,Khammam,Nizamabad,282,Weekday,332.21,399,3,No Event,109142.45999999999,1,Friday,1,0,2
+2024-01-13,Night,Tenali,Secunderabad,103,Weekend,304.51,365,15,Weekend,31955.75,0,Saturday,3,1,3
+2024-01-13,Afternoon,Tenali,Warangal,161,Weekend,274.84,330,10,Weekend,47817.0,0,Saturday,0,1,3
+2024-01-13,Morning,Tirupati,Kadapa,127,Weekend,140.34,168,15,Weekend,18135.6,0,Saturday,2,1,3
+2024-01-14,Afternoon,Tirupati,Rajahmundry,123,Weekend,573.02,688,15,Weekend,71930.4,0,Sunday,0,1,3
+2024-01-15,Morning,Nalagonda,Khammam,142,Weekday,816.37,980,5,No Event,132202.0,0,Monday,2,0,2
+2024-01-15,Afternoon,Kadapa,Tenali,143,Weekday,356.33,428,3,No Event,59367.88,0,Monday,0,0,2
+2024-01-15,Morning,Warangal,Rajahmundry,152,Weekday,323.09,388,3,No Event,57206.72,0,Monday,2,0,2
+2024-01-15,Morning,Secunderabad,Nalagonda,197,Weekday,778.9,935,3,No Event,178669.15,0,Monday,2,0,2
+2024-01-15,Morning,Vijayawada,Mahbubnagar,187,Weekday,344.37,413,1,No Event,76458.69,0,Monday,2,0,2
+2024-01-15,Evening,Tirupati,Kadapa,296,Weekday,140.34,168,5,No Event,47241.6,1,Monday,1,0,2
+2024-01-15,Morning,Hyderabad,Nellore,192,Weekday,454.19,545,4,No Event,100454.4,0,Monday,2,0,2
+2024-01-15,Night,Khammam,Guntur,117,Weekday,166.01,199,0,No Event,23283.0,0,Monday,3,0,2
+2024-01-16,Evening,Kakinada,Nalagonda,259,Weekday,925.6,1111,0,No Event,287749.0,1,Tuesday,1,0,2
+2024-01-17,Afternoon,Kakinada,Tenali,118,Weekday,261.69,314,4,No Event,35569.92,0,Wednesday,0,0,2
+2024-01-17,Morning,Visakhapatnam,Kurnool,158,Weekday,697.39,837,0,No Event,132246.0,0,Wednesday,2,0,2
+2024-01-17,Evening,Secunderabad,Kakinada,247,Weekday,464.34,557,4,No Event,132075.84,0,Wednesday,1,0,2
+2024-01-17,Morning,Hyderabad,Nellore,120,Weekday,454.19,545,4,No Event,62784.0,0,Wednesday,2,0,2
+2024-01-18,Evening,Khammam,Visakhapatnam,315,Weekday,408.01,490,4,No Event,148176.0,1,Thursday,1,0,2
+2024-01-18,Evening,Tirupati,Secunderabad,193,Weekday,559.94,672,2,No Event,127102.08,0,Thursday,1,0,2
+2024-01-18,Afternoon,Rajahmundry,Kurnool,142,Weekday,494.02,593,4,No Event,80837.76,0,Thursday,0,0,2
+2024-01-18,Afternoon,Rajahmundry,Kurnool,142,Weekday,494.02,593,4,No Event,80837.76,0,Thursday,0,0,2
+2024-01-18,Night,Kurnool,Warangal,105,Weekday,355.52,427,0,No Event,44835.0,0,Thursday,3,0,2
+2024-01-18,Afternoon,Nizamabad,Tirupati,97,Weekday,726.1,871,3,No Event,81952.39,0,Thursday,0,0,2
+2024-01-18,Evening,Tenali,Vijayawada,235,Weekday,33.07,40,0,No Event,9400.0,0,Thursday,1,0,2
+2024-01-19,Evening,Nellore,Visakhapatnam,298,Weekday,641.27,770,2,No Event,224870.8,1,Friday,1,0,2
+2024-01-19,Afternoon,Tirupati,Hyderabad,97,Weekday,551.16,661,2,No Event,62834.659999999996,0,Friday,0,0,2
+2024-01-19,Night,Warangal,Kakinada,86,Weekday,381.97,458,5,No Event,37418.6,0,Friday,3,0,2
+2024-01-19,Evening,Nellore,Hyderabad,210,Weekday,454.19,545,4,No Event,109872.0,0,Friday,1,0,2
+2024-01-19,Morning,Kurnool,Tenali,245,Weekday,329.18,395,4,No Event,92904.0,0,Friday,2,0,2
+2024-01-19,Night,Visakhapatnam,Nellore,121,Weekday,641.27,770,3,No Event,90374.9,0,Friday,3,0,2
+2024-01-19,Night,Warangal,Vijayawada,85,Weekday,244.67,294,5,No Event,23740.5,0,Friday,3,0,2
+2024-01-20,Afternoon,Khammam,Hyderabad,89,Weekend,194.9,234,10,Weekend,18743.4,0,Saturday,0,1,3
+2024-01-20,Evening,Tirupati,Nellore,256,Weekend,136.37,164,10,Weekend,37785.6,1,Saturday,1,1,3
+2024-01-20,Evening,Rajahmundry,Kurnool,244,Weekend,494.02,593,15,Weekend,122988.2,0,Saturday,1,1,3
+2024-01-20,Night,Hyderabad,Mahbubnagar,148,Weekend,99.48,119,10,Weekend,15850.800000000001,0,Saturday,3,1,3
+2024-01-21,Afternoon,Nellore,Nizamabad,154,Weekend,627.42,753,15,Weekend,98567.7,0,Sunday,0,1,3
+2024-01-21,Afternoon,Kadapa,Visakhapatnam,133,Weekend,744.57,893,10,Weekend,106892.1,0,Sunday,0,1,3
+2024-01-21,Morning,Hyderabad,Kakinada,167,Weekend,459.86,552,15,Weekend,78356.4,0,Sunday,2,1,3
+2024-01-22,Evening,Rajahmundry,Hyderabad,186,Weekday,400.95,481,5,No Event,84992.7,0,Monday,1,0,2
+2024-01-22,Evening,Kurnool,Vijayawada,238,Weekday,336.5,404,5,No Event,91344.4,0,Monday,1,0,2
+2024-01-22,Night,Kurnool,Rajahmundry,100,Weekday,494.02,593,3,No Event,57521.0,0,Monday,3,0,2
+2024-01-22,Morning,Warangal,Khammam,178,Weekday,118.24,142,0,No Event,25276.0,0,Monday,2,0,2
+2024-01-22,Morning,Kurnool,Kadapa,205,Weekday,200.49,241,0,No Event,49405.0,0,Monday,2,0,2
+2024-01-23,Morning,Kurnool,Secunderabad,150,Weekday,219.87,264,2,No Event,38808.0,0,Tuesday,2,0,2
+2024-01-23,Evening,Hyderabad,Kadapa,305,Weekday,411.52,494,3,No Event,146149.9,1,Tuesday,1,0,2
+2024-01-24,Morning,Khammam,Nellore,142,Weekday,369.57,443,2,No Event,61647.88,0,Wednesday,2,0,2
+2024-01-24,Morning,Visakhapatnam,Mahbubnagar,146,Weekday,699.2,839,2,No Event,120044.12,0,Wednesday,2,0,2
+2024-01-24,Evening,Tirupati,Guntur,315,Weekday,381.39,458,0,No Event,144270.0,1,Wednesday,1,0,2
+2024-01-25,Evening,Kakinada,Nalagonda,182,Weekday,925.6,1111,0,No Event,202202.0,0,Thursday,1,0,2
+2024-01-25,Evening,Nellore,Vijayawada,240,Weekday,280.37,336,2,No Event,79027.2,0,Thursday,1,0,2
+2024-01-26,Morning,Nalagonda,Guntur,168,Weekday,692.13,831,5,No Event,132627.6,0,Friday,2,0,2
+2024-01-26,Evening,Warangal,Secunderabad,269,Weekday,147.79,177,1,No Event,47136.87,1,Friday,1,0,2
+2024-01-27,Evening,Kadapa,Kakinada,267,Weekend,583.93,701,15,Weekend,159091.94999999998,1,Saturday,1,1,3
+2024-01-27,Afternoon,Rajahmundry,Guntur,180,Weekend,195.41,234,15,Weekend,35802.0,0,Saturday,0,1,3
+2024-01-27,Morning,Vijayawada,Nizamabad,213,Weekend,418.49,502,10,Weekend,96233.40000000001,0,Saturday,2,1,3
+2024-01-27,Morning,Nalagonda,Hyderabad,225,Weekend,769.79,924,15,Weekend,176715.0,0,Saturday,2,1,3
+2024-01-28,Evening,Hyderabad,Kurnool,185,Weekend,213.32,256,15,Weekend,40256.0,0,Sunday,1,1,3
+2024-01-28,Night,Secunderabad,Nellore,68,Weekend,462.5,555,15,Weekend,32079.0,0,Sunday,3,1,3
+2024-01-28,Morning,Karimnagar,Visakhapatnam,229,Weekend,603.1,724,15,Weekend,140926.6,0,Sunday,2,1,3
+2024-01-28,Afternoon,Tenali,Khammam,153,Weekend,160.85,193,10,Weekend,26576.100000000002,0,Sunday,0,1,3
+2024-01-28,Morning,Kakinada,Guntur,226,Weekend,254.32,305,10,Weekend,62037.0,0,Sunday,2,1,3
+2024-01-28,Morning,Nizamabad,Tenali,224,Weekend,449.04,539,10,Weekend,108662.40000000001,0,Sunday,2,1,3
+2024-01-29,Night,Rajahmundry,Mahbubnagar,88,Weekday,495.83,595,5,No Event,49742.0,0,Monday,3,0,2
+2024-01-29,Afternoon,Kurnool,Kadapa,109,Weekday,200.49,241,0,No Event,26269.0,0,Monday,0,0,2
+2024-01-29,Morning,Karimnagar,Warangal,193,Weekday,79.27,95,3,No Event,17784.95,0,Monday,2,0,2
+2024-01-29,Evening,Khammam,Rajahmundry,286,Weekday,204.64,246,1,No Event,69652.44,1,Monday,1,0,2
+2024-01-30,Evening,Tirupati,Nellore,213,Weekday,136.37,164,5,No Event,33185.4,0,Tuesday,1,0,2
+2024-01-30,Afternoon,Guntur,Hyderabad,111,Weekday,270.74,325,3,No Event,34992.75,0,Tuesday,0,0,2
+2024-01-31,Evening,Nizamabad,Visakhapatnam,216,Weekday,742.62,891,2,No Event,188606.88,0,Wednesday,1,0,2
+2024-01-31,Afternoon,Tirupati,Mahbubnagar,161,Weekday,460.0,552,3,No Event,86205.84,0,Wednesday,0,0,2
+2024-01-31,Evening,Vijayawada,Hyderabad,303,Weekday,276.02,331,1,No Event,99290.06999999999,1,Wednesday,1,0,2
+2024-01-31,Night,Nizamabad,Nalagonda,111,Weekday,944.12,1133,0,No Event,125763.0,0,Wednesday,3,0,2
+2024-01-31,Night,Rajahmundry,Visakhapatnam,60,Weekday,212.8,255,4,No Event,14688.0,0,Wednesday,3,0,2
+2024-02-01,Evening,Hyderabad,Kakinada,259,Weekday,459.86,552,5,No Event,135819.6,1,Thursday,1,0,2
+2024-02-01,Night,Nizamabad,Tenali,126,Weekday,449.04,539,1,No Event,67234.86,0,Thursday,3,0,2
+2024-02-02,Evening,Karimnagar,Mahbubnagar,291,Weekday,309.11,371,5,No Event,102562.95,1,Friday,1,0,2
+2024-02-03,Morning,Hyderabad,Warangal,175,Weekend,149.36,179,15,Weekend,26626.25,0,Saturday,2,1,3
+2024-02-03,Evening,Visakhapatnam,Nellore,303,Weekend,641.27,770,15,Weekend,198313.5,1,Saturday,1,1,3
+2024-02-04,Evening,Mahbubnagar,Guntur,220,Weekend,310.15,372,15,Weekend,69564.0,0,Sunday,1,1,3
+2024-02-04,Morning,Warangal,Tenali,238,Weekend,274.84,330,10,Weekend,70686.0,0,Sunday,2,1,3
+2024-02-04,Morning,Tenali,Hyderabad,225,Weekend,298.51,358,15,Weekend,68467.5,0,Sunday,2,1,3
+2024-02-04,Evening,Nellore,Kadapa,231,Weekend,174.93,210,15,Weekend,41233.5,0,Sunday,1,1,3
+2024-02-04,Morning,Kakinada,Nellore,196,Weekend,478.79,575,10,Weekend,101430.0,0,Sunday,2,1,3
+2024-02-04,Evening,Kadapa,Kurnool,226,Weekend,200.49,241,15,Weekend,46296.1,0,Sunday,1,1,3
+2024-02-04,Afternoon,Nizamabad,Warangal,191,Weekend,227.44,273,15,Weekend,44321.549999999996,0,Sunday,0,1,3
+2024-02-04,Night,Tenali,Nizamabad,61,Weekend,449.04,539,10,Weekend,29591.100000000002,0,Sunday,3,1,3
+2024-02-05,Afternoon,Hyderabad,Visakhapatnam,130,Weekday,604.32,725,0,No Event,94250.0,0,Monday,0,0,2
+2024-02-05,Afternoon,Tenali,Vijayawada,176,Weekday,33.07,40,0,No Event,7040.0,0,Monday,0,0,2
+2024-02-06,Evening,Secunderabad,Guntur,226,Weekday,276.86,332,2,No Event,73531.36,0,Tuesday,1,0,2
+2024-02-06,Night,Guntur,Kurnool,142,Weekday,297.53,357,4,No Event,48666.24,0,Tuesday,3,0,2
+2024-02-06,Night,Rajahmundry,Secunderabad,78,Weekday,405.46,487,5,No Event,36086.7,0,Tuesday,3,0,2
+2024-02-06,Morning,Kurnool,Visakhapatnam,236,Weekday,697.39,837,1,No Event,195556.68,0,Tuesday,2,0,2
+2024-02-07,Evening,Rajahmundry,Nizamabad,317,Weekday,539.25,647,1,No Event,203048.01,1,Wednesday,1,0,2
+2024-02-07,Evening,Khammam,Kadapa,218,Weekday,412.49,495,1,No Event,106830.9,0,Wednesday,1,0,2
+2024-02-07,Evening,Guntur,Vijayawada,245,Weekday,37.88,45,2,No Event,10804.5,0,Wednesday,1,0,2
+2024-02-07,Morning,Karimnagar,Nalagonda,207,Weekday,990.59,1189,4,No Event,236278.08,0,Wednesday,2,0,2
+2024-02-08,Evening,Vijayawada,Hyderabad,240,Weekday,276.02,331,1,No Event,78645.6,0,Thursday,1,0,2
+2024-02-08,Night,Tenali,Karimnagar,73,Weekday,351.2,421,0,No Event,30733.0,0,Thursday,3,0,2
+2024-02-08,Afternoon,Kurnool,Nalagonda,175,Weekday,561.65,674,4,No Event,113232.0,0,Thursday,0,0,2
+2024-02-09,Morning,Khammam,Kadapa,172,Weekday,412.49,495,1,No Event,84288.6,0,Friday,2,0,2
+2024-02-09,Night,Nellore,Kadapa,60,Weekday,174.93,210,4,No Event,12096.0,0,Friday,3,0,2
+2024-02-09,Night,Nellore,Nizamabad,82,Weekday,627.42,753,2,No Event,60511.08,0,Friday,3,0,2
+2024-02-09,Night,Nalagonda,Kakinada,103,Weekday,925.6,1111,3,No Event,111000.01,0,Friday,3,0,2
+2024-02-09,Afternoon,Guntur,Nellore,130,Weekday,245.33,294,4,No Event,36691.2,0,Friday,0,0,2
+2024-02-10,Afternoon,Nellore,Visakhapatnam,80,Weekend,641.27,770,15,Weekend,52360.0,0,Saturday,0,1,3
+2024-02-10,Evening,Kurnool,Vijayawada,224,Weekend,336.5,404,15,Weekend,76921.59999999999,0,Saturday,1,1,3
+2024-02-10,Evening,Nalagonda,Guntur,192,Weekend,692.13,831,15,Weekend,135619.19999999998,0,Saturday,1,1,3
+2024-02-10,Evening,Nizamabad,Kurnool,186,Weekend,385.09,462,15,Weekend,73042.2,0,Saturday,1,1,3
+2024-02-11,Evening,Tenali,Visakhapatnam,191,Weekend,393.96,473,10,Weekend,81308.7,0,Sunday,1,1,3
+2024-02-11,Afternoon,Mahbubnagar,Karimnagar,136,Weekend,309.11,371,10,Weekend,45410.4,0,Sunday,0,1,3
+2024-02-11,Evening,Visakhapatnam,Rajahmundry,268,Weekend,212.8,255,10,Weekend,61506.0,1,Sunday,1,1,3
+2024-02-11,Morning,Khammam,Tenali,200,Weekend,160.85,193,15,Weekend,32810.0,0,Sunday,2,1,3
+2024-02-11,Evening,Karimnagar,Nizamabad,316,Weekend,148.92,179,15,Weekend,48079.4,1,Sunday,1,1,3
+2024-02-11,Night,Rajahmundry,Nizamabad,137,Weekend,539.25,647,10,Weekend,79775.1,0,Sunday,3,1,3
+2024-02-11,Afternoon,Kurnool,Visakhapatnam,179,Weekend,697.39,837,10,Weekend,134840.7,0,Sunday,0,1,3
+2024-02-11,Night,Vijayawada,Khammam,137,Weekend,130.3,156,10,Weekend,19234.8,0,Sunday,3,1,3
+2024-02-12,Afternoon,Visakhapatnam,Nellore,120,Weekday,641.27,770,3,No Event,89628.0,0,Monday,0,0,2
+2024-02-13,Evening,Guntur,Tenali,296,Weekday,30.72,37,5,No Event,10404.4,1,Tuesday,1,0,2
+2024-02-13,Night,Kakinada,Rajahmundry,126,Weekday,60.27,72,1,No Event,8981.28,0,Tuesday,3,0,2
+2024-02-13,Afternoon,Nizamabad,Kadapa,91,Weekday,585.59,703,1,No Event,63333.27,0,Tuesday,0,0,2
+2024-02-13,Morning,Mahbubnagar,Guntur,242,Weekday,310.15,372,2,No Event,88223.52,0,Tuesday,2,0,2
+2024-02-13,Evening,Warangal,Tirupati,267,Weekday,605.06,726,0,No Event,193842.0,1,Tuesday,1,0,2
+2024-02-13,Evening,Kadapa,Rajahmundry,205,Weekday,541.2,649,5,No Event,126392.75,0,Tuesday,1,0,2
+2024-02-13,Afternoon,Nizamabad,Visakhapatnam,146,Weekday,742.62,891,2,No Event,127484.28,0,Tuesday,0,0,2
+2024-02-13,Morning,Rajahmundry,Secunderabad,169,Weekday,405.46,487,5,No Event,78187.84999999999,0,Tuesday,2,0,2
+2024-02-14,Evening,Kurnool,Guntur,296,Weekday,297.53,357,2,No Event,103558.56,1,Wednesday,1,0,2
+2024-02-14,Afternoon,Mahbubnagar,Tirupati,145,Weekday,460.0,552,1,No Event,79239.6,0,Wednesday,0,0,2
+2024-02-14,Evening,Rajahmundry,Nellore,190,Weekday,437.9,525,1,No Event,98752.5,0,Wednesday,1,0,2
+2024-02-14,Morning,Visakhapatnam,Guntur,187,Weekday,398.78,479,4,No Event,85990.08,0,Wednesday,2,0,2
+2024-02-15,Night,Nellore,Mahbubnagar,99,Weekday,439.84,528,5,No Event,49658.399999999994,0,Thursday,3,0,2
+2024-02-15,Night,Nizamabad,Visakhapatnam,115,Weekday,742.62,891,2,No Event,100415.7,0,Thursday,3,0,2
+2024-02-15,Evening,Khammam,Warangal,235,Weekday,118.24,142,4,No Event,32035.199999999997,0,Thursday,1,0,2
+2024-02-15,Morning,Hyderabad,Kakinada,138,Weekday,459.86,552,5,No Event,72367.2,0,Thursday,2,0,2
+2024-02-15,Morning,Nellore,Kadapa,227,Weekday,174.93,210,4,No Event,45763.2,0,Thursday,2,0,2
+2024-02-16,Evening,Mahbubnagar,Guntur,277,Weekday,310.15,372,2,No Event,100983.12,1,Friday,1,0,2
+2024-02-16,Morning,Rajahmundry,Nalagonda,202,Weekday,884.3,1061,4,No Event,205749.12,0,Friday,2,0,2
+2024-02-16,Morning,Mahbubnagar,Kadapa,222,Weekday,321.38,386,3,No Event,83121.23999999999,0,Friday,2,0,2
+2024-02-16,Afternoon,Nellore,Karimnagar,166,Weekday,543.78,653,2,No Event,106230.04,0,Friday,0,0,2
+2024-02-16,Afternoon,Kakinada,Tirupati,176,Weekday,614.86,738,0,No Event,129888.0,0,Friday,0,0,2
+2024-02-16,Night,Rajahmundry,Nalagonda,70,Weekday,884.3,1061,4,No Event,71299.2,0,Friday,3,0,2
+2024-02-17,Evening,Kakinada,Mahbubnagar,238,Weekend,548.14,658,15,Weekend,133113.4,0,Saturday,1,1,3
+2024-02-17,Night,Kurnool,Kadapa,142,Weekend,200.49,241,10,Weekend,30799.8,0,Saturday,3,1,3
+2024-02-17,Evening,Tenali,Guntur,197,Weekend,30.72,37,10,Weekend,6560.1,0,Saturday,1,1,3
+2024-02-17,Night,Warangal,Mahbubnagar,95,Weekend,244.22,293,10,Weekend,25051.5,0,Saturday,3,1,3
+2024-02-17,Morning,Visakhapatnam,Warangal,230,Weekend,525.98,631,15,Weekend,123360.5,0,Saturday,2,1,3
+2024-02-17,Night,Nellore,Nizamabad,149,Weekend,627.42,753,15,Weekend,95367.45,0,Saturday,3,1,3
+2024-02-17,Night,Tenali,Khammam,149,Weekend,160.85,193,10,Weekend,25881.3,0,Saturday,3,1,3
+2024-02-18,Morning,Khammam,Visakhapatnam,240,Weekend,408.01,490,10,Weekend,105840.0,0,Sunday,2,1,3
+2024-02-18,Night,Khammam,Guntur,147,Weekend,166.01,199,10,Weekend,26327.7,0,Sunday,3,1,3
+2024-02-18,Evening,Nellore,Nalagonda,239,Weekend,447.56,537,10,Weekend,115508.7,0,Sunday,1,1,3
+2024-02-18,Evening,Kurnool,Guntur,293,Weekend,297.53,357,15,Weekend,88910.84999999999,1,Sunday,1,1,3
+2024-02-19,Morning,Tenali,Rajahmundry,146,Weekday,190.49,229,1,No Event,33099.659999999996,0,Monday,2,0,2
+2024-02-19,Afternoon,Kakinada,Mahbubnagar,89,Weekday,548.14,658,3,No Event,56805.14,0,Monday,0,0,2
+2024-02-20,Night,Guntur,Hyderabad,144,Weekday,270.74,325,3,No Event,45396.0,0,Tuesday,3,0,2
+2024-02-20,Morning,Nalagonda,Vijayawada,128,Weekday,726.77,872,0,No Event,111616.0,0,Tuesday,2,0,2
+2024-02-20,Evening,Warangal,Hyderabad,234,Weekday,149.36,179,1,No Event,41467.14,0,Tuesday,1,0,2
+2024-02-20,Night,Guntur,Khammam,108,Weekday,166.01,199,1,No Event,21277.079999999998,0,Tuesday,3,0,2
+2024-02-20,Night,Secunderabad,Rajahmundry,97,Weekday,405.46,487,4,No Event,45349.439999999995,0,Tuesday,3,0,2
+2024-02-21,Morning,Guntur,Rajahmundry,221,Weekday,195.41,234,1,No Event,51196.86,0,Wednesday,2,0,2
+2024-02-21,Evening,Khammam,Mahbubnagar,232,Weekday,283.12,340,1,No Event,78091.2,0,Wednesday,1,0,2
+2024-02-21,Morning,Kurnool,Warangal,213,Weekday,355.52,427,0,No Event,90951.0,0,Wednesday,2,0,2
+2024-02-21,Morning,Nizamabad,Vijayawada,163,Weekday,418.49,502,1,No Event,81007.74,0,Wednesday,2,0,2
+2024-02-22,Morning,Tirupati,Mahbubnagar,132,Weekday,460.0,552,3,No Event,70678.08,0,Thursday,2,0,2
+2024-02-23,Evening,Mahbubnagar,Visakhapatnam,205,Weekday,699.2,839,5,No Event,163395.25,0,Friday,1,0,2
+2024-02-23,Morning,Kadapa,Visakhapatnam,235,Weekday,744.57,893,0,No Event,209855.0,0,Friday,2,0,2
+2024-02-24,Morning,Kadapa,Nizamabad,170,Weekend,585.59,703,10,Weekend,107559.0,0,Saturday,2,1,3
+2024-02-24,Morning,Warangal,Kadapa,137,Weekend,493.86,593,15,Weekend,69054.84999999999,0,Saturday,2,1,3
+2024-02-24,Evening,Visakhapatnam,Secunderabad,187,Weekend,610.32,732,15,Weekend,116351.4,0,Saturday,1,1,3
+2024-02-25,Morning,Kadapa,Vijayawada,123,Weekend,383.68,460,15,Weekend,48093.0,0,Sunday,2,1,3
+2024-02-25,Afternoon,Secunderabad,Hyderabad,148,Weekend,9.46,11,15,Weekend,1383.8,0,Sunday,0,1,3
+2024-02-25,Afternoon,Kakinada,Kadapa,164,Weekend,583.93,701,15,Weekend,97719.4,0,Sunday,0,1,3
+2024-02-25,Night,Kakinada,Karimnagar,73,Weekend,458.76,551,10,Weekend,36200.700000000004,0,Sunday,3,1,3
+2024-02-26,Evening,Nellore,Kadapa,210,Weekday,174.93,210,4,No Event,42336.0,0,Monday,1,0,2
+2024-02-26,Evening,Nellore,Rajahmundry,264,Weekday,437.9,525,0,No Event,138600.0,1,Monday,1,0,2
+2024-02-27,Morning,Khammam,Rajahmundry,120,Weekday,204.64,246,1,No Event,29224.8,0,Tuesday,2,0,2
+2024-02-28,Night,Mahbubnagar,Nizamabad,122,Weekday,273.79,329,4,No Event,38532.479999999996,0,Wednesday,3,0,2
+2024-02-28,Morning,Tirupati,Nalagonda,144,Weekday,316.03,379,2,No Event,53484.479999999996,0,Wednesday,2,0,2
+2024-02-29,Afternoon,Kakinada,Tirupati,154,Weekday,614.86,738,0,No Event,113652.0,0,Thursday,0,0,2
+2024-02-29,Evening,Kurnool,Nellore,243,Weekday,322.85,387,3,No Event,91219.77,0,Thursday,1,0,2
+2024-02-29,Morning,Khammam,Nizamabad,200,Weekday,332.21,399,3,No Event,77406.0,0,Thursday,2,0,2
+2024-03-01,Afternoon,Karimnagar,Kadapa,94,Weekday,570.65,685,0,No Event,64390.0,0,Friday,0,0,2
+2024-03-01,Morning,Nellore,Tirupati,250,Weekday,136.37,164,0,No Event,41000.0,0,Friday,2,0,2
+2024-03-01,Morning,Secunderabad,Tenali,230,Weekday,304.51,365,3,No Event,81431.5,0,Friday,2,0,2
+2024-03-01,Morning,Nalagonda,Tenali,210,Weekday,699.42,839,1,No Event,174428.1,0,Friday,2,0,2
+2024-03-01,Morning,Mahbubnagar,Warangal,249,Weekday,244.22,293,0,No Event,72957.0,0,Friday,2,0,2
+2024-03-02,Evening,Rajahmundry,Tirupati,314,Weekend,573.02,688,15,Weekend,183627.19999999998,1,Saturday,1,1,3
+2024-03-02,Morning,Tenali,Mahbubnagar,155,Weekend,350.45,421,15,Weekend,55466.75,0,Saturday,2,1,3
+2024-03-02,Afternoon,Mahbubnagar,Khammam,134,Weekend,283.12,340,10,Weekend,41004.0,0,Saturday,0,1,3
+2024-03-02,Night,Warangal,Hyderabad,132,Weekend,149.36,179,10,Weekend,21265.2,0,Saturday,3,1,3
+2024-03-03,Evening,Tirupati,Rajahmundry,262,Weekend,573.02,688,15,Weekend,153217.6,1,Sunday,1,1,3
+2024-03-03,Night,Vijayawada,Tirupati,132,Weekend,414.77,498,10,Weekend,59162.4,0,Sunday,3,1,3
+2024-03-03,Night,Vijayawada,Khammam,115,Weekend,130.3,156,10,Weekend,16146.0,0,Sunday,3,1,3
+2024-03-03,Evening,Guntur,Hyderabad,275,Weekend,270.74,325,15,Weekend,75968.75,1,Sunday,1,1,3
+2024-03-03,Evening,Kurnool,Kadapa,318,Weekend,200.49,241,10,Weekend,68974.2,1,Sunday,1,1,3
+2024-03-03,Morning,Secunderabad,Guntur,130,Weekend,276.86,332,15,Weekend,36686.0,0,Sunday,2,1,3
+2024-03-03,Night,Secunderabad,Rajahmundry,107,Weekend,405.46,487,10,Weekend,46898.1,0,Sunday,3,1,3
+2024-03-03,Morning,Khammam,Nalagonda,208,Weekend,816.37,980,10,Weekend,183456.0,0,Sunday,2,1,3
+2024-03-04,Evening,Karimnagar,Vijayawada,301,Weekday,320.65,385,4,No Event,111249.59999999999,1,Monday,1,0,2
+2024-03-04,Morning,Kurnool,Mahbubnagar,226,Weekday,120.89,145,2,No Event,32114.6,0,Monday,2,0,2
+2024-03-04,Evening,Hyderabad,Nellore,214,Weekday,454.19,545,4,No Event,111964.8,0,Monday,1,0,2
+2024-03-05,Evening,Kadapa,Warangal,271,Weekday,493.86,593,0,No Event,160703.0,1,Tuesday,1,0,2
+2024-03-05,Morning,Vijayawada,Nizamabad,179,Weekday,418.49,502,4,No Event,86263.68,0,Tuesday,2,0,2
+2024-03-05,Morning,Secunderabad,Guntur,137,Weekday,276.86,332,2,No Event,44574.32,0,Tuesday,2,0,2
+2024-03-05,Afternoon,Warangal,Guntur,81,Weekday,279.65,336,4,No Event,26127.36,0,Tuesday,0,0,2
+2024-03-05,Morning,Nalagonda,Mahbubnagar,144,Weekday,678.63,814,0,No Event,117216.0,0,Tuesday,2,0,2
+2024-03-05,Night,Mahbubnagar,Khammam,85,Weekday,283.12,340,5,No Event,27455.0,0,Tuesday,3,0,2
+2024-03-05,Afternoon,Khammam,Karimnagar,87,Weekday,195.0,234,3,No Event,19747.26,0,Tuesday,0,0,2
+2024-03-06,Morning,Hyderabad,Nellore,184,Weekday,454.19,545,4,No Event,96268.8,0,Wednesday,2,0,2
+2024-03-06,Evening,Nellore,Kurnool,266,Weekday,322.85,387,4,No Event,98824.31999999999,1,Wednesday,1,0,2
+2024-03-06,Morning,Warangal,Hyderabad,190,Weekday,149.36,179,1,No Event,33669.9,0,Wednesday,2,0,2
+2024-03-07,Afternoon,Kadapa,Tenali,112,Weekday,356.33,428,3,No Event,46497.92,0,Thursday,0,0,2
+2024-03-07,Morning,Secunderabad,Mahbubnagar,244,Weekday,108.57,130,2,No Event,31085.6,0,Thursday,2,0,2
+2024-03-07,Evening,Tenali,Karimnagar,228,Weekday,351.2,421,0,No Event,95988.0,0,Thursday,1,0,2
+2024-03-08,Evening,Kadapa,Mahbubnagar,320,Weekday,321.38,386,0,No Event,123520.0,1,Friday,1,0,2
+2024-03-08,Morning,Nalagonda,Secunderabad,135,Weekday,778.9,935,2,No Event,123700.5,0,Friday,2,0,2
+2024-03-08,Evening,Visakhapatnam,Mahbubnagar,252,Weekday,699.2,839,2,No Event,207199.44,1,Friday,1,0,2
+2024-03-09,Morning,Kurnool,Tirupati,186,Weekend,343.02,412,15,Weekend,65137.2,0,Saturday,2,1,3
+2024-03-09,Afternoon,Warangal,Kurnool,138,Weekend,355.52,427,10,Weekend,53033.4,0,Saturday,0,1,3
+2024-03-09,Evening,Kakinada,Nellore,300,Weekend,478.79,575,10,Weekend,155250.0,1,Saturday,1,1,3
+2024-03-10,Afternoon,Khammam,Kurnool,144,Weekend,396.97,476,15,Weekend,58262.4,0,Sunday,0,1,3
+2024-03-11,Morning,Visakhapatnam,Hyderabad,186,Weekday,604.32,725,4,No Event,129456.0,0,Monday,2,0,2
+2024-03-12,Night,Rajahmundry,Mahbubnagar,61,Weekday,495.83,595,5,No Event,34480.25,0,Tuesday,3,0,2
+2024-03-12,Afternoon,Nellore,Kurnool,121,Weekday,322.85,387,4,No Event,44953.92,0,Tuesday,0,0,2
+2024-03-12,Evening,Kurnool,Nalagonda,241,Weekday,561.65,674,4,No Event,155936.63999999998,0,Tuesday,1,0,2
+2024-03-12,Evening,Tirupati,Visakhapatnam,217,Weekday,775.66,931,2,No Event,197986.46,0,Tuesday,1,0,2
+2024-03-13,Morning,Tenali,Nellore,192,Weekday,253.03,304,5,No Event,55449.6,0,Wednesday,2,0,2
+2024-03-13,Afternoon,Kadapa,Warangal,85,Weekday,493.86,593,0,No Event,50405.0,0,Wednesday,0,0,2
+2024-03-13,Morning,Mahbubnagar,Tirupati,122,Weekday,460.0,552,1,No Event,66670.56,0,Wednesday,2,0,2
+2024-03-13,Night,Visakhapatnam,Vijayawada,72,Weekday,361.84,434,2,No Event,30623.04,0,Wednesday,3,0,2
+2024-03-13,Morning,Visakhapatnam,Kurnool,242,Weekday,697.39,837,0,No Event,202554.0,0,Wednesday,2,0,2
+2024-03-13,Night,Visakhapatnam,Vijayawada,128,Weekday,361.84,434,2,No Event,54440.96,0,Wednesday,3,0,2
+2024-03-14,Evening,Kadapa,Mahbubnagar,200,Weekday,321.38,386,0,No Event,77200.0,0,Thursday,1,0,2
+2024-03-14,Morning,Tenali,Kadapa,206,Weekday,356.33,428,2,No Event,86404.64,0,Thursday,2,0,2
+2024-03-14,Afternoon,Kurnool,Secunderabad,144,Weekday,219.87,264,2,No Event,37255.68,0,Thursday,0,0,2
+2024-03-14,Evening,Mahbubnagar,Kakinada,255,Weekday,548.14,658,2,No Event,164434.19999999998,1,Thursday,1,0,2
+2024-03-14,Morning,Kurnool,Kadapa,196,Weekday,200.49,241,0,No Event,47236.0,0,Thursday,2,0,2
+2024-03-14,Evening,Guntur,Nizamabad,230,Weekday,441.78,530,1,No Event,120681.0,0,Thursday,1,0,2
+2024-03-14,Night,Tenali,Kadapa,74,Weekday,356.33,428,2,No Event,31038.559999999998,0,Thursday,3,0,2
+2024-03-14,Evening,Vijayawada,Nellore,263,Weekday,280.37,336,3,No Event,85716.95999999999,1,Thursday,1,0,2
+2024-03-15,Morning,Tenali,Kadapa,250,Weekday,356.33,428,2,No Event,104860.0,0,Friday,2,0,2
+2024-03-15,Morning,Warangal,Mahbubnagar,143,Weekday,244.22,293,1,No Event,41480.01,0,Friday,2,0,2
+2024-03-15,Evening,Visakhapatnam,Rajahmundry,180,Weekday,212.8,255,0,No Event,45900.0,0,Friday,1,0,2
+2024-03-15,Night,Secunderabad,Nellore,106,Weekday,462.5,555,3,No Event,57065.1,0,Friday,3,0,2
+2024-03-15,Afternoon,Nizamabad,Vijayawada,141,Weekday,418.49,502,1,No Event,70074.18,0,Friday,0,0,2
+2024-03-16,Morning,Rajahmundry,Nellore,128,Weekend,437.9,525,10,Weekend,60480.0,0,Saturday,2,1,3
+2024-03-16,Morning,Kadapa,Kakinada,175,Weekend,583.93,701,15,Weekend,104273.75,0,Saturday,2,1,3
+2024-03-16,Morning,Nizamabad,Vijayawada,204,Weekend,418.49,502,10,Weekend,92167.2,0,Saturday,2,1,3
+2024-03-16,Evening,Tirupati,Guntur,202,Weekend,381.39,458,10,Weekend,83264.40000000001,0,Saturday,1,1,3
+2024-03-17,Night,Kakinada,Mahbubnagar,96,Weekend,548.14,658,15,Weekend,53692.799999999996,0,Sunday,3,1,3
+2024-03-17,Afternoon,Guntur,Tirupati,150,Weekend,381.39,458,10,Weekend,61830.0,0,Sunday,0,1,3
+2024-03-17,Afternoon,Khammam,Nellore,105,Weekend,369.57,443,15,Weekend,39537.75,0,Sunday,0,1,3
+2024-03-17,Afternoon,Khammam,Visakhapatnam,154,Weekend,408.01,490,10,Weekend,67914.0,0,Sunday,0,1,3
+2024-03-18,Evening,Karimnagar,Mahbubnagar,189,Weekday,309.11,371,5,No Event,66613.05,0,Monday,1,0,2
+2024-03-19,Evening,Guntur,Mahbubnagar,274,Weekday,310.15,372,4,No Event,97850.87999999999,1,Tuesday,1,0,2
+2024-03-19,Night,Vijayawada,Khammam,93,Weekday,130.3,156,1,No Event,14362.92,0,Tuesday,3,0,2
+2024-03-19,Afternoon,Karimnagar,Mahbubnagar,84,Weekday,309.11,371,5,No Event,29605.8,0,Tuesday,0,0,2
+2024-03-20,Evening,Rajahmundry,Vijayawada,312,Weekday,158.45,190,4,No Event,56908.799999999996,1,Wednesday,1,0,2
+2024-03-20,Night,Warangal,Kurnool,80,Weekday,355.52,427,0,No Event,34160.0,0,Wednesday,3,0,2
+2024-03-20,Evening,Warangal,Tenali,241,Weekday,274.84,330,0,No Event,79530.0,0,Wednesday,1,0,2
+2024-03-20,Night,Karimnagar,Secunderabad,68,Weekday,173.04,208,2,No Event,13861.119999999999,0,Wednesday,3,0,2
+2024-03-20,Night,Warangal,Nizamabad,137,Weekday,227.44,273,2,No Event,36652.979999999996,0,Wednesday,3,0,2
+2024-03-21,Evening,Warangal,Khammam,294,Weekday,118.24,142,0,No Event,41748.0,1,Thursday,1,0,2
+2024-03-21,Evening,Kurnool,Secunderabad,211,Weekday,219.87,264,2,No Event,54589.92,0,Thursday,1,0,2
+2024-03-21,Morning,Nellore,Karimnagar,206,Weekday,543.78,653,2,No Event,131827.63999999998,0,Thursday,2,0,2
+2024-03-22,Morning,Khammam,Secunderabad,132,Weekday,199.31,239,2,No Event,30917.04,0,Friday,2,0,2
+2024-03-23,Night,Tenali,Hyderabad,107,Weekend,298.51,358,15,Weekend,32560.1,0,Saturday,3,1,3
+2024-03-24,Evening,Nizamabad,Warangal,315,Weekend,227.44,273,15,Weekend,73095.75,1,Sunday,1,1,3
+2024-03-24,Afternoon,Hyderabad,Karimnagar,117,Weekend,213.92,257,10,Weekend,27062.100000000002,0,Sunday,0,1,3
+2024-03-25,Morning,Mahbubnagar,Secunderabad,240,Weekday,108.57,130,2,No Event,30576.0,0,Monday,2,0,2
+2024-03-25,Night,Guntur,Karimnagar,102,Weekday,356.45,428,5,No Event,41473.2,0,Monday,3,0,2
+2024-03-25,Morning,Secunderabad,Rajahmundry,140,Weekday,405.46,487,4,No Event,65452.799999999996,0,Monday,2,0,2
+2024-03-25,Night,Mahbubnagar,Kadapa,89,Weekday,321.38,386,3,No Event,33323.38,0,Monday,3,0,2
+2024-03-25,Morning,Nizamabad,Karimnagar,216,Weekday,148.92,179,4,No Event,37117.439999999995,0,Monday,2,0,2
+2024-03-26,Afternoon,Kadapa,Hyderabad,95,Weekday,411.52,494,3,No Event,45522.1,0,Tuesday,0,0,2
+2024-03-26,Afternoon,Secunderabad,Mahbubnagar,141,Weekday,108.57,130,2,No Event,17963.4,0,Tuesday,0,0,2
+2024-03-26,Morning,Nellore,Hyderabad,203,Weekday,454.19,545,4,No Event,106209.59999999999,0,Tuesday,2,0,2
+2024-03-26,Morning,Visakhapatnam,Warangal,172,Weekday,525.98,631,2,No Event,106361.36,0,Tuesday,2,0,2
+2024-03-26,Evening,Kurnool,Visakhapatnam,189,Weekday,697.39,837,1,No Event,156611.07,0,Tuesday,1,0,2
+2024-03-26,Evening,Tirupati,Guntur,236,Weekday,381.39,458,0,No Event,108088.0,0,Tuesday,1,0,2
+2024-03-26,Morning,Kadapa,Nalagonda,246,Weekday,409.42,491,0,No Event,120786.0,0,Tuesday,2,0,2
+2024-03-26,Afternoon,Guntur,Kurnool,191,Weekday,297.53,357,4,No Event,65459.52,0,Tuesday,0,0,2
+2024-03-26,Afternoon,Nellore,Vijayawada,137,Weekday,280.37,336,2,No Event,45111.36,0,Tuesday,0,0,2
+2024-03-26,Afternoon,Warangal,Guntur,141,Weekday,279.65,336,4,No Event,45480.96,0,Tuesday,0,0,2
+2024-03-26,Evening,Khammam,Kadapa,191,Weekday,412.49,495,1,No Event,93599.55,0,Tuesday,1,0,2
+2024-03-26,Evening,Rajahmundry,Nalagonda,302,Weekday,884.3,1061,4,No Event,307605.12,1,Tuesday,1,0,2
+2024-03-27,Morning,Vijayawada,Warangal,164,Weekday,244.67,294,2,No Event,47251.68,0,Wednesday,2,0,2
+2024-03-27,Night,Secunderabad,Warangal,77,Weekday,147.79,177,3,No Event,13220.13,0,Wednesday,3,0,2
+2024-03-27,Night,Secunderabad,Tirupati,103,Weekday,559.94,672,3,No Event,67139.52,0,Wednesday,3,0,2
+2024-03-27,Morning,Guntur,Warangal,242,Weekday,279.65,336,2,No Event,79685.76,0,Wednesday,2,0,2
+2024-03-27,Evening,Nalagonda,Nellore,235,Weekday,447.56,537,1,No Event,124933.05,0,Wednesday,1,0,2
+2024-03-28,Morning,Vijayawada,Kakinada,241,Weekday,217.33,261,3,No Event,61013.97,0,Thursday,2,0,2
+2024-03-28,Morning,Tirupati,Khammam,166,Weekday,505.63,607,0,No Event,100762.0,0,Thursday,2,0,2
+2024-03-28,Morning,Kadapa,Hyderabad,234,Weekday,411.52,494,3,No Event,112128.12,0,Thursday,2,0,2
+2024-03-29,Night,Kakinada,Mahbubnagar,127,Weekday,548.14,658,3,No Event,81059.02,0,Friday,3,0,2
+2024-03-29,Evening,Nellore,Vijayawada,261,Weekday,280.37,336,2,No Event,85942.08,1,Friday,1,0,2
+2024-03-29,Evening,Secunderabad,Nalagonda,314,Weekday,778.9,935,3,No Event,284782.3,1,Friday,1,0,2
+2024-03-29,Afternoon,Guntur,Karimnagar,184,Weekday,356.45,428,5,No Event,74814.4,0,Friday,0,0,2
+2024-03-30,Night,Tirupati,Warangal,115,Weekend,605.06,726,15,Weekend,70966.5,0,Saturday,3,1,3
+2024-03-30,Afternoon,Karimnagar,Kakinada,174,Weekend,458.76,551,15,Weekend,81492.9,0,Saturday,0,1,3
+2024-03-31,Morning,Rajahmundry,Vijayawada,230,Weekend,158.45,190,10,Weekend,39330.0,0,Sunday,2,1,3
+2024-03-31,Afternoon,Nizamabad,Rajahmundry,129,Weekend,539.25,647,10,Weekend,75116.7,0,Sunday,0,1,3
+2024-03-31,Evening,Tirupati,Guntur,181,Weekend,381.39,458,10,Weekend,74608.2,0,Sunday,1,1,3
+2024-04-01,Afternoon,Karimnagar,Guntur,188,Weekday,356.45,428,2,No Event,78854.72,0,Monday,0,0,2
+2024-04-01,Morning,Mahbubnagar,Khammam,203,Weekday,283.12,340,5,No Event,65569.0,0,Monday,2,0,2
+2024-04-02,Morning,Kurnool,Mahbubnagar,135,Weekday,120.89,145,2,No Event,19183.5,0,Tuesday,2,0,2
+2024-04-02,Morning,Khammam,Rajahmundry,246,Weekday,204.64,246,1,No Event,59910.84,0,Tuesday,2,0,2
+2024-04-02,Evening,Karimnagar,Secunderabad,262,Weekday,173.04,208,2,No Event,53406.08,1,Tuesday,1,0,2
+2024-04-03,Afternoon,Tenali,Mahbubnagar,138,Weekday,350.45,421,3,No Event,56355.06,0,Wednesday,0,0,2
+2024-04-04,Afternoon,Vijayawada,Hyderabad,163,Weekday,276.02,331,1,No Event,53413.47,0,Thursday,0,0,2
+2024-04-04,Evening,Nizamabad,Khammam,235,Weekday,332.21,399,0,No Event,93765.0,0,Thursday,1,0,2
+2024-04-04,Morning,Karimnagar,Kadapa,217,Weekday,570.65,685,0,No Event,148645.0,0,Thursday,2,0,2
+2024-04-05,Evening,Nalagonda,Tirupati,295,Weekday,316.03,379,5,No Event,106214.75,1,Friday,1,0,2
+2024-04-05,Afternoon,Visakhapatnam,Tenali,124,Weekday,393.96,473,1,No Event,58065.479999999996,0,Friday,0,0,2
+2024-04-05,Afternoon,Kurnool,Guntur,80,Weekday,297.53,357,2,No Event,27988.8,0,Friday,0,0,2
+2024-04-05,Morning,Mahbubnagar,Karimnagar,242,Weekday,309.11,371,4,No Event,86190.72,0,Friday,2,0,2
+2024-04-05,Morning,Nizamabad,Nalagonda,139,Weekday,944.12,1133,0,No Event,157487.0,0,Friday,2,0,2
+2024-04-06,Afternoon,Secunderabad,Nalagonda,172,Weekend,778.9,935,15,Weekend,136697.0,0,Saturday,0,1,3
+2024-04-06,Morning,Guntur,Nellore,166,Weekend,245.33,294,15,Weekend,41483.4,0,Saturday,2,1,3
+2024-04-06,Evening,Mahbubnagar,Hyderabad,232,Weekend,99.48,119,15,Weekend,23466.8,0,Saturday,1,1,3
+2024-04-06,Evening,Khammam,Nizamabad,204,Weekend,332.21,399,15,Weekend,69186.59999999999,0,Saturday,1,1,3
+2024-04-06,Evening,Vijayawada,Kakinada,270,Weekend,217.33,261,15,Weekend,59899.5,1,Saturday,1,1,3
+2024-04-06,Morning,Guntur,Kakinada,189,Weekend,254.32,305,15,Weekend,48998.25,0,Saturday,2,1,3
+2024-04-07,Afternoon,Hyderabad,Secunderabad,173,Weekend,9.46,11,15,Weekend,1617.55,0,Sunday,0,1,3
+2024-04-07,Evening,Nellore,Guntur,256,Weekend,245.33,294,10,Weekend,67737.6,1,Sunday,1,1,3
+2024-04-07,Afternoon,Mahbubnagar,Khammam,80,Weekend,283.12,340,10,Weekend,24480.0,0,Sunday,0,1,3
+2024-04-08,Evening,Hyderabad,Guntur,251,Weekday,270.74,325,1,No Event,80759.25,1,Monday,1,0,2
+2024-04-08,Night,Rajahmundry,Karimnagar,87,Weekday,399.74,480,5,No Event,39672.0,0,Monday,3,0,2
+2024-04-08,Night,Karimnagar,Tirupati,139,Weekday,679.85,816,2,No Event,111155.52,0,Monday,3,0,2
+2024-04-08,Evening,Tirupati,Nizamabad,205,Weekday,726.1,871,3,No Event,173198.35,0,Monday,1,0,2
+2024-04-09,Evening,Nalagonda,Mahbubnagar,239,Weekday,678.63,814,0,No Event,194546.0,0,Tuesday,1,0,2
+2024-04-09,Evening,Tenali,Tirupati,237,Weekday,387.98,466,2,No Event,108233.16,0,Tuesday,1,0,2
+2024-04-10,Night,Secunderabad,Nellore,77,Weekday,462.5,555,3,No Event,41452.95,0,Wednesday,3,0,2
+2024-04-10,Afternoon,Kakinada,Nizamabad,191,Weekday,597.23,717,3,No Event,132838.59,0,Wednesday,0,0,2
+2024-04-10,Night,Kadapa,Khammam,75,Weekday,412.49,495,1,No Event,36753.75,0,Wednesday,3,0,2
+2024-04-10,Evening,Warangal,Mahbubnagar,303,Weekday,244.22,293,1,No Event,87891.21,1,Wednesday,1,0,2
+2024-04-10,Night,Nizamabad,Guntur,116,Weekday,441.78,530,0,No Event,61480.0,0,Wednesday,3,0,2
+2024-04-10,Night,Mahbubnagar,Hyderabad,65,Weekday,99.48,119,2,No Event,7580.3,0,Wednesday,3,0,2
+2024-04-10,Night,Hyderabad,Kakinada,99,Weekday,459.86,552,5,No Event,51915.6,0,Wednesday,3,0,2
+2024-04-11,Afternoon,Warangal,Karimnagar,88,Weekday,79.27,95,2,No Event,8192.8,0,Thursday,0,0,2
+2024-04-11,Morning,Visakhapatnam,Warangal,150,Weekday,525.98,631,2,No Event,92757.0,0,Thursday,2,0,2
+2024-04-11,Morning,Nizamabad,Rajahmundry,244,Weekday,539.25,647,4,No Event,151553.28,0,Thursday,2,0,2
+2024-04-12,Morning,Hyderabad,Kurnool,126,Weekday,213.32,256,3,No Event,31288.32,0,Friday,2,0,2
+2024-04-12,Morning,Khammam,Kurnool,188,Weekday,396.97,476,5,No Event,85013.59999999999,0,Friday,2,0,2
+2024-04-13,Afternoon,Kurnool,Secunderabad,186,Weekend,219.87,264,15,Weekend,41738.4,0,Saturday,0,1,3
+2024-04-13,Morning,Vijayawada,Rajahmundry,224,Weekend,158.45,190,15,Weekend,36176.0,0,Saturday,2,1,3
+2024-04-13,Morning,Tenali,Secunderabad,243,Weekend,304.51,365,15,Weekend,75390.75,0,Saturday,2,1,3
+2024-04-13,Morning,Tirupati,Tenali,179,Weekend,387.98,466,15,Weekend,70901.9,0,Saturday,2,1,3
+2024-04-13,Evening,Kurnool,Hyderabad,268,Weekend,213.32,256,10,Weekend,61747.200000000004,1,Saturday,1,1,3
+2024-04-13,Afternoon,Nellore,Kakinada,151,Weekend,478.79,575,15,Weekend,73801.25,0,Saturday,0,1,3
+2024-04-14,Morning,Tenali,Karimnagar,121,Weekend,351.2,421,10,Weekend,45846.9,0,Sunday,2,1,3
+2024-04-14,Evening,Karimnagar,Nellore,245,Weekend,543.78,653,15,Weekend,135987.25,0,Sunday,1,1,3
+2024-04-14,Morning,Vijayawada,Khammam,218,Weekend,130.3,156,10,Weekend,30607.2,0,Sunday,2,1,3
+2024-04-14,Morning,Nalagonda,Kadapa,238,Weekend,409.42,491,15,Weekend,99329.3,0,Sunday,2,1,3
+2024-04-14,Evening,Vijayawada,Guntur,241,Weekend,37.88,45,10,Weekend,9760.5,0,Sunday,1,1,3
+2024-04-14,Night,Secunderabad,Rajahmundry,76,Weekend,405.46,487,10,Weekend,33310.8,0,Sunday,3,1,3
+2024-04-14,Afternoon,Kurnool,Rajahmundry,152,Weekend,494.02,593,15,Weekend,76615.59999999999,0,Sunday,0,1,3
+2024-04-14,Afternoon,Vijayawada,Nizamabad,143,Weekend,418.49,502,10,Weekend,64607.4,0,Sunday,0,1,3
+2024-04-15,Morning,Kadapa,Tirupati,185,Weekday,140.34,168,2,No Event,30458.399999999998,0,Monday,2,0,2
+2024-04-15,Evening,Nalagonda,Secunderabad,248,Weekday,778.9,935,2,No Event,227242.4,0,Monday,1,0,2
+2024-04-15,Afternoon,Rajahmundry,Tenali,177,Weekday,190.49,229,4,No Event,38911.68,0,Monday,0,0,2
+2024-04-15,Night,Rajahmundry,Tenali,107,Weekday,190.49,229,4,No Event,23522.879999999997,0,Monday,3,0,2
+2024-04-15,Afternoon,Nalagonda,Hyderabad,132,Weekday,769.79,924,2,No Event,119528.64,0,Monday,0,0,2
+2024-04-15,Morning,Nalagonda,Guntur,221,Weekday,692.13,831,5,No Event,174468.44999999998,0,Monday,2,0,2
+2024-04-15,Night,Rajahmundry,Nalagonda,99,Weekday,884.3,1061,4,No Event,100837.44,0,Monday,3,0,2
+2024-04-17,Morning,Guntur,Visakhapatnam,171,Weekday,398.78,479,3,No Event,79451.73,0,Wednesday,2,0,2
+2024-04-17,Afternoon,Secunderabad,Hyderabad,88,Weekday,9.46,11,3,No Event,938.9599999999999,0,Wednesday,0,0,2
+2024-04-17,Evening,Nellore,Nalagonda,264,Weekday,447.56,537,4,No Event,136097.28,1,Wednesday,1,0,2
+2024-04-17,Afternoon,Guntur,Rajahmundry,122,Weekday,195.41,234,1,No Event,28262.52,0,Wednesday,0,0,2
+2024-04-18,Morning,Kakinada,Tirupati,217,Weekday,614.86,738,0,No Event,160146.0,0,Thursday,2,0,2
+2024-04-18,Evening,Nellore,Warangal,238,Weekday,470.66,565,5,No Event,127746.5,0,Thursday,1,0,2
+2024-04-18,Evening,Khammam,Hyderabad,282,Weekday,194.9,234,0,No Event,65988.0,1,Thursday,1,0,2
+2024-04-19,Afternoon,Visakhapatnam,Guntur,132,Weekday,398.78,479,4,No Event,60698.88,0,Friday,0,0,2
+2024-04-19,Night,Nalagonda,Hyderabad,131,Weekday,769.79,924,2,No Event,118623.12,0,Friday,3,0,2
+2024-04-19,Night,Karimnagar,Secunderabad,123,Weekday,173.04,208,2,No Event,25072.32,0,Friday,3,0,2
+2024-04-20,Night,Kurnool,Mahbubnagar,137,Weekend,120.89,145,15,Weekend,16885.25,0,Saturday,3,1,3
+2024-04-20,Evening,Kakinada,Secunderabad,207,Weekend,464.34,557,15,Weekend,98004.15,0,Saturday,1,1,3
+2024-04-20,Night,Khammam,Karimnagar,147,Weekend,195.0,234,15,Weekend,29238.3,0,Saturday,3,1,3
+2024-04-20,Evening,Nellore,Mahbubnagar,207,Weekend,439.84,528,15,Weekend,92901.59999999999,0,Saturday,1,1,3
+2024-04-20,Morning,Mahbubnagar,Karimnagar,154,Weekend,309.11,371,10,Weekend,51420.6,0,Saturday,2,1,3
+2024-04-21,Morning,Tirupati,Nellore,148,Weekend,136.37,164,10,Weekend,21844.8,0,Sunday,2,1,3
+2024-04-21,Morning,Tenali,Kurnool,216,Weekend,329.18,395,10,Weekend,76788.0,0,Sunday,2,1,3
+2024-04-21,Evening,Visakhapatnam,Kakinada,229,Weekend,171.6,206,10,Weekend,42456.6,0,Sunday,1,1,3
+2024-04-22,Morning,Nizamabad,Kadapa,239,Weekday,585.59,703,1,No Event,166336.83,0,Monday,2,0,2
+2024-04-22,Evening,Nellore,Secunderabad,235,Weekday,462.5,555,1,No Event,129120.75,0,Monday,1,0,2
+2024-04-22,Afternoon,Kurnool,Rajahmundry,95,Weekday,494.02,593,3,No Event,54644.95,0,Monday,0,0,2
+2024-04-22,Afternoon,Secunderabad,Kurnool,99,Weekday,219.87,264,5,No Event,24829.199999999997,0,Monday,0,0,2
+2024-04-23,Afternoon,Tenali,Hyderabad,136,Weekday,298.51,358,3,No Event,47227.36,0,Tuesday,0,0,2
+2024-04-23,Afternoon,Tirupati,Tenali,107,Weekday,387.98,466,3,No Event,48366.14,0,Tuesday,0,0,2
+2024-04-23,Morning,Nellore,Karimnagar,178,Weekday,543.78,653,2,No Event,113909.31999999999,0,Tuesday,2,0,2
+2024-04-23,Morning,Nizamabad,Mahbubnagar,190,Weekday,273.79,329,0,No Event,62510.0,0,Tuesday,2,0,2
+2024-04-23,Morning,Tenali,Kakinada,148,Weekday,261.69,314,0,No Event,46472.0,0,Tuesday,2,0,2
+2024-04-23,Morning,Kadapa,Tirupati,155,Weekday,140.34,168,2,No Event,25519.2,0,Tuesday,2,0,2
+2024-04-23,Evening,Kurnool,Warangal,271,Weekday,355.52,427,0,No Event,115717.0,1,Tuesday,1,0,2
+2024-04-24,Evening,Visakhapatnam,Tirupati,190,Weekday,775.66,931,2,No Event,173352.19999999998,0,Wednesday,1,0,2
+2024-04-24,Night,Vijayawada,Kurnool,100,Weekday,336.5,404,1,No Event,39996.0,0,Wednesday,3,0,2
+2024-04-24,Morning,Warangal,Rajahmundry,178,Weekday,323.09,388,3,No Event,66992.08,0,Wednesday,2,0,2
+2024-04-25,Afternoon,Kadapa,Warangal,150,Weekday,493.86,593,0,No Event,88950.0,0,Thursday,0,0,2
+2024-04-25,Night,Nizamabad,Secunderabad,113,Weekday,166.26,200,4,No Event,21696.0,0,Thursday,3,0,2
+2024-04-25,Afternoon,Tirupati,Khammam,197,Weekday,505.63,607,0,No Event,119579.0,0,Thursday,0,0,2
+2024-04-25,Morning,Visakhapatnam,Secunderabad,139,Weekday,610.32,732,5,No Event,96660.59999999999,0,Thursday,2,0,2
+2024-04-25,Afternoon,Tirupati,Nizamabad,159,Weekday,726.1,871,3,No Event,134334.33,0,Thursday,0,0,2
+2024-04-25,Night,Vijayawada,Rajahmundry,103,Weekday,158.45,190,2,No Event,19178.6,0,Thursday,3,0,2
+2024-04-26,Afternoon,Karimnagar,Mahbubnagar,154,Weekday,309.11,371,5,No Event,54277.299999999996,0,Friday,0,0,2
+2024-04-26,Afternoon,Mahbubnagar,Kadapa,113,Weekday,321.38,386,3,No Event,42309.46,0,Friday,0,0,2
+2024-04-26,Afternoon,Vijayawada,Kakinada,94,Weekday,217.33,261,3,No Event,23797.98,0,Friday,0,0,2
+2024-04-27,Night,Visakhapatnam,Tirupati,90,Weekend,775.66,931,15,Weekend,71221.5,0,Saturday,3,1,3
+2024-04-27,Evening,Rajahmundry,Tirupati,277,Weekend,573.02,688,15,Weekend,161989.6,1,Saturday,1,1,3
+2024-04-27,Afternoon,Nizamabad,Rajahmundry,142,Weekend,539.25,647,10,Weekend,82686.6,0,Saturday,0,1,3
+2024-04-28,Afternoon,Guntur,Vijayawada,104,Weekend,37.88,45,15,Weekend,3978.0,0,Sunday,0,1,3
+2024-04-28,Evening,Khammam,Nalagonda,213,Weekend,816.37,980,10,Weekend,187866.0,0,Sunday,1,1,3
+2024-04-28,Evening,Warangal,Nizamabad,274,Weekend,227.44,273,15,Weekend,63581.7,1,Sunday,1,1,3
+2024-04-28,Evening,Warangal,Rajahmundry,279,Weekend,323.09,388,15,Weekend,92014.2,1,Sunday,1,1,3
+2024-04-28,Night,Visakhapatnam,Secunderabad,107,Weekend,610.32,732,15,Weekend,66575.4,0,Sunday,3,1,3
+2024-04-28,Night,Kadapa,Tenali,100,Weekend,356.33,428,15,Weekend,36380.0,0,Sunday,3,1,3
+2024-04-29,Morning,Nellore,Mahbubnagar,194,Weekday,439.84,528,5,No Event,97310.4,0,Monday,2,0,2
+2024-04-29,Afternoon,Secunderabad,Karimnagar,90,Weekday,173.04,208,1,No Event,18532.8,0,Monday,0,0,2
+2024-04-30,Morning,Kadapa,Visakhapatnam,194,Weekday,744.57,893,0,No Event,173242.0,0,Tuesday,2,0,2
+2024-04-30,Night,Rajahmundry,Mahbubnagar,80,Weekday,495.83,595,5,No Event,45220.0,0,Tuesday,3,0,2
+2024-04-30,Morning,Vijayawada,Guntur,204,Weekday,37.88,45,4,No Event,8812.8,0,Tuesday,2,0,2
+2024-05-01,Morning,Nizamabad,Kurnool,205,Weekday,385.09,462,2,No Event,92815.8,0,Wednesday,2,0,2
+2024-05-02,Evening,Rajahmundry,Nizamabad,271,Weekday,539.25,647,1,No Event,173583.63,1,Thursday,1,0,2
+2024-05-02,Evening,Nellore,Tenali,243,Weekday,253.03,304,0,No Event,73872.0,0,Thursday,1,0,2
+2024-05-02,Evening,Tenali,Nizamabad,212,Weekday,449.04,539,4,No Event,109697.28,0,Thursday,1,0,2
+2024-05-03,Morning,Rajahmundry,Kadapa,195,Weekday,541.2,649,3,No Event,122758.34999999999,0,Friday,2,0,2
+2024-05-03,Morning,Khammam,Nalagonda,172,Weekday,816.37,980,4,No Event,161817.6,0,Friday,2,0,2
+2024-05-03,Evening,Mahbubnagar,Kakinada,214,Weekday,548.14,658,2,No Event,137995.76,0,Friday,1,0,2
+2024-05-03,Morning,Nizamabad,Nellore,140,Weekday,627.42,753,4,No Event,101203.2,0,Friday,2,0,2
+2024-05-03,Afternoon,Kakinada,Nalagonda,95,Weekday,925.6,1111,0,No Event,105545.0,0,Friday,0,0,2
+2024-05-03,Morning,Kadapa,Khammam,174,Weekday,412.49,495,1,No Event,85268.7,0,Friday,2,0,2
+2024-05-04,Afternoon,Kadapa,Secunderabad,194,Weekend,420.36,504,15,Weekend,83109.59999999999,0,Saturday,0,1,3
+2024-05-04,Evening,Mahbubnagar,Tirupati,193,Weekend,460.0,552,10,Weekend,95882.40000000001,0,Saturday,1,1,3
+2024-05-04,Night,Khammam,Warangal,104,Weekend,118.24,142,15,Weekend,12552.8,0,Saturday,3,1,3
+2024-05-04,Evening,Warangal,Kakinada,311,Weekend,381.97,458,10,Weekend,128194.2,1,Saturday,1,1,3
+2024-05-05,Evening,Nellore,Nizamabad,200,Weekend,627.42,753,15,Weekend,128010.0,0,Sunday,1,1,3
+2024-05-05,Evening,Nalagonda,Kadapa,298,Weekend,409.42,491,15,Weekend,124370.3,1,Sunday,1,1,3
+2024-05-05,Morning,Mahbubnagar,Visakhapatnam,242,Weekend,699.2,839,10,Weekend,182734.2,0,Sunday,2,1,3
+2024-05-06,Morning,Rajahmundry,Nizamabad,137,Weekday,539.25,647,1,No Event,87752.61,0,Monday,2,0,2
+2024-05-06,Afternoon,Rajahmundry,Mahbubnagar,140,Weekday,495.83,595,5,No Event,79135.0,0,Monday,0,0,2
+2024-05-06,Evening,Hyderabad,Nizamabad,284,Weekday,174.68,210,2,No Event,58447.2,1,Monday,1,0,2
+2024-05-06,Morning,Kurnool,Kakinada,164,Weekday,551.11,661,2,No Event,106235.92,0,Monday,2,0,2
+2024-05-06,Morning,Vijayawada,Kakinada,212,Weekday,217.33,261,3,No Event,53672.04,0,Monday,2,0,2
+2024-05-06,Night,Khammam,Tenali,131,Weekday,160.85,193,3,No Event,24524.51,0,Monday,3,0,2
+2024-05-07,Evening,Mahbubnagar,Nellore,256,Weekday,439.84,528,2,No Event,132464.63999999998,1,Tuesday,1,0,2
+2024-05-07,Afternoon,Khammam,Warangal,106,Weekday,118.24,142,4,No Event,14449.92,0,Tuesday,0,0,2
+2024-05-07,Night,Tenali,Rajahmundry,66,Weekday,190.49,229,1,No Event,14962.86,0,Tuesday,3,0,2
+2024-05-08,Afternoon,Tenali,Vijayawada,108,Weekday,33.07,40,0,No Event,4320.0,0,Wednesday,0,0,2
+2024-05-08,Morning,Guntur,Kakinada,184,Weekday,254.32,305,4,No Event,53875.2,0,Wednesday,2,0,2
+2024-05-08,Evening,Nalagonda,Vijayawada,224,Weekday,726.77,872,0,No Event,195328.0,0,Wednesday,1,0,2
+2024-05-08,Evening,Nizamabad,Kadapa,289,Weekday,585.59,703,1,No Event,201135.33,1,Wednesday,1,0,2
+2024-05-08,Evening,Warangal,Khammam,201,Weekday,118.24,142,0,No Event,28542.0,0,Wednesday,1,0,2
+2024-05-09,Night,Kadapa,Mahbubnagar,107,Weekday,321.38,386,0,No Event,41302.0,0,Thursday,3,0,2
+2024-05-09,Morning,Mahbubnagar,Nizamabad,163,Weekday,273.79,329,4,No Event,51481.92,0,Thursday,2,0,2
+2024-05-09,Night,Tenali,Tirupati,61,Weekday,387.98,466,2,No Event,27857.48,0,Thursday,3,0,2
+2024-05-09,Morning,Warangal,Khammam,236,Weekday,118.24,142,0,No Event,33512.0,0,Thursday,2,0,2
+2024-05-10,Morning,Tirupati,Vijayawada,218,Weekday,414.77,498,3,No Event,105307.08,0,Friday,2,0,2
+2024-05-10,Morning,Kadapa,Nalagonda,232,Weekday,409.42,491,0,No Event,113912.0,0,Friday,2,0,2
+2024-05-10,Morning,Nalagonda,Kurnool,200,Weekday,561.65,674,5,No Event,128060.0,0,Friday,2,0,2
+2024-05-10,Evening,Kurnool,Warangal,318,Weekday,355.52,427,0,No Event,135786.0,1,Friday,1,0,2
+2024-05-11,Evening,Vijayawada,Nellore,249,Weekend,280.37,336,15,Weekend,71114.4,0,Saturday,1,1,3
+2024-05-11,Night,Mahbubnagar,Tenali,95,Weekend,350.45,421,10,Weekend,35995.5,0,Saturday,3,1,3
+2024-05-11,Morning,Warangal,Kadapa,120,Weekend,493.86,593,15,Weekend,60486.0,0,Saturday,2,1,3
+2024-05-11,Evening,Nizamabad,Kurnool,265,Weekend,385.09,462,15,Weekend,104065.5,1,Saturday,1,1,3
+2024-05-11,Evening,Nizamabad,Khammam,283,Weekend,332.21,399,10,Weekend,101625.3,1,Saturday,1,1,3
+2024-05-12,Morning,Khammam,Karimnagar,215,Weekend,195.0,234,15,Weekend,42763.5,0,Sunday,2,1,3
+2024-05-12,Evening,Mahbubnagar,Nellore,302,Weekend,439.84,528,15,Weekend,135537.6,1,Sunday,1,1,3
+2024-05-12,Night,Tirupati,Nizamabad,102,Weekend,726.1,871,15,Weekend,75515.7,0,Sunday,3,1,3
+2024-05-12,Afternoon,Nizamabad,Kurnool,85,Weekend,385.09,462,15,Weekend,33379.5,0,Sunday,0,1,3
+2024-05-12,Evening,Karimnagar,Kurnool,206,Weekend,422.95,508,15,Weekend,88950.8,0,Sunday,1,1,3
+2024-05-12,Night,Tenali,Tirupati,125,Weekend,387.98,466,15,Weekend,49512.5,0,Sunday,3,1,3
+2024-05-12,Evening,Vijayawada,Kurnool,182,Weekend,336.5,404,10,Weekend,66175.2,0,Sunday,1,1,3
+2024-05-12,Evening,Tirupati,Nellore,316,Weekend,136.37,164,10,Weekend,46641.6,1,Sunday,1,1,3
+2024-05-13,Evening,Warangal,Tenali,190,Weekday,274.84,330,0,No Event,62700.0,0,Monday,1,0,2
+2024-05-13,Evening,Secunderabad,Tenali,318,Weekday,304.51,365,3,No Event,112587.9,1,Monday,1,0,2
+2024-05-13,Night,Visakhapatnam,Vijayawada,113,Weekday,361.84,434,2,No Event,48061.159999999996,0,Monday,3,0,2
+2024-05-13,Night,Mahbubnagar,Kakinada,83,Weekday,548.14,658,2,No Event,53521.72,0,Monday,3,0,2
+2024-05-13,Afternoon,Hyderabad,Karimnagar,139,Weekday,213.92,257,4,No Event,34294.08,0,Monday,0,0,2
+2024-05-13,Afternoon,Vijayawada,Secunderabad,131,Weekday,282.02,338,0,No Event,44278.0,0,Monday,0,0,2
+2024-05-13,Evening,Guntur,Warangal,197,Weekday,279.65,336,2,No Event,64868.159999999996,0,Monday,1,0,2
+2024-05-13,Afternoon,Vijayawada,Secunderabad,86,Weekday,282.02,338,0,No Event,29068.0,0,Monday,0,0,2
+2024-05-13,Evening,Tenali,Hyderabad,216,Weekday,298.51,358,3,No Event,75008.16,0,Monday,1,0,2
+2024-05-14,Evening,Guntur,Secunderabad,237,Weekday,276.86,332,0,No Event,78684.0,0,Tuesday,1,0,2
+2024-05-14,Afternoon,Nalagonda,Kurnool,162,Weekday,561.65,674,5,No Event,103728.59999999999,0,Tuesday,0,0,2
+2024-05-14,Morning,Vijayawada,Khammam,122,Weekday,130.3,156,1,No Event,18841.68,0,Tuesday,2,0,2
+2024-05-14,Morning,Tirupati,Tenali,129,Weekday,387.98,466,3,No Event,58310.58,0,Tuesday,2,0,2
+2024-05-15,Evening,Visakhapatnam,Khammam,246,Weekday,408.01,490,0,No Event,120540.0,0,Wednesday,1,0,2
+2024-05-15,Evening,Nalagonda,Kurnool,300,Weekday,561.65,674,5,No Event,192090.0,1,Wednesday,1,0,2
+2024-05-15,Night,Rajahmundry,Kadapa,123,Weekday,541.2,649,3,No Event,77432.19,0,Wednesday,3,0,2
+2024-05-15,Evening,Tenali,Mahbubnagar,246,Weekday,350.45,421,3,No Event,100459.02,0,Wednesday,1,0,2
+2024-05-16,Afternoon,Tirupati,Nizamabad,144,Weekday,726.1,871,3,No Event,121661.28,0,Thursday,0,0,2
+2024-05-16,Evening,Hyderabad,Warangal,300,Weekday,149.36,179,2,No Event,52626.0,1,Thursday,1,0,2
+2024-05-16,Evening,Kakinada,Karimnagar,314,Weekday,458.76,551,1,No Event,171283.86,1,Thursday,1,0,2
+2024-05-16,Night,Visakhapatnam,Khammam,147,Weekday,408.01,490,0,No Event,72030.0,0,Thursday,3,0,2
+2024-05-16,Morning,Warangal,Guntur,163,Weekday,279.65,336,4,No Event,52577.28,0,Thursday,2,0,2
+2024-05-17,Evening,Tirupati,Kurnool,281,Weekday,343.02,412,5,No Event,109983.4,1,Friday,1,0,2
+2024-05-17,Morning,Nalagonda,Guntur,191,Weekday,692.13,831,5,No Event,150784.94999999998,0,Friday,2,0,2
+2024-05-18,Morning,Kurnool,Guntur,200,Weekend,297.53,357,15,Weekend,60690.0,0,Saturday,2,1,3
+2024-05-18,Evening,Karimnagar,Nalagonda,197,Weekend,990.59,1189,15,Weekend,199098.05,0,Saturday,1,1,3
+2024-05-18,Evening,Kadapa,Nizamabad,257,Weekend,585.59,703,10,Weekend,162603.9,1,Saturday,1,1,3
+2024-05-18,Afternoon,Rajahmundry,Nizamabad,146,Weekend,539.25,647,10,Weekend,85015.8,0,Saturday,0,1,3
+2024-05-18,Evening,Warangal,Nellore,307,Weekend,470.66,565,10,Weekend,156109.5,1,Saturday,1,1,3
+2024-05-19,Night,Hyderabad,Khammam,135,Weekend,194.9,234,15,Weekend,26851.5,0,Sunday,3,1,3
+2024-05-19,Night,Visakhapatnam,Tirupati,143,Weekend,775.66,931,15,Weekend,113163.05,0,Sunday,3,1,3
+2024-05-20,Night,Nellore,Guntur,74,Weekday,245.33,294,0,No Event,21756.0,0,Monday,3,0,2
+2024-05-20,Morning,Nellore,Guntur,234,Weekday,245.33,294,0,No Event,68796.0,0,Monday,2,0,2
+2024-05-20,Afternoon,Visakhapatnam,Karimnagar,125,Weekday,603.1,724,3,No Event,87785.0,0,Monday,0,0,2
+2024-05-20,Afternoon,Khammam,Mahbubnagar,119,Weekday,283.12,340,1,No Event,40055.4,0,Monday,0,0,2
+2024-05-20,Morning,Vijayawada,Secunderabad,133,Weekday,282.02,338,0,No Event,44954.0,0,Monday,2,0,2
+2024-05-20,Night,Visakhapatnam,Hyderabad,68,Weekday,604.32,725,4,No Event,47328.0,0,Monday,3,0,2
+2024-05-21,Morning,Nellore,Tenali,208,Weekday,253.03,304,0,No Event,63232.0,0,Tuesday,2,0,2
+2024-05-22,Night,Tenali,Mahbubnagar,108,Weekday,350.45,421,3,No Event,44103.96,0,Wednesday,3,0,2
+2024-05-22,Morning,Rajahmundry,Warangal,194,Weekday,323.09,388,3,No Event,73013.84,0,Wednesday,2,0,2
+2024-05-22,Evening,Nizamabad,Kakinada,250,Weekday,597.23,717,0,No Event,179250.0,0,Wednesday,1,0,2
+2024-05-22,Evening,Warangal,Nellore,288,Weekday,470.66,565,0,No Event,162720.0,1,Wednesday,1,0,2
+2024-05-22,Night,Tirupati,Rajahmundry,97,Weekday,573.02,688,3,No Event,64733.92,0,Wednesday,3,0,2
+2024-05-22,Morning,Nellore,Kakinada,189,Weekday,478.79,575,2,No Event,106501.5,0,Wednesday,2,0,2
+2024-05-23,Evening,Nellore,Guntur,227,Weekday,245.33,294,0,No Event,66738.0,0,Thursday,1,0,2
+2024-05-23,Afternoon,Guntur,Kurnool,191,Weekday,297.53,357,4,No Event,65459.52,0,Thursday,0,0,2
+2024-05-23,Night,Nizamabad,Kurnool,137,Weekday,385.09,462,2,No Event,62028.119999999995,0,Thursday,3,0,2
+2024-05-23,Evening,Guntur,Karimnagar,201,Weekday,356.45,428,5,No Event,81726.59999999999,0,Thursday,1,0,2
+2024-05-23,Afternoon,Karimnagar,Tenali,199,Weekday,351.2,421,5,No Event,79590.05,0,Thursday,0,0,2
+2024-05-24,Evening,Secunderabad,Nizamabad,195,Weekday,166.26,200,0,No Event,39000.0,0,Friday,1,0,2
+2024-05-24,Night,Tenali,Tirupati,137,Weekday,387.98,466,2,No Event,62565.159999999996,0,Friday,3,0,2
+2024-05-24,Afternoon,Guntur,Vijayawada,177,Weekday,37.88,45,2,No Event,7805.7,0,Friday,0,0,2
+2024-05-24,Evening,Kakinada,Kurnool,290,Weekday,551.11,661,4,No Event,184022.4,1,Friday,1,0,2
+2024-05-26,Morning,Nalagonda,Vijayawada,144,Weekend,726.77,872,10,Weekend,113011.2,0,Sunday,2,1,3
+2024-05-26,Evening,Hyderabad,Kurnool,287,Weekend,213.32,256,15,Weekend,62451.2,1,Sunday,1,1,3
+2024-05-26,Evening,Kurnool,Karimnagar,225,Weekend,422.95,508,10,Weekend,102870.0,0,Sunday,1,1,3
+2024-05-26,Morning,Kadapa,Tirupati,238,Weekend,140.34,168,15,Weekend,33986.4,0,Sunday,2,1,3
+2024-05-26,Afternoon,Mahbubnagar,Rajahmundry,160,Weekend,495.83,595,10,Weekend,85680.0,0,Sunday,0,1,3
+2024-05-26,Night,Warangal,Khammam,69,Weekend,118.24,142,10,Weekend,8818.2,0,Sunday,3,1,3
+2024-05-27,Morning,Kadapa,Secunderabad,168,Weekday,420.36,504,3,No Event,82131.84,0,Monday,2,0,2
+2024-05-27,Night,Visakhapatnam,Kakinada,124,Weekday,171.6,206,0,No Event,25544.0,0,Monday,3,0,2
+2024-05-27,Evening,Kadapa,Khammam,265,Weekday,412.49,495,1,No Event,129863.25,1,Monday,1,0,2
+2024-05-27,Night,Secunderabad,Nizamabad,63,Weekday,166.26,200,0,No Event,12600.0,0,Monday,3,0,2
+2024-05-27,Evening,Kakinada,Rajahmundry,196,Weekday,60.27,72,1,No Event,13970.88,0,Monday,1,0,2
+2024-05-27,Afternoon,Nellore,Mahbubnagar,124,Weekday,439.84,528,5,No Event,62198.399999999994,0,Monday,0,0,2
+2024-05-27,Afternoon,Nalagonda,Nellore,103,Weekday,447.56,537,1,No Event,54757.89,0,Monday,0,0,2
+2024-05-28,Morning,Nalagonda,Nizamabad,150,Weekday,944.12,1133,0,No Event,169950.0,0,Tuesday,2,0,2
+2024-05-28,Morning,Guntur,Karimnagar,204,Weekday,356.45,428,5,No Event,82946.4,0,Tuesday,2,0,2
+2024-05-28,Night,Secunderabad,Tenali,112,Weekday,304.51,365,3,No Event,39653.6,0,Tuesday,3,0,2
+2024-05-28,Night,Kadapa,Vijayawada,66,Weekday,383.68,460,3,No Event,29449.2,0,Tuesday,3,0,2
+2024-05-28,Night,Nalagonda,Warangal,126,Weekday,901.64,1082,0,No Event,136332.0,0,Tuesday,3,0,2
+2024-05-29,Night,Nellore,Tirupati,129,Weekday,136.37,164,0,No Event,21156.0,0,Wednesday,3,0,2
+2024-05-29,Morning,Warangal,Secunderabad,244,Weekday,147.79,177,1,No Event,42756.12,0,Wednesday,2,0,2
+2024-05-30,Evening,Kurnool,Secunderabad,183,Weekday,219.87,264,2,No Event,47345.76,0,Thursday,1,0,2
+2024-06-01,Night,Kadapa,Rajahmundry,64,Weekend,541.2,649,15,Weekend,35305.6,0,Saturday,3,1,3
+2024-06-01,Night,Secunderabad,Visakhapatnam,127,Weekend,610.32,732,15,Weekend,79019.4,0,Saturday,3,1,3
+2024-06-01,Night,Vijayawada,Hyderabad,124,Weekend,276.02,331,10,Weekend,36939.6,0,Saturday,3,1,3
+2024-06-01,Morning,Guntur,Kurnool,233,Weekend,297.53,357,15,Weekend,70703.84999999999,0,Saturday,2,1,3
+2024-06-01,Evening,Karimnagar,Vijayawada,256,Weekend,320.65,385,10,Weekend,88704.0,1,Saturday,1,1,3
+2024-06-01,Night,Hyderabad,Nizamabad,90,Weekend,174.68,210,15,Weekend,16065.0,0,Saturday,3,1,3
+2024-06-02,Morning,Karimnagar,Nalagonda,186,Weekend,990.59,1189,15,Weekend,187980.9,0,Sunday,2,1,3
+2024-06-02,Night,Kadapa,Khammam,130,Weekend,412.49,495,10,Weekend,57915.0,0,Sunday,3,1,3
+2024-06-03,Morning,Warangal,Karimnagar,134,Weekday,79.27,95,2,No Event,12475.4,0,Monday,2,0,2
+2024-06-04,Evening,Tirupati,Warangal,302,Weekday,605.06,726,2,No Event,214866.96,1,Tuesday,1,0,2
+2024-06-04,Morning,Nellore,Nalagonda,155,Weekday,447.56,537,4,No Event,79905.59999999999,0,Tuesday,2,0,2
+2024-06-05,Night,Kakinada,Karimnagar,127,Weekday,458.76,551,1,No Event,69277.23,0,Wednesday,3,0,2
+2024-06-05,Night,Mahbubnagar,Tirupati,103,Weekday,460.0,552,1,No Event,56287.44,0,Wednesday,3,0,2
+2024-06-05,Afternoon,Khammam,Hyderabad,187,Weekday,194.9,234,0,No Event,43758.0,0,Wednesday,0,0,2
+2024-06-05,Afternoon,Nellore,Nizamabad,105,Weekday,627.42,753,2,No Event,77483.7,0,Wednesday,0,0,2
+2024-06-05,Morning,Nizamabad,Kakinada,121,Weekday,597.23,717,0,No Event,86757.0,0,Wednesday,2,0,2
+2024-06-05,Afternoon,Visakhapatnam,Nizamabad,126,Weekday,742.62,891,1,No Event,111143.34,0,Wednesday,0,0,2
+2024-06-05,Afternoon,Nalagonda,Warangal,193,Weekday,901.64,1082,0,No Event,208826.0,0,Wednesday,0,0,2
+2024-06-06,Morning,Rajahmundry,Vijayawada,227,Weekday,158.45,190,4,No Event,41404.799999999996,0,Thursday,2,0,2
+2024-06-06,Evening,Kurnool,Guntur,258,Weekday,297.53,357,2,No Event,90263.88,1,Thursday,1,0,2
+2024-06-06,Night,Vijayawada,Nalagonda,147,Weekday,726.77,872,4,No Event,123056.64,0,Thursday,3,0,2
+2024-06-06,Afternoon,Kurnool,Rajahmundry,102,Weekday,494.02,593,3,No Event,58671.42,0,Thursday,0,0,2
+2024-06-07,Night,Kadapa,Khammam,111,Weekday,412.49,495,1,No Event,54395.55,0,Friday,3,0,2
+2024-06-07,Morning,Tirupati,Visakhapatnam,133,Weekday,775.66,931,2,No Event,121346.54,0,Friday,2,0,2
+2024-06-08,Night,Secunderabad,Hyderabad,103,Weekend,9.46,11,15,Weekend,963.05,0,Saturday,3,1,3
+2024-06-08,Morning,Karimnagar,Nalagonda,177,Weekend,990.59,1189,15,Weekend,178885.05,0,Saturday,2,1,3
+2024-06-08,Evening,Kurnool,Nizamabad,265,Weekend,385.09,462,15,Weekend,104065.5,1,Saturday,1,1,3
+2024-06-08,Morning,Nizamabad,Secunderabad,162,Weekend,166.26,200,10,Weekend,29160.0,0,Saturday,2,1,3
+2024-06-08,Afternoon,Visakhapatnam,Kurnool,150,Weekend,697.39,837,10,Weekend,112995.0,0,Saturday,0,1,3
+2024-06-09,Night,Hyderabad,Guntur,90,Weekend,270.74,325,10,Weekend,26325.0,0,Sunday,3,1,3
+2024-06-09,Morning,Warangal,Secunderabad,194,Weekend,147.79,177,10,Weekend,30904.2,0,Sunday,2,1,3
+2024-06-10,Morning,Guntur,Nizamabad,210,Weekday,441.78,530,1,No Event,110187.0,0,Monday,2,0,2
+2024-06-10,Evening,Khammam,Kadapa,265,Weekday,412.49,495,1,No Event,129863.25,1,Monday,1,0,2
+2024-06-10,Evening,Hyderabad,Mahbubnagar,313,Weekday,99.48,119,4,No Event,35757.119999999995,1,Monday,1,0,2
+2024-06-10,Night,Nizamabad,Hyderabad,66,Weekday,174.68,210,0,No Event,13860.0,0,Monday,3,0,2
+2024-06-10,Afternoon,Nellore,Nalagonda,170,Weekday,447.56,537,4,No Event,87638.4,0,Monday,0,0,2
+2024-06-10,Night,Tirupati,Vijayawada,106,Weekday,414.77,498,3,No Event,51204.36,0,Monday,3,0,2
+2024-06-10,Night,Kurnool,Karimnagar,67,Weekday,422.95,508,4,No Event,32674.559999999998,0,Monday,3,0,2
+2024-06-10,Evening,Guntur,Secunderabad,201,Weekday,276.86,332,0,No Event,66732.0,0,Monday,1,0,2
+2024-06-10,Night,Rajahmundry,Nalagonda,89,Weekday,884.3,1061,4,No Event,90651.84,0,Monday,3,0,2
+2024-06-11,Evening,Hyderabad,Visakhapatnam,217,Weekday,604.32,725,0,No Event,157325.0,0,Tuesday,1,0,2
+2024-06-11,Afternoon,Nizamabad,Nellore,192,Weekday,627.42,753,4,No Event,138792.96,0,Tuesday,0,0,2
+2024-06-11,Morning,Secunderabad,Kadapa,229,Weekday,420.36,504,5,No Event,109645.2,0,Tuesday,2,0,2
+2024-06-12,Morning,Kadapa,Secunderabad,129,Weekday,420.36,504,3,No Event,63065.52,0,Wednesday,2,0,2
+2024-06-13,Evening,Hyderabad,Secunderabad,212,Weekday,9.46,11,5,No Event,2215.4,0,Thursday,1,0,2
+2024-06-13,Afternoon,Kakinada,Khammam,138,Weekday,263.53,316,2,No Event,42735.84,0,Thursday,0,0,2
+2024-06-13,Night,Kakinada,Secunderabad,65,Weekday,464.34,557,3,No Event,35118.85,0,Thursday,3,0,2
+2024-06-13,Afternoon,Kakinada,Guntur,119,Weekday,254.32,305,0,No Event,36295.0,0,Thursday,0,0,2
+2024-06-13,Night,Kadapa,Nizamabad,146,Weekday,585.59,703,0,No Event,102638.0,0,Thursday,3,0,2
+2024-06-14,Morning,Tenali,Nellore,170,Weekday,253.03,304,5,No Event,49096.0,0,Friday,2,0,2
+2024-06-14,Morning,Hyderabad,Kadapa,227,Weekday,411.52,494,3,No Event,108773.86,0,Friday,2,0,2
+2024-06-14,Evening,Vijayawada,Tenali,276,Weekday,33.07,40,2,No Event,10819.199999999999,1,Friday,1,0,2
+2024-06-15,Morning,Warangal,Nizamabad,193,Weekend,227.44,273,15,Weekend,44785.65,0,Saturday,2,1,3
+2024-06-15,Night,Khammam,Nellore,138,Weekend,369.57,443,15,Weekend,51963.9,0,Saturday,3,1,3
+2024-06-15,Evening,Warangal,Vijayawada,306,Weekend,244.67,294,10,Weekend,80967.6,1,Saturday,1,1,3
+2024-06-16,Evening,Vijayawada,Warangal,184,Weekend,244.67,294,15,Weekend,45981.6,0,Sunday,1,1,3
+2024-06-16,Morning,Nellore,Karimnagar,213,Weekend,543.78,653,15,Weekend,118225.65,0,Sunday,2,1,3
+2024-06-16,Afternoon,Karimnagar,Hyderabad,87,Weekend,213.92,257,10,Weekend,20123.100000000002,0,Sunday,0,1,3
+2024-06-16,Morning,Tenali,Kadapa,205,Weekend,356.33,428,15,Weekend,74579.0,0,Sunday,2,1,3
+2024-06-17,Night,Tenali,Secunderabad,91,Weekday,304.51,365,2,No Event,32550.7,0,Monday,3,0,2
+2024-06-17,Night,Mahbubnagar,Rajahmundry,128,Weekday,495.83,595,5,No Event,72352.0,0,Monday,3,0,2
+2024-06-17,Evening,Kurnool,Vijayawada,305,Weekday,336.5,404,5,No Event,117059.0,1,Monday,1,0,2
+2024-06-17,Morning,Karimnagar,Secunderabad,218,Weekday,173.04,208,2,No Event,44437.12,0,Monday,2,0,2
+2024-06-17,Morning,Guntur,Kakinada,235,Weekday,254.32,305,4,No Event,68808.0,0,Monday,2,0,2
+2024-06-17,Morning,Kadapa,Karimnagar,242,Weekday,570.65,685,0,No Event,165770.0,0,Monday,2,0,2
+2024-06-18,Evening,Vijayawada,Secunderabad,309,Weekday,282.02,338,0,No Event,104442.0,1,Tuesday,1,0,2
+2024-06-18,Evening,Kurnool,Nalagonda,212,Weekday,561.65,674,4,No Event,137172.47999999998,0,Tuesday,1,0,2
+2024-06-18,Afternoon,Tirupati,Kurnool,131,Weekday,343.02,412,5,No Event,51273.399999999994,0,Tuesday,0,0,2
+2024-06-18,Morning,Tirupati,Karimnagar,151,Weekday,679.85,816,4,No Event,118287.36,0,Tuesday,2,0,2
+2024-06-18,Evening,Guntur,Hyderabad,313,Weekday,270.74,325,3,No Event,98673.25,1,Tuesday,1,0,2
+2024-06-18,Afternoon,Tenali,Nellore,94,Weekday,253.03,304,5,No Event,27147.199999999997,0,Tuesday,0,0,2
+2024-06-18,Evening,Visakhapatnam,Warangal,206,Weekday,525.98,631,2,No Event,127386.28,0,Tuesday,1,0,2
+2024-06-19,Evening,Mahbubnagar,Kadapa,198,Weekday,321.38,386,3,No Event,74135.16,0,Wednesday,1,0,2
+2024-06-20,Evening,Nizamabad,Hyderabad,193,Weekday,174.68,210,0,No Event,40530.0,0,Thursday,1,0,2
+2024-06-20,Afternoon,Hyderabad,Tirupati,102,Weekday,551.16,661,4,No Event,64725.119999999995,0,Thursday,0,0,2
+2024-06-20,Afternoon,Khammam,Guntur,143,Weekday,166.01,199,0,No Event,28457.0,0,Thursday,0,0,2
+2024-06-20,Night,Kadapa,Secunderabad,93,Weekday,420.36,504,3,No Event,45465.84,0,Thursday,3,0,2
+2024-06-20,Afternoon,Kakinada,Guntur,194,Weekday,254.32,305,0,No Event,59170.0,0,Thursday,0,0,2
+2024-06-20,Evening,Hyderabad,Guntur,317,Weekday,270.74,325,1,No Event,101994.75,1,Thursday,1,0,2
+2024-06-20,Afternoon,Nalagonda,Nizamabad,102,Weekday,944.12,1133,0,No Event,115566.0,0,Thursday,0,0,2
+2024-06-21,Night,Nellore,Hyderabad,115,Weekday,454.19,545,4,No Event,60168.0,0,Friday,3,0,2
+2024-06-21,Evening,Tenali,Mahbubnagar,294,Weekday,350.45,421,3,No Event,120060.78,1,Friday,1,0,2
+2024-06-21,Evening,Khammam,Nizamabad,200,Weekday,332.21,399,3,No Event,77406.0,0,Friday,1,0,2
+2024-06-21,Evening,Rajahmundry,Karimnagar,312,Weekday,399.74,480,5,No Event,142272.0,1,Friday,1,0,2
+2024-06-21,Evening,Nalagonda,Rajahmundry,243,Weekday,884.3,1061,1,No Event,255244.77,0,Friday,1,0,2
+2024-06-22,Morning,Kadapa,Kurnool,152,Weekend,200.49,241,15,Weekend,31137.2,0,Saturday,2,1,3
+2024-06-22,Evening,Tirupati,Visakhapatnam,239,Weekend,775.66,931,15,Weekend,189132.65,0,Saturday,1,1,3
+2024-06-22,Evening,Nellore,Kadapa,260,Weekend,174.93,210,15,Weekend,46410.0,1,Saturday,1,1,3
+2024-06-23,Evening,Guntur,Kakinada,298,Weekend,254.32,305,15,Weekend,77256.5,1,Sunday,1,1,3
+2024-06-23,Morning,Guntur,Warangal,128,Weekend,279.65,336,15,Weekend,36556.799999999996,0,Sunday,2,1,3
+2024-06-23,Afternoon,Guntur,Nellore,82,Weekend,245.33,294,15,Weekend,20491.8,0,Sunday,0,1,3
+2024-06-24,Morning,Secunderabad,Nellore,138,Weekday,462.5,555,3,No Event,74292.3,0,Monday,2,0,2
+2024-06-24,Evening,Secunderabad,Nellore,289,Weekday,462.5,555,3,No Event,155583.15,1,Monday,1,0,2
+2024-06-24,Evening,Secunderabad,Tenali,244,Weekday,304.51,365,3,No Event,86388.2,0,Monday,1,0,2
+2024-06-24,Morning,Tirupati,Kadapa,191,Weekday,140.34,168,5,No Event,30483.6,0,Monday,2,0,2
+2024-06-24,Afternoon,Karimnagar,Visakhapatnam,184,Weekday,603.1,724,2,No Event,130551.68,0,Monday,0,0,2
+2024-06-24,Evening,Khammam,Guntur,231,Weekday,166.01,199,0,No Event,45969.0,0,Monday,1,0,2
+2024-06-25,Night,Nellore,Secunderabad,147,Weekday,462.5,555,1,No Event,80769.15,0,Tuesday,3,0,2
+2024-06-25,Evening,Kakinada,Hyderabad,257,Weekday,459.86,552,1,No Event,140445.36,1,Tuesday,1,0,2
+2024-06-25,Morning,Vijayawada,Visakhapatnam,148,Weekday,361.84,434,5,No Event,61020.399999999994,0,Tuesday,2,0,2
+2024-06-25,Afternoon,Guntur,Kurnool,80,Weekday,297.53,357,4,No Event,27417.6,0,Tuesday,0,0,2
+2024-06-25,Evening,Nalagonda,Mahbubnagar,253,Weekday,678.63,814,0,No Event,205942.0,1,Tuesday,1,0,2
+2024-06-26,Afternoon,Kurnool,Karimnagar,118,Weekday,422.95,508,4,No Event,57546.24,0,Wednesday,0,0,2
+2024-06-26,Evening,Nalagonda,Guntur,311,Weekday,692.13,831,5,No Event,245518.94999999998,1,Wednesday,1,0,2
+2024-06-26,Morning,Kadapa,Vijayawada,249,Weekday,383.68,460,3,No Event,111103.8,0,Wednesday,2,0,2
+2024-06-27,Morning,Visakhapatnam,Secunderabad,193,Weekday,610.32,732,5,No Event,134212.19999999998,0,Thursday,2,0,2
+2024-06-28,Afternoon,Nizamabad,Karimnagar,192,Weekday,148.92,179,4,No Event,32993.28,0,Friday,0,0,2
+2024-06-28,Evening,Khammam,Hyderabad,193,Weekday,194.9,234,0,No Event,45162.0,0,Friday,1,0,2
+2024-06-28,Night,Nalagonda,Vijayawada,87,Weekday,726.77,872,0,No Event,75864.0,0,Friday,3,0,2
+2024-06-28,Night,Vijayawada,Guntur,128,Weekday,37.88,45,4,No Event,5529.599999999999,0,Friday,3,0,2
+2024-06-29,Night,Kadapa,Hyderabad,83,Weekend,411.52,494,15,Weekend,34851.7,0,Saturday,3,1,3
+2024-06-29,Evening,Khammam,Nizamabad,302,Weekend,332.21,399,15,Weekend,102423.3,1,Saturday,1,1,3
+2024-06-29,Morning,Vijayawada,Kadapa,164,Weekend,383.68,460,15,Weekend,64124.0,0,Saturday,2,1,3
+2024-06-29,Morning,Kurnool,Nalagonda,181,Weekend,561.65,674,10,Weekend,109794.6,0,Saturday,2,1,3
+2024-06-29,Morning,Vijayawada,Tenali,223,Weekend,33.07,40,15,Weekend,7582.0,0,Saturday,2,1,3
+2024-06-30,Night,Guntur,Secunderabad,147,Weekend,276.86,332,10,Weekend,43923.6,0,Sunday,3,1,3
+2024-06-30,Night,Khammam,Kadapa,88,Weekend,412.49,495,10,Weekend,39204.0,0,Sunday,3,1,3
+2024-06-30,Morning,Guntur,Nellore,179,Weekend,245.33,294,15,Weekend,44732.1,0,Sunday,2,1,3
+2024-06-30,Morning,Visakhapatnam,Nizamabad,123,Weekend,742.62,891,10,Weekend,98633.7,0,Sunday,2,1,3
+2024-06-30,Afternoon,Kakinada,Guntur,88,Weekend,254.32,305,10,Weekend,24156.0,0,Sunday,0,1,3
+2024-06-30,Afternoon,Vijayawada,Secunderabad,82,Weekend,282.02,338,10,Weekend,24944.4,0,Sunday,0,1,3
+2024-07-01,Evening,Mahbubnagar,Khammam,292,Weekday,283.12,340,5,No Event,94316.0,1,Monday,1,0,2
+2024-07-01,Morning,Nizamabad,Rajahmundry,221,Weekday,539.25,647,4,No Event,137267.52,0,Monday,2,0,2
+2024-07-01,Evening,Kurnool,Khammam,265,Weekday,396.97,476,2,No Event,123617.2,1,Monday,1,0,2
+2024-07-01,Morning,Rajahmundry,Karimnagar,181,Weekday,399.74,480,5,No Event,82536.0,0,Monday,2,0,2
+2024-07-01,Morning,Visakhapatnam,Nellore,243,Weekday,641.27,770,3,No Event,181496.69999999998,0,Monday,2,0,2
+2024-07-01,Morning,Nalagonda,Kakinada,146,Weekday,925.6,1111,3,No Event,157339.82,0,Monday,2,0,2
+2024-07-02,Morning,Rajahmundry,Warangal,250,Weekday,323.09,388,3,No Event,94090.0,0,Tuesday,2,0,2
+2024-07-02,Night,Mahbubnagar,Secunderabad,66,Weekday,108.57,130,2,No Event,8408.4,0,Tuesday,3,0,2
+2024-07-02,Afternoon,Rajahmundry,Kakinada,100,Weekday,60.27,72,4,No Event,6912.0,0,Tuesday,0,0,2
+2024-07-02,Evening,Vijayawada,Tenali,285,Weekday,33.07,40,2,No Event,11172.0,1,Tuesday,1,0,2
+2024-07-03,Evening,Visakhapatnam,Kadapa,287,Weekday,744.57,893,3,No Event,248602.27,1,Wednesday,1,0,2
+2024-07-03,Morning,Tenali,Karimnagar,214,Weekday,351.2,421,0,No Event,90094.0,0,Wednesday,2,0,2
+2024-07-03,Afternoon,Rajahmundry,Kadapa,96,Weekday,541.2,649,3,No Event,60434.88,0,Wednesday,0,0,2
+2024-07-03,Afternoon,Kadapa,Vijayawada,109,Weekday,383.68,460,3,No Event,48635.799999999996,0,Wednesday,0,0,2
+2024-07-04,Evening,Hyderabad,Mahbubnagar,287,Weekday,99.48,119,4,No Event,32786.88,1,Thursday,1,0,2
+2024-07-04,Night,Nalagonda,Vijayawada,133,Weekday,726.77,872,0,No Event,115976.0,0,Thursday,3,0,2
+2024-07-04,Night,Kadapa,Nalagonda,86,Weekday,409.42,491,0,No Event,42226.0,0,Thursday,3,0,2
+2024-07-04,Night,Hyderabad,Rajahmundry,79,Weekday,400.95,481,0,No Event,37999.0,0,Thursday,3,0,2
+2024-07-05,Morning,Vijayawada,Khammam,221,Weekday,130.3,156,1,No Event,34131.24,0,Friday,2,0,2
+2024-07-05,Evening,Secunderabad,Karimnagar,191,Weekday,173.04,208,1,No Event,39330.72,0,Friday,1,0,2
+2024-07-05,Afternoon,Hyderabad,Visakhapatnam,163,Weekday,604.32,725,0,No Event,118175.0,0,Friday,0,0,2
+2024-07-05,Morning,Khammam,Karimnagar,146,Weekday,195.0,234,3,No Event,33139.08,0,Friday,2,0,2
+2024-07-05,Morning,Mahbubnagar,Tenali,193,Weekday,350.45,421,0,No Event,81253.0,0,Friday,2,0,2
+2024-07-05,Morning,Mahbubnagar,Nalagonda,215,Weekday,678.63,814,0,No Event,175010.0,0,Friday,2,0,2
+2024-07-05,Afternoon,Secunderabad,Khammam,99,Weekday,199.31,239,2,No Event,23187.78,0,Friday,0,0,2
+2024-07-05,Afternoon,Hyderabad,Kadapa,116,Weekday,411.52,494,3,No Event,55584.88,0,Friday,0,0,2
+2024-07-05,Evening,Rajahmundry,Mahbubnagar,183,Weekday,495.83,595,5,No Event,103440.75,0,Friday,1,0,2
+2024-07-06,Night,Kadapa,Rajahmundry,115,Weekend,541.2,649,15,Weekend,63439.75,0,Saturday,3,1,3
+2024-07-06,Afternoon,Guntur,Tirupati,187,Weekend,381.39,458,10,Weekend,77081.40000000001,0,Saturday,0,1,3
+2024-07-06,Morning,Karimnagar,Khammam,182,Weekend,195.0,234,10,Weekend,38329.200000000004,0,Saturday,2,1,3
+2024-07-06,Morning,Guntur,Karimnagar,198,Weekend,356.45,428,15,Weekend,72032.4,0,Saturday,2,1,3
+2024-07-06,Morning,Kurnool,Khammam,180,Weekend,396.97,476,15,Weekend,72828.0,0,Saturday,2,1,3
+2024-07-07,Afternoon,Tirupati,Khammam,175,Weekend,505.63,607,10,Weekend,95602.5,0,Sunday,0,1,3
+2024-07-07,Evening,Nellore,Tirupati,183,Weekend,136.37,164,10,Weekend,27010.8,0,Sunday,1,1,3
+2024-07-07,Evening,Hyderabad,Secunderabad,188,Weekend,9.46,11,15,Weekend,1757.8,0,Sunday,1,1,3
+2024-07-08,Evening,Kadapa,Nizamabad,257,Weekday,585.59,703,0,No Event,180671.0,1,Monday,1,0,2
+2024-07-08,Evening,Nalagonda,Guntur,279,Weekday,692.13,831,5,No Event,220256.55,1,Monday,1,0,2
+2024-07-09,Night,Mahbubnagar,Warangal,136,Weekday,244.22,293,0,No Event,39848.0,0,Tuesday,3,0,2
+2024-07-09,Morning,Kadapa,Rajahmundry,160,Weekday,541.2,649,5,No Event,98648.0,0,Tuesday,2,0,2
+2024-07-09,Evening,Karimnagar,Visakhapatnam,259,Weekday,603.1,724,2,No Event,183765.68,1,Tuesday,1,0,2
+2024-07-09,Afternoon,Nellore,Tirupati,84,Weekday,136.37,164,0,No Event,13776.0,0,Tuesday,0,0,2
+2024-07-10,Night,Hyderabad,Warangal,87,Weekday,149.36,179,2,No Event,15261.539999999999,0,Wednesday,3,0,2
+2024-07-10,Evening,Kakinada,Warangal,286,Weekday,381.97,458,3,No Event,127058.36,1,Wednesday,1,0,2
+2024-07-10,Morning,Secunderabad,Vijayawada,178,Weekday,282.02,338,1,No Event,59562.36,0,Wednesday,2,0,2
+2024-07-10,Night,Karimnagar,Kurnool,71,Weekday,422.95,508,3,No Event,34985.96,0,Wednesday,3,0,2
+2024-07-11,Evening,Nellore,Kadapa,205,Weekday,174.93,210,4,No Event,41328.0,0,Thursday,1,0,2
+2024-07-11,Morning,Khammam,Visakhapatnam,181,Weekday,408.01,490,4,No Event,85142.4,0,Thursday,2,0,2
+2024-07-12,Afternoon,Nizamabad,Kakinada,140,Weekday,597.23,717,0,No Event,100380.0,0,Friday,0,0,2
+2024-07-12,Afternoon,Kurnool,Tenali,163,Weekday,329.18,395,4,No Event,61809.6,0,Friday,0,0,2
+2024-07-13,Morning,Tenali,Nizamabad,142,Weekend,449.04,539,10,Weekend,68884.2,0,Saturday,2,1,3
+2024-07-13,Morning,Vijayawada,Mahbubnagar,233,Weekend,344.37,413,10,Weekend,86606.1,0,Saturday,2,1,3
+2024-07-13,Evening,Kakinada,Vijayawada,223,Weekend,217.33,261,10,Weekend,52382.700000000004,0,Saturday,1,1,3
+2024-07-13,Night,Karimnagar,Nellore,63,Weekend,543.78,653,15,Weekend,34968.15,0,Saturday,3,1,3
+2024-07-13,Evening,Tirupati,Guntur,280,Weekend,381.39,458,10,Weekend,115416.0,1,Saturday,1,1,3
+2024-07-14,Night,Tenali,Secunderabad,147,Weekend,304.51,365,15,Weekend,45606.75,0,Sunday,3,1,3
+2024-07-14,Afternoon,Rajahmundry,Khammam,90,Weekend,204.64,246,15,Weekend,18819.0,0,Sunday,0,1,3
+2024-07-14,Night,Mahbubnagar,Secunderabad,82,Weekend,108.57,130,15,Weekend,9061.0,0,Sunday,3,1,3
+2024-07-14,Evening,Guntur,Rajahmundry,201,Weekend,195.41,234,10,Weekend,42330.6,0,Sunday,1,1,3
+2024-07-14,Morning,Guntur,Rajahmundry,167,Weekend,195.41,234,10,Weekend,35170.200000000004,0,Sunday,2,1,3
+2024-07-14,Morning,Khammam,Nellore,207,Weekend,369.57,443,15,Weekend,77945.84999999999,0,Sunday,2,1,3
+2024-07-15,Afternoon,Kakinada,Hyderabad,126,Weekday,459.86,552,1,No Event,68856.48,0,Monday,0,0,2
+2024-07-15,Morning,Guntur,Vijayawada,136,Weekday,37.88,45,2,No Event,5997.599999999999,0,Monday,2,0,2
+2024-07-16,Night,Warangal,Khammam,134,Weekday,118.24,142,0,No Event,19028.0,0,Tuesday,3,0,2
+2024-07-16,Morning,Tirupati,Kadapa,160,Weekday,140.34,168,5,No Event,25536.0,0,Tuesday,2,0,2
+2024-07-17,Morning,Rajahmundry,Mahbubnagar,192,Weekday,495.83,595,5,No Event,108528.0,0,Wednesday,2,0,2
+2024-07-17,Morning,Kadapa,Nellore,234,Weekday,174.93,210,4,No Event,47174.4,0,Wednesday,2,0,2
+2024-07-17,Afternoon,Tenali,Kakinada,163,Weekday,261.69,314,0,No Event,51182.0,0,Wednesday,0,0,2
+2024-07-18,Morning,Karimnagar,Tirupati,183,Weekday,679.85,816,2,No Event,146341.44,0,Thursday,2,0,2
+2024-07-18,Afternoon,Hyderabad,Secunderabad,95,Weekday,9.46,11,5,No Event,992.75,0,Thursday,0,0,2
+2024-07-18,Night,Kadapa,Kakinada,85,Weekday,583.93,701,5,No Event,56605.75,0,Thursday,3,0,2
+2024-07-19,Evening,Kakinada,Khammam,282,Weekday,263.53,316,2,No Event,87329.76,1,Friday,1,0,2
+2024-07-19,Evening,Nizamabad,Warangal,222,Weekday,227.44,273,5,No Event,57575.7,0,Friday,1,0,2
+2024-07-19,Night,Nellore,Tenali,149,Weekday,253.03,304,0,No Event,45296.0,0,Friday,3,0,2
+2024-07-20,Afternoon,Kurnool,Nellore,87,Weekend,322.85,387,15,Weekend,28618.649999999998,0,Saturday,0,1,3
+2024-07-20,Afternoon,Hyderabad,Khammam,187,Weekend,194.9,234,15,Weekend,37194.299999999996,0,Saturday,0,1,3
+2024-07-20,Night,Kakinada,Tenali,141,Weekend,261.69,314,15,Weekend,37632.9,0,Saturday,3,1,3
+2024-07-20,Night,Hyderabad,Rajahmundry,108,Weekend,400.95,481,10,Weekend,46753.200000000004,0,Saturday,3,1,3
+2024-07-20,Afternoon,Karimnagar,Vijayawada,147,Weekend,320.65,385,10,Weekend,50935.5,0,Saturday,0,1,3
+2024-07-20,Evening,Hyderabad,Tirupati,270,Weekend,551.16,661,15,Weekend,151699.5,1,Saturday,1,1,3
+2024-07-20,Evening,Warangal,Nizamabad,307,Weekend,227.44,273,15,Weekend,71239.34999999999,1,Saturday,1,1,3
+2024-07-21,Afternoon,Kurnool,Visakhapatnam,151,Weekend,697.39,837,10,Weekend,113748.3,0,Sunday,0,1,3
+2024-07-21,Evening,Tenali,Warangal,224,Weekend,274.84,330,10,Weekend,66528.0,0,Sunday,1,1,3
+2024-07-21,Morning,Tenali,Karimnagar,195,Weekend,351.2,421,10,Weekend,73885.5,0,Sunday,2,1,3
+2024-07-21,Night,Secunderabad,Rajahmundry,119,Weekend,405.46,487,10,Weekend,52157.700000000004,0,Sunday,3,1,3
+2024-07-22,Morning,Kakinada,Kadapa,217,Weekday,583.93,701,2,No Event,149074.66,0,Monday,2,0,2
+2024-07-22,Morning,Secunderabad,Hyderabad,173,Weekday,9.46,11,3,No Event,1845.9099999999999,0,Monday,2,0,2
+2024-07-22,Morning,Hyderabad,Khammam,157,Weekday,194.9,234,5,No Event,34901.1,0,Monday,2,0,2
+2024-07-22,Afternoon,Vijayawada,Warangal,173,Weekday,244.67,294,2,No Event,49844.76,0,Monday,0,0,2
+2024-07-23,Evening,Tenali,Visakhapatnam,232,Weekday,393.96,473,0,No Event,109736.0,0,Tuesday,1,0,2
+2024-07-23,Evening,Kadapa,Karimnagar,291,Weekday,570.65,685,0,No Event,199335.0,1,Tuesday,1,0,2
+2024-07-23,Evening,Karimnagar,Khammam,314,Weekday,195.0,234,1,No Event,72741.24,1,Tuesday,1,0,2
+2024-07-23,Night,Secunderabad,Mahbubnagar,100,Weekday,108.57,130,2,No Event,12740.0,0,Tuesday,3,0,2
+2024-07-24,Afternoon,Visakhapatnam,Hyderabad,100,Weekday,604.32,725,4,No Event,69600.0,0,Wednesday,0,0,2
+2024-07-24,Evening,Vijayawada,Rajahmundry,264,Weekday,158.45,190,2,No Event,49156.799999999996,1,Wednesday,1,0,2
+2024-07-24,Morning,Kurnool,Vijayawada,232,Weekday,336.5,404,5,No Event,89041.59999999999,0,Wednesday,2,0,2
+2024-07-24,Morning,Tirupati,Rajahmundry,157,Weekday,573.02,688,3,No Event,104775.52,0,Wednesday,2,0,2
+2024-07-24,Night,Nalagonda,Karimnagar,135,Weekday,990.59,1189,2,No Event,157304.7,0,Wednesday,3,0,2
+2024-07-24,Afternoon,Mahbubnagar,Warangal,160,Weekday,244.22,293,0,No Event,46880.0,0,Wednesday,0,0,2
+2024-07-24,Morning,Mahbubnagar,Warangal,150,Weekday,244.22,293,0,No Event,43950.0,0,Wednesday,2,0,2
+2024-07-24,Afternoon,Visakhapatnam,Vijayawada,132,Weekday,361.84,434,2,No Event,56142.24,0,Wednesday,0,0,2
+2024-07-24,Night,Karimnagar,Guntur,124,Weekday,356.45,428,2,No Event,52010.56,0,Wednesday,3,0,2
+2024-07-25,Morning,Karimnagar,Kakinada,142,Weekday,458.76,551,2,No Event,76677.16,0,Thursday,2,0,2
+2024-07-25,Evening,Warangal,Nizamabad,290,Weekday,227.44,273,2,No Event,77586.6,1,Thursday,1,0,2
+2024-07-26,Morning,Mahbubnagar,Nizamabad,136,Weekday,273.79,329,4,No Event,42954.24,0,Friday,2,0,2
+2024-07-26,Night,Nalagonda,Warangal,60,Weekday,901.64,1082,0,No Event,64920.0,0,Friday,3,0,2
+2024-07-26,Night,Guntur,Mahbubnagar,79,Weekday,310.15,372,4,No Event,28212.48,0,Friday,3,0,2
+2024-07-26,Morning,Mahbubnagar,Kakinada,150,Weekday,548.14,658,2,No Event,96726.0,0,Friday,2,0,2
+2024-07-26,Evening,Rajahmundry,Guntur,280,Weekday,195.41,234,2,No Event,64209.6,1,Friday,1,0,2
+2024-07-27,Morning,Mahbubnagar,Secunderabad,205,Weekend,108.57,130,15,Weekend,22652.5,0,Saturday,2,1,3
+2024-07-27,Evening,Tenali,Kakinada,241,Weekend,261.69,314,10,Weekend,68106.6,0,Saturday,1,1,3
+2024-07-27,Night,Hyderabad,Vijayawada,73,Weekend,276.02,331,15,Weekend,20538.55,0,Saturday,3,1,3
+2024-07-27,Morning,Secunderabad,Nalagonda,248,Weekend,778.9,935,15,Weekend,197098.0,0,Saturday,2,1,3
+2024-07-28,Night,Kadapa,Kurnool,150,Weekend,200.49,241,15,Weekend,30727.5,0,Sunday,3,1,3
+2024-07-28,Evening,Karimnagar,Khammam,262,Weekend,195.0,234,10,Weekend,55177.200000000004,1,Sunday,1,1,3
+2024-07-28,Morning,Secunderabad,Rajahmundry,141,Weekend,405.46,487,10,Weekend,61800.3,0,Sunday,2,1,3
+2024-07-29,Night,Karimnagar,Nizamabad,129,Weekday,148.92,179,3,No Event,22398.27,0,Monday,3,0,2
+2024-07-29,Afternoon,Nalagonda,Hyderabad,155,Weekday,769.79,924,2,No Event,140355.6,0,Monday,0,0,2
+2024-07-29,Evening,Rajahmundry,Karimnagar,277,Weekday,399.74,480,5,No Event,126312.0,1,Monday,1,0,2
+2024-07-29,Night,Mahbubnagar,Secunderabad,107,Weekday,108.57,130,2,No Event,13631.8,0,Monday,3,0,2
+2024-07-29,Morning,Warangal,Secunderabad,220,Weekday,147.79,177,1,No Event,38550.6,0,Monday,2,0,2
+2024-07-29,Morning,Visakhapatnam,Guntur,225,Weekday,398.78,479,4,No Event,103464.0,0,Monday,2,0,2
+2024-07-29,Evening,Vijayawada,Kurnool,289,Weekday,336.5,404,1,No Event,115588.44,1,Monday,1,0,2
+2024-07-29,Afternoon,Tirupati,Nalagonda,143,Weekday,316.03,379,2,No Event,53113.06,0,Monday,0,0,2
+2024-07-30,Morning,Rajahmundry,Kadapa,188,Weekday,541.2,649,3,No Event,118351.64,0,Tuesday,2,0,2
+2024-07-31,Morning,Kurnool,Nalagonda,130,Weekday,561.65,674,4,No Event,84115.2,0,Wednesday,2,0,2
+2024-07-31,Morning,Secunderabad,Kadapa,121,Weekday,420.36,504,5,No Event,57934.799999999996,0,Wednesday,2,0,2
+2024-07-31,Morning,Guntur,Nalagonda,243,Weekday,692.13,831,4,No Event,193855.68,0,Wednesday,2,0,2
+2024-07-31,Morning,Nalagonda,Visakhapatnam,154,Weekday,1087.66,1305,1,No Event,198960.3,0,Wednesday,2,0,2
+2024-07-31,Morning,Kurnool,Mahbubnagar,200,Weekday,120.89,145,2,No Event,28420.0,0,Wednesday,2,0,2
+2024-07-31,Morning,Warangal,Secunderabad,148,Weekday,147.79,177,1,No Event,25934.04,0,Wednesday,2,0,2
+2024-07-31,Night,Tirupati,Khammam,64,Weekday,505.63,607,0,No Event,38848.0,0,Wednesday,3,0,2
+2024-08-01,Evening,Kakinada,Nizamabad,257,Weekday,597.23,717,3,No Event,178740.93,1,Thursday,1,0,2
+2024-08-02,Evening,Guntur,Vijayawada,196,Weekday,37.88,45,2,No Event,8643.6,0,Friday,1,0,2
+2024-08-02,Afternoon,Secunderabad,Kadapa,115,Weekday,420.36,504,5,No Event,55062.0,0,Friday,0,0,2
+2024-08-02,Morning,Nizamabad,Warangal,155,Weekday,227.44,273,5,No Event,40199.25,0,Friday,2,0,2
+2024-08-02,Morning,Guntur,Rajahmundry,128,Weekday,195.41,234,1,No Event,29652.48,0,Friday,2,0,2
+2024-08-02,Morning,Kurnool,Secunderabad,153,Weekday,219.87,264,2,No Event,39584.159999999996,0,Friday,2,0,2
+2024-08-02,Morning,Nalagonda,Tirupati,196,Weekday,316.03,379,5,No Event,70569.8,0,Friday,2,0,2
+2024-08-02,Evening,Warangal,Khammam,254,Weekday,118.24,142,0,No Event,36068.0,1,Friday,1,0,2
+2024-08-03,Night,Vijayawada,Rajahmundry,70,Weekend,158.45,190,15,Weekend,11305.0,0,Saturday,3,1,3
+2024-08-03,Afternoon,Nizamabad,Nalagonda,109,Weekend,944.12,1133,10,Weekend,111147.3,0,Saturday,0,1,3
+2024-08-03,Evening,Kakinada,Karimnagar,247,Weekend,458.76,551,10,Weekend,122487.3,0,Saturday,1,1,3
+2024-08-03,Evening,Kakinada,Tirupati,222,Weekend,614.86,738,10,Weekend,147452.4,0,Saturday,1,1,3
+2024-08-03,Evening,Kadapa,Guntur,264,Weekend,349.41,419,15,Weekend,94023.59999999999,1,Saturday,1,1,3
+2024-08-03,Evening,Nizamabad,Hyderabad,197,Weekend,174.68,210,10,Weekend,37233.0,0,Saturday,1,1,3
+2024-08-03,Afternoon,Tirupati,Nalagonda,189,Weekend,316.03,379,15,Weekend,60886.35,0,Saturday,0,1,3
+2024-08-03,Evening,Kurnool,Kadapa,188,Weekend,200.49,241,10,Weekend,40777.200000000004,0,Saturday,1,1,3
+2024-08-04,Morning,Tirupati,Secunderabad,175,Weekend,559.94,672,15,Weekend,99960.0,0,Sunday,2,1,3
+2024-08-04,Evening,Guntur,Khammam,214,Weekend,166.01,199,10,Weekend,38327.4,0,Sunday,1,1,3
+2024-08-04,Morning,Tirupati,Warangal,205,Weekend,605.06,726,15,Weekend,126505.5,0,Sunday,2,1,3
+2024-08-04,Evening,Tenali,Guntur,208,Weekend,30.72,37,10,Weekend,6926.400000000001,0,Sunday,1,1,3
+2024-08-05,Afternoon,Nizamabad,Visakhapatnam,181,Weekday,742.62,891,2,No Event,158045.58,0,Monday,0,0,2
+2024-08-05,Evening,Rajahmundry,Nellore,191,Weekday,437.9,525,1,No Event,99272.25,0,Monday,1,0,2
+2024-08-05,Evening,Kakinada,Visakhapatnam,311,Weekday,171.6,206,3,No Event,62144.02,1,Monday,1,0,2
+2024-08-05,Evening,Visakhapatnam,Mahbubnagar,193,Weekday,699.2,839,2,No Event,158688.46,0,Monday,1,0,2
+2024-08-06,Evening,Mahbubnagar,Guntur,236,Weekday,310.15,372,2,No Event,86036.16,0,Tuesday,1,0,2
+2024-08-06,Evening,Karimnagar,Nizamabad,297,Weekday,148.92,179,3,No Event,51568.11,1,Tuesday,1,0,2
+2024-08-07,Evening,Secunderabad,Nellore,240,Weekday,462.5,555,3,No Event,129204.0,0,Wednesday,1,0,2
+2024-08-07,Morning,Kakinada,Warangal,173,Weekday,381.97,458,3,No Event,76856.98,0,Wednesday,2,0,2
+2024-08-08,Evening,Mahbubnagar,Visakhapatnam,283,Weekday,699.2,839,5,No Event,225565.15,1,Thursday,1,0,2
+2024-08-09,Evening,Khammam,Warangal,193,Weekday,118.24,142,4,No Event,26309.76,0,Friday,1,0,2
+2024-08-09,Afternoon,Kakinada,Kadapa,200,Weekday,583.93,701,2,No Event,137396.0,0,Friday,0,0,2
+2024-08-09,Afternoon,Kurnool,Rajahmundry,121,Weekday,494.02,593,3,No Event,69600.41,0,Friday,0,0,2
+2024-08-09,Morning,Rajahmundry,Kadapa,143,Weekday,541.2,649,3,No Event,90022.79,0,Friday,2,0,2
+2024-08-09,Afternoon,Kurnool,Warangal,199,Weekday,355.52,427,0,No Event,84973.0,0,Friday,0,0,2
+2024-08-09,Morning,Kakinada,Mahbubnagar,182,Weekday,548.14,658,3,No Event,116163.31999999999,0,Friday,2,0,2
+2024-08-10,Afternoon,Karimnagar,Vijayawada,149,Weekend,320.65,385,10,Weekend,51628.5,0,Saturday,0,1,3
+2024-08-10,Morning,Kurnool,Nizamabad,162,Weekend,385.09,462,15,Weekend,63617.4,0,Saturday,2,1,3
+2024-08-10,Morning,Tirupati,Mahbubnagar,214,Weekend,460.0,552,15,Weekend,100408.8,0,Saturday,2,1,3
+2024-08-10,Night,Visakhapatnam,Mahbubnagar,131,Weekend,699.2,839,15,Weekend,93422.65,0,Saturday,3,1,3
+2024-08-10,Night,Nalagonda,Rajahmundry,132,Weekend,884.3,1061,10,Weekend,126046.8,0,Saturday,3,1,3
+2024-08-11,Evening,Kadapa,Rajahmundry,210,Weekend,541.2,649,15,Weekend,115846.5,0,Sunday,1,1,3
+2024-08-11,Morning,Tenali,Tirupati,218,Weekend,387.98,466,15,Weekend,86349.8,0,Sunday,2,1,3
+2024-08-12,Evening,Mahbubnagar,Guntur,299,Weekday,310.15,372,2,No Event,109003.44,1,Monday,1,0,2
+2024-08-12,Night,Guntur,Nizamabad,96,Weekday,441.78,530,1,No Event,50371.2,0,Monday,3,0,2
+2024-08-12,Afternoon,Hyderabad,Warangal,127,Weekday,149.36,179,2,No Event,22278.34,0,Monday,0,0,2
+2024-08-12,Morning,Nalagonda,Nizamabad,235,Weekday,944.12,1133,0,No Event,266255.0,0,Monday,2,0,2
+2024-08-12,Morning,Nizamabad,Nalagonda,242,Weekday,944.12,1133,0,No Event,274186.0,0,Monday,2,0,2
+2024-08-12,Evening,Tenali,Visakhapatnam,295,Weekday,393.96,473,0,No Event,139535.0,1,Monday,1,0,2
+2024-08-12,Evening,Visakhapatnam,Secunderabad,269,Weekday,610.32,732,5,No Event,187062.59999999998,1,Monday,1,0,2
+2024-08-13,Afternoon,Nellore,Vijayawada,177,Weekday,280.37,336,2,No Event,58282.56,0,Tuesday,0,0,2
+2024-08-13,Evening,Secunderabad,Vijayawada,249,Weekday,282.02,338,1,No Event,83320.38,0,Tuesday,1,0,2
+2024-08-14,Evening,Nellore,Warangal,216,Weekday,470.66,565,5,No Event,115938.0,0,Wednesday,1,0,2
+2024-08-14,Afternoon,Mahbubnagar,Karimnagar,111,Weekday,309.11,371,4,No Event,39533.76,0,Wednesday,0,0,2
+2024-08-14,Morning,Karimnagar,Visakhapatnam,137,Weekday,603.1,724,2,No Event,97204.24,0,Wednesday,2,0,2
+2024-08-14,Evening,Visakhapatnam,Guntur,181,Weekday,398.78,479,4,No Event,83231.04,0,Wednesday,1,0,2
+2024-08-14,Afternoon,Hyderabad,Kurnool,87,Weekday,213.32,256,3,No Event,21603.84,0,Wednesday,0,0,2
+2024-08-15,Night,Nizamabad,Secunderabad,118,Weekday,166.26,200,4,No Event,22656.0,0,Thursday,3,0,2
+2024-08-15,Evening,Guntur,Secunderabad,294,Weekday,276.86,332,0,No Event,97608.0,1,Thursday,1,0,2
+2024-08-15,Afternoon,Tirupati,Nalagonda,99,Weekday,316.03,379,2,No Event,36770.58,0,Thursday,0,0,2
+2024-08-15,Morning,Kakinada,Warangal,149,Weekday,381.97,458,3,No Event,66194.74,0,Thursday,2,0,2
+2024-08-16,Afternoon,Nellore,Hyderabad,121,Weekday,454.19,545,4,No Event,63307.2,0,Friday,0,0,2
+2024-08-16,Evening,Kadapa,Hyderabad,183,Weekday,411.52,494,3,No Event,87689.94,0,Friday,1,0,2
+2024-08-16,Morning,Kurnool,Nizamabad,239,Weekday,385.09,462,2,No Event,108209.64,0,Friday,2,0,2
+2024-08-16,Morning,Vijayawada,Nalagonda,197,Weekday,726.77,872,4,No Event,164912.63999999998,0,Friday,2,0,2
+2024-08-16,Afternoon,Hyderabad,Tenali,95,Weekday,298.51,358,3,No Event,32989.7,0,Friday,0,0,2
+2024-08-16,Morning,Rajahmundry,Nellore,169,Weekday,437.9,525,1,No Event,87837.75,0,Friday,2,0,2
+2024-08-17,Evening,Tirupati,Khammam,188,Weekend,505.63,607,10,Weekend,102704.40000000001,0,Saturday,1,1,3
+2024-08-18,Evening,Nalagonda,Tirupati,187,Weekend,316.03,379,15,Weekend,60242.049999999996,0,Sunday,1,1,3
+2024-08-18,Afternoon,Vijayawada,Kadapa,81,Weekend,383.68,460,15,Weekend,31671.0,0,Sunday,0,1,3
+2024-08-18,Evening,Secunderabad,Kadapa,258,Weekend,420.36,504,15,Weekend,110527.2,1,Sunday,1,1,3
+2024-08-18,Evening,Tirupati,Kakinada,299,Weekend,614.86,738,10,Weekend,198595.80000000002,1,Sunday,1,1,3
+2024-08-19,Night,Visakhapatnam,Mahbubnagar,147,Weekday,699.2,839,2,No Event,120866.34,0,Monday,3,0,2
+2024-08-19,Morning,Tirupati,Nizamabad,239,Weekday,726.1,871,3,No Event,201923.93,0,Monday,2,0,2
+2024-08-19,Night,Tenali,Nalagonda,87,Weekday,699.42,839,0,No Event,72993.0,0,Monday,3,0,2
+2024-08-19,Afternoon,Secunderabad,Karimnagar,193,Weekday,173.04,208,1,No Event,39742.56,0,Monday,0,0,2
+2024-08-19,Afternoon,Secunderabad,Tirupati,154,Weekday,559.94,672,3,No Event,100383.36,0,Monday,0,0,2
+2024-08-20,Evening,Secunderabad,Kakinada,241,Weekday,464.34,557,4,No Event,128867.51999999999,0,Tuesday,1,0,2
+2024-08-20,Evening,Guntur,Vijayawada,313,Weekday,37.88,45,2,No Event,13803.3,1,Tuesday,1,0,2
+2024-08-20,Morning,Hyderabad,Mahbubnagar,133,Weekday,99.48,119,4,No Event,15193.92,0,Tuesday,2,0,2
+2024-08-20,Evening,Nalagonda,Guntur,290,Weekday,692.13,831,5,No Event,228940.5,1,Tuesday,1,0,2
+2024-08-20,Morning,Kurnool,Nellore,136,Weekday,322.85,387,3,No Event,51053.04,0,Tuesday,2,0,2
+2024-08-20,Evening,Hyderabad,Tirupati,259,Weekday,551.16,661,4,No Event,164351.04,1,Tuesday,1,0,2
+2024-08-20,Morning,Secunderabad,Kakinada,176,Weekday,464.34,557,4,No Event,94110.72,0,Tuesday,2,0,2
+2024-08-20,Morning,Hyderabad,Nalagonda,175,Weekday,769.79,924,0,No Event,161700.0,0,Tuesday,2,0,2
+2024-08-20,Evening,Khammam,Warangal,299,Weekday,118.24,142,4,No Event,40759.68,1,Tuesday,1,0,2
+2024-08-21,Morning,Kurnool,Karimnagar,244,Weekday,422.95,508,4,No Event,118993.92,0,Wednesday,2,0,2
+2024-08-21,Evening,Nalagonda,Tirupati,200,Weekday,316.03,379,5,No Event,72010.0,0,Wednesday,1,0,2
+2024-08-22,Morning,Warangal,Hyderabad,127,Weekday,149.36,179,1,No Event,22505.67,0,Thursday,2,0,2
+2024-08-22,Morning,Tenali,Guntur,236,Weekday,30.72,37,1,No Event,8644.68,0,Thursday,2,0,2
+2024-08-22,Morning,Guntur,Nalagonda,143,Weekday,692.13,831,4,No Event,114079.68,0,Thursday,2,0,2
+2024-08-23,Afternoon,Guntur,Visakhapatnam,88,Weekday,398.78,479,3,No Event,40887.44,0,Friday,0,0,2
+2024-08-23,Afternoon,Vijayawada,Visakhapatnam,196,Weekday,361.84,434,5,No Event,80810.8,0,Friday,0,0,2
+2024-08-23,Afternoon,Nalagonda,Warangal,159,Weekday,901.64,1082,0,No Event,172038.0,0,Friday,0,0,2
+2024-08-24,Night,Guntur,Hyderabad,108,Weekend,270.74,325,15,Weekend,29835.0,0,Saturday,3,1,3
+2024-08-24,Evening,Warangal,Kadapa,197,Weekend,493.86,593,15,Weekend,99297.84999999999,0,Saturday,1,1,3
+2024-08-24,Morning,Karimnagar,Tirupati,242,Weekend,679.85,816,15,Weekend,167851.19999999998,0,Saturday,2,1,3
+2024-08-24,Evening,Visakhapatnam,Tirupati,281,Weekend,775.66,931,15,Weekend,222369.35,1,Saturday,1,1,3
+2024-08-25,Morning,Visakhapatnam,Tirupati,219,Weekend,775.66,931,15,Weekend,173305.65,0,Sunday,2,1,3
+2024-08-25,Evening,Hyderabad,Karimnagar,281,Weekend,213.92,257,10,Weekend,64995.3,1,Sunday,1,1,3
+2024-08-26,Morning,Kadapa,Rajahmundry,142,Weekday,541.2,649,5,No Event,87550.09999999999,0,Monday,2,0,2
+2024-08-26,Morning,Tenali,Khammam,209,Weekday,160.85,193,1,No Event,39933.63,0,Monday,2,0,2
+2024-08-26,Afternoon,Nizamabad,Tirupati,182,Weekday,726.1,871,3,No Event,153766.34,0,Monday,0,0,2
+2024-08-26,Evening,Hyderabad,Guntur,308,Weekday,270.74,325,1,No Event,99099.0,1,Monday,1,0,2
+2024-08-27,Evening,Visakhapatnam,Secunderabad,315,Weekday,610.32,732,5,No Event,219051.0,1,Tuesday,1,0,2
+2024-08-27,Afternoon,Vijayawada,Kadapa,170,Weekday,383.68,460,3,No Event,75854.0,0,Tuesday,0,0,2
+2024-08-27,Evening,Kurnool,Secunderabad,319,Weekday,219.87,264,2,No Event,82531.68,1,Tuesday,1,0,2
+2024-08-27,Morning,Vijayawada,Khammam,123,Weekday,130.3,156,1,No Event,18996.12,0,Tuesday,2,0,2
+2024-08-27,Evening,Warangal,Mahbubnagar,245,Weekday,244.22,293,1,No Event,71067.15,0,Tuesday,1,0,2
+2024-08-27,Afternoon,Nalagonda,Kadapa,123,Weekday,409.42,491,3,No Event,58581.21,0,Tuesday,0,0,2
+2024-08-28,Night,Tirupati,Mahbubnagar,98,Weekday,460.0,552,3,No Event,52473.119999999995,0,Wednesday,3,0,2
+2024-08-28,Evening,Khammam,Karimnagar,234,Weekday,195.0,234,3,No Event,53113.32,0,Wednesday,1,0,2
+2024-08-29,Morning,Kakinada,Guntur,204,Weekday,254.32,305,0,No Event,62220.0,0,Thursday,2,0,2
+2024-08-29,Night,Kadapa,Mahbubnagar,92,Weekday,321.38,386,0,No Event,35512.0,0,Thursday,3,0,2
+2024-08-29,Night,Karimnagar,Hyderabad,112,Weekday,213.92,257,5,No Event,27344.8,0,Thursday,3,0,2
+2024-08-29,Evening,Nalagonda,Visakhapatnam,231,Weekday,1087.66,1305,1,No Event,298440.45,0,Thursday,1,0,2
+2024-08-30,Night,Rajahmundry,Guntur,126,Weekday,195.41,234,2,No Event,28894.32,0,Friday,3,0,2
+2024-08-30,Night,Nizamabad,Karimnagar,92,Weekday,148.92,179,4,No Event,15809.279999999999,0,Friday,3,0,2
+2024-08-30,Morning,Nizamabad,Secunderabad,188,Weekday,166.26,200,4,No Event,36096.0,0,Friday,2,0,2
+2024-08-31,Evening,Tenali,Nalagonda,228,Weekend,699.42,839,10,Weekend,172162.80000000002,0,Saturday,1,1,3
+2024-08-31,Night,Guntur,Vijayawada,81,Weekend,37.88,45,15,Weekend,3098.25,0,Saturday,3,1,3
+2024-08-31,Afternoon,Nalagonda,Guntur,182,Weekend,692.13,831,15,Weekend,128555.7,0,Saturday,0,1,3
+2024-09-01,Night,Nizamabad,Nalagonda,92,Weekend,944.12,1133,10,Weekend,93812.40000000001,0,Sunday,3,1,3
+2024-09-01,Night,Kakinada,Visakhapatnam,82,Weekend,171.6,206,15,Weekend,14358.199999999999,0,Sunday,3,1,3
+2024-09-01,Evening,Nellore,Khammam,314,Weekend,369.57,443,15,Weekend,118236.7,1,Sunday,1,1,3
+2024-09-01,Morning,Nalagonda,Nizamabad,121,Weekend,944.12,1133,10,Weekend,123383.7,0,Sunday,2,1,3
+2024-09-01,Afternoon,Nellore,Warangal,200,Weekend,470.66,565,10,Weekend,101700.0,0,Sunday,0,1,3
+2024-09-01,Evening,Vijayawada,Guntur,203,Weekend,37.88,45,10,Weekend,8221.5,0,Sunday,1,1,3
+2024-09-02,Evening,Tirupati,Hyderabad,231,Weekday,551.16,661,2,No Event,149637.18,0,Monday,1,0,2
+2024-09-02,Evening,Nizamabad,Warangal,257,Weekday,227.44,273,5,No Event,66652.95,1,Monday,1,0,2
+2024-09-02,Afternoon,Karimnagar,Mahbubnagar,103,Weekday,309.11,371,5,No Event,36302.35,0,Monday,0,0,2
+2024-09-02,Night,Tirupati,Karimnagar,124,Weekday,679.85,816,4,No Event,97136.64,0,Monday,3,0,2
+2024-09-02,Afternoon,Kadapa,Warangal,138,Weekday,493.86,593,0,No Event,81834.0,0,Monday,0,0,2
+2024-09-02,Morning,Karimnagar,Kadapa,231,Weekday,570.65,685,0,No Event,158235.0,0,Monday,2,0,2
+2024-09-02,Afternoon,Secunderabad,Kurnool,145,Weekday,219.87,264,5,No Event,36366.0,0,Monday,0,0,2
+2024-09-02,Afternoon,Hyderabad,Warangal,115,Weekday,149.36,179,2,No Event,20173.3,0,Monday,0,0,2
+2024-09-02,Morning,Khammam,Nalagonda,133,Weekday,816.37,980,4,No Event,125126.4,0,Monday,2,0,2
+2024-09-03,Morning,Nalagonda,Kakinada,149,Weekday,925.6,1111,3,No Event,160572.83,0,Tuesday,2,0,2
+2024-09-03,Evening,Visakhapatnam,Karimnagar,281,Weekday,603.1,724,3,No Event,197340.68,1,Tuesday,1,0,2
+2024-09-04,Evening,Hyderabad,Mahbubnagar,268,Weekday,99.48,119,4,No Event,30616.32,1,Wednesday,1,0,2
+2024-09-04,Evening,Karimnagar,Kadapa,246,Weekday,570.65,685,0,No Event,168510.0,0,Wednesday,1,0,2
+2024-09-04,Afternoon,Hyderabad,Kurnool,197,Weekday,213.32,256,3,No Event,48919.04,0,Wednesday,0,0,2
+2024-09-05,Evening,Nalagonda,Tirupati,287,Weekday,316.03,379,5,No Event,103334.34999999999,1,Thursday,1,0,2
+2024-09-05,Morning,Hyderabad,Kurnool,182,Weekday,213.32,256,3,No Event,45194.24,0,Thursday,2,0,2
+2024-09-05,Morning,Tenali,Kakinada,185,Weekday,261.69,314,0,No Event,58090.0,0,Thursday,2,0,2
+2024-09-05,Morning,Kadapa,Warangal,230,Weekday,493.86,593,0,No Event,136390.0,0,Thursday,2,0,2
+2024-09-06,Morning,Visakhapatnam,Kakinada,132,Weekday,171.6,206,0,No Event,27192.0,0,Friday,2,0,2
+2024-09-06,Afternoon,Karimnagar,Warangal,169,Weekday,79.27,95,3,No Event,15573.35,0,Friday,0,0,2
+2024-09-06,Afternoon,Guntur,Nalagonda,161,Weekday,692.13,831,4,No Event,128439.36,0,Friday,0,0,2
+2024-09-06,Evening,Nellore,Tirupati,196,Weekday,136.37,164,0,No Event,32144.0,0,Friday,1,0,2
+2024-09-07,Evening,Kakinada,Nalagonda,271,Weekend,925.6,1111,10,Weekend,270972.9,1,Saturday,1,1,3
+2024-09-08,Morning,Nellore,Karimnagar,171,Weekend,543.78,653,15,Weekend,94913.55,0,Sunday,2,1,3
+2024-09-08,Night,Khammam,Secunderabad,104,Weekend,199.31,239,15,Weekend,21127.6,0,Sunday,3,1,3
+2024-09-08,Afternoon,Guntur,Mahbubnagar,118,Weekend,310.15,372,10,Weekend,39506.4,0,Sunday,0,1,3
+2024-09-08,Morning,Hyderabad,Rajahmundry,244,Weekend,400.95,481,10,Weekend,105627.6,0,Sunday,2,1,3
+2024-09-09,Night,Mahbubnagar,Nizamabad,87,Weekday,273.79,329,4,No Event,27478.079999999998,0,Monday,3,0,2
+2024-09-09,Morning,Mahbubnagar,Vijayawada,197,Weekday,344.37,413,3,No Event,78920.17,0,Monday,2,0,2
+2024-09-10,Morning,Tirupati,Tenali,148,Weekday,387.98,466,3,No Event,66898.95999999999,0,Tuesday,2,0,2
+2024-09-10,Afternoon,Kadapa,Tenali,174,Weekday,356.33,428,3,No Event,72237.84,0,Tuesday,0,0,2
+2024-09-10,Afternoon,Tirupati,Nizamabad,128,Weekday,726.1,871,3,No Event,108143.36,0,Tuesday,0,0,2
+2024-09-11,Evening,Khammam,Rajahmundry,225,Weekday,204.64,246,1,No Event,54796.5,0,Wednesday,1,0,2
+2024-09-11,Evening,Rajahmundry,Nellore,236,Weekday,437.9,525,1,No Event,122661.0,0,Wednesday,1,0,2
+2024-09-11,Afternoon,Kurnool,Kadapa,196,Weekday,200.49,241,0,No Event,47236.0,0,Wednesday,0,0,2
+2024-09-12,Afternoon,Secunderabad,Mahbubnagar,100,Weekday,108.57,130,2,No Event,12740.0,0,Thursday,0,0,2
+2024-09-12,Evening,Hyderabad,Secunderabad,254,Weekday,9.46,11,5,No Event,2654.2999999999997,1,Thursday,1,0,2
+2024-09-12,Afternoon,Hyderabad,Karimnagar,147,Weekday,213.92,257,4,No Event,36267.84,0,Thursday,0,0,2
+2024-09-12,Morning,Secunderabad,Tirupati,153,Weekday,559.94,672,3,No Event,99731.52,0,Thursday,2,0,2
+2024-09-12,Morning,Vijayawada,Tirupati,169,Weekday,414.77,498,4,No Event,80795.52,0,Thursday,2,0,2
+2024-09-13,Evening,Rajahmundry,Khammam,317,Weekday,204.64,246,2,No Event,76422.36,1,Friday,1,0,2
+2024-09-13,Morning,Guntur,Nalagonda,238,Weekday,692.13,831,4,No Event,189866.88,0,Friday,2,0,2
+2024-09-13,Evening,Karimnagar,Kurnool,192,Weekday,422.95,508,3,No Event,94609.92,0,Friday,1,0,2
+2024-09-13,Afternoon,Nizamabad,Rajahmundry,148,Weekday,539.25,647,4,No Event,91925.76,0,Friday,0,0,2
+2024-09-13,Evening,Karimnagar,Rajahmundry,198,Weekday,399.74,480,0,No Event,95040.0,0,Friday,1,0,2
+2024-09-14,Morning,Kakinada,Nizamabad,125,Weekend,597.23,717,15,Weekend,76181.25,0,Saturday,2,1,3
+2024-09-15,Afternoon,Kakinada,Nizamabad,137,Weekend,597.23,717,15,Weekend,83494.65,0,Sunday,0,1,3
+2024-09-15,Evening,Nizamabad,Rajahmundry,243,Weekend,539.25,647,10,Weekend,141498.9,0,Sunday,1,1,3
+2024-09-15,Afternoon,Mahbubnagar,Guntur,129,Weekend,310.15,372,15,Weekend,40789.799999999996,0,Sunday,0,1,3
+2024-09-16,Evening,Kurnool,Kadapa,189,Weekday,200.49,241,0,No Event,45549.0,0,Monday,1,0,2
+2024-09-16,Morning,Nellore,Khammam,235,Weekday,369.57,443,3,No Event,100981.84999999999,0,Monday,2,0,2
+2024-09-16,Morning,Mahbubnagar,Kadapa,122,Weekday,321.38,386,3,No Event,45679.24,0,Monday,2,0,2
+2024-09-16,Afternoon,Nizamabad,Kakinada,86,Weekday,597.23,717,0,No Event,61662.0,0,Monday,0,0,2
+2024-09-16,Afternoon,Karimnagar,Tirupati,170,Weekday,679.85,816,2,No Event,135945.6,0,Monday,0,0,2
+2024-09-17,Afternoon,Tirupati,Guntur,84,Weekday,381.39,458,0,No Event,38472.0,0,Tuesday,0,0,2
+2024-09-17,Evening,Nizamabad,Kurnool,234,Weekday,385.09,462,2,No Event,105945.84,0,Tuesday,1,0,2
+2024-09-17,Evening,Kurnool,Nellore,260,Weekday,322.85,387,3,No Event,97601.4,1,Tuesday,1,0,2
+2024-09-17,Evening,Visakhapatnam,Guntur,302,Weekday,398.78,479,4,No Event,138871.68,1,Tuesday,1,0,2
+2024-09-18,Evening,Secunderabad,Guntur,276,Weekday,276.86,332,2,No Event,89799.36,1,Wednesday,1,0,2
+2024-09-18,Afternoon,Khammam,Nizamabad,107,Weekday,332.21,399,3,No Event,41412.21,0,Wednesday,0,0,2
+2024-09-18,Evening,Nizamabad,Nalagonda,228,Weekday,944.12,1133,0,No Event,258324.0,0,Wednesday,1,0,2
+2024-09-18,Morning,Secunderabad,Karimnagar,197,Weekday,173.04,208,1,No Event,40566.24,0,Wednesday,2,0,2
+2024-09-19,Night,Khammam,Nellore,63,Weekday,369.57,443,2,No Event,27350.82,0,Thursday,3,0,2
+2024-09-19,Morning,Warangal,Tirupati,128,Weekday,605.06,726,0,No Event,92928.0,0,Thursday,2,0,2
+2024-09-19,Evening,Khammam,Kakinada,255,Weekday,263.53,316,1,No Event,79774.2,1,Thursday,1,0,2
+2024-09-19,Night,Hyderabad,Kurnool,76,Weekday,213.32,256,3,No Event,18872.32,0,Thursday,3,0,2
+2024-09-19,Night,Warangal,Tirupati,129,Weekday,605.06,726,0,No Event,93654.0,0,Thursday,3,0,2
+2024-09-20,Morning,Vijayawada,Kurnool,180,Weekday,336.5,404,1,No Event,71992.8,0,Friday,2,0,2
+2024-09-20,Morning,Mahbubnagar,Visakhapatnam,189,Weekday,699.2,839,5,No Event,150642.44999999998,0,Friday,2,0,2
+2024-09-20,Evening,Rajahmundry,Kadapa,281,Weekday,541.2,649,3,No Event,176897.93,1,Friday,1,0,2
+2024-09-20,Evening,Tirupati,Khammam,200,Weekday,505.63,607,0,No Event,121400.0,0,Friday,1,0,2
+2024-09-21,Afternoon,Nalagonda,Khammam,94,Weekend,816.37,980,10,Weekend,82908.0,0,Saturday,0,1,3
+2024-09-21,Afternoon,Rajahmundry,Khammam,86,Weekend,204.64,246,15,Weekend,17982.6,0,Saturday,0,1,3
+2024-09-21,Morning,Visakhapatnam,Nalagonda,169,Weekend,1087.66,1305,15,Weekend,187463.25,0,Saturday,2,1,3
+2024-09-21,Morning,Kurnool,Vijayawada,137,Weekend,336.5,404,15,Weekend,47045.799999999996,0,Saturday,2,1,3
+2024-09-21,Night,Mahbubnagar,Visakhapatnam,120,Weekend,699.2,839,10,Weekend,90612.0,0,Saturday,3,1,3
+2024-09-21,Night,Hyderabad,Tirupati,90,Weekend,551.16,661,15,Weekend,50566.5,0,Saturday,3,1,3
+2024-09-21,Afternoon,Warangal,Visakhapatnam,113,Weekend,525.98,631,15,Weekend,60607.549999999996,0,Saturday,0,1,3
+2024-09-22,Morning,Nalagonda,Vijayawada,198,Weekend,726.77,872,10,Weekend,155390.4,0,Sunday,2,1,3
+2024-09-22,Evening,Rajahmundry,Guntur,201,Weekend,195.41,234,15,Weekend,39978.9,0,Sunday,1,1,3
+2024-09-22,Night,Tenali,Nellore,90,Weekend,253.03,304,15,Weekend,23256.0,0,Sunday,3,1,3
+2024-09-22,Morning,Visakhapatnam,Warangal,187,Weekend,525.98,631,15,Weekend,100297.45,0,Sunday,2,1,3
+2024-09-22,Morning,Visakhapatnam,Nizamabad,130,Weekend,742.62,891,10,Weekend,104247.0,0,Sunday,2,1,3
+2024-09-22,Evening,Nellore,Guntur,301,Weekend,245.33,294,10,Weekend,79644.6,1,Sunday,1,1,3
+2024-09-23,Morning,Rajahmundry,Guntur,238,Weekday,195.41,234,2,No Event,54578.159999999996,0,Monday,2,0,2
+2024-09-23,Evening,Nalagonda,Nellore,288,Weekday,447.56,537,1,No Event,153109.44,1,Monday,1,0,2
+2024-09-23,Afternoon,Tenali,Warangal,88,Weekday,274.84,330,1,No Event,28749.6,0,Monday,0,0,2
+2024-09-24,Evening,Vijayawada,Nalagonda,312,Weekday,726.77,872,4,No Event,261181.44,1,Tuesday,1,0,2
+2024-09-25,Night,Kurnool,Visakhapatnam,144,Weekday,697.39,837,1,No Event,119322.72,0,Wednesday,3,0,2
+2024-09-25,Evening,Nizamabad,Vijayawada,277,Weekday,418.49,502,1,No Event,137663.46,1,Wednesday,1,0,2
+2024-09-25,Morning,Kurnool,Tirupati,151,Weekday,343.02,412,2,No Event,60967.76,0,Wednesday,2,0,2
+2024-09-25,Evening,Tirupati,Karimnagar,188,Weekday,679.85,816,4,No Event,147271.68,0,Wednesday,1,0,2
+2024-09-26,Night,Vijayawada,Rajahmundry,119,Weekday,158.45,190,2,No Event,22157.8,0,Thursday,3,0,2
+2024-09-26,Afternoon,Karimnagar,Kadapa,162,Weekday,570.65,685,0,No Event,110970.0,0,Thursday,0,0,2
+2024-09-27,Evening,Nizamabad,Khammam,193,Weekday,332.21,399,0,No Event,77007.0,0,Friday,1,0,2
+2024-09-27,Night,Visakhapatnam,Nalagonda,111,Weekday,1087.66,1305,4,No Event,139060.8,0,Friday,3,0,2
+2024-09-28,Night,Nalagonda,Khammam,135,Weekend,816.37,980,10,Weekend,119070.0,0,Saturday,3,1,3
+2024-09-28,Afternoon,Kurnool,Rajahmundry,182,Weekend,494.02,593,15,Weekend,91737.09999999999,0,Saturday,0,1,3
+2024-09-28,Night,Warangal,Vijayawada,65,Weekend,244.67,294,10,Weekend,17199.0,0,Saturday,3,1,3
+2024-09-28,Morning,Hyderabad,Khammam,166,Weekend,194.9,234,15,Weekend,33017.4,0,Saturday,2,1,3
+2024-09-29,Morning,Karimnagar,Warangal,127,Weekend,79.27,95,15,Weekend,10255.25,0,Sunday,2,1,3
+2024-09-29,Evening,Khammam,Hyderabad,260,Weekend,194.9,234,10,Weekend,54756.0,1,Sunday,1,1,3
+2024-09-29,Night,Khammam,Mahbubnagar,143,Weekend,283.12,340,10,Weekend,43758.0,0,Sunday,3,1,3
+2024-09-29,Morning,Kadapa,Secunderabad,133,Weekend,420.36,504,15,Weekend,56977.2,0,Sunday,2,1,3
+2024-09-30,Morning,Khammam,Nalagonda,246,Weekday,816.37,980,4,No Event,231436.8,0,Monday,2,0,2
+2024-09-30,Night,Karimnagar,Hyderabad,136,Weekday,213.92,257,5,No Event,33204.4,0,Monday,3,0,2
+2024-09-30,Morning,Mahbubnagar,Secunderabad,233,Weekday,108.57,130,2,No Event,29684.2,0,Monday,2,0,2
+2024-09-30,Evening,Tirupati,Guntur,258,Weekday,381.39,458,0,No Event,118164.0,1,Monday,1,0,2
+2024-10-01,Afternoon,Khammam,Mahbubnagar,128,Weekday,283.12,340,1,No Event,43084.8,0,Tuesday,0,0,2
+2024-10-01,Afternoon,Kakinada,Rajahmundry,101,Weekday,60.27,72,1,No Event,7199.28,0,Tuesday,0,0,2
+2024-10-01,Evening,Kurnool,Tirupati,207,Weekday,343.02,412,2,No Event,83578.31999999999,0,Tuesday,1,0,2
+2024-10-01,Morning,Visakhapatnam,Kadapa,124,Weekday,744.57,893,3,No Event,107410.04,0,Tuesday,2,0,2
+2024-10-02,Morning,Secunderabad,Rajahmundry,224,Weekday,405.46,487,4,No Event,104724.48,0,Wednesday,2,0,2
+2024-10-02,Evening,Kakinada,Rajahmundry,208,Weekday,60.27,72,1,No Event,14826.24,0,Wednesday,1,0,2
+2024-10-02,Morning,Kurnool,Warangal,123,Weekday,355.52,427,0,No Event,52521.0,0,Wednesday,2,0,2
+2024-10-02,Afternoon,Karimnagar,Tirupati,105,Weekday,679.85,816,2,No Event,83966.4,0,Wednesday,0,0,2
+2024-10-02,Afternoon,Tenali,Hyderabad,168,Weekday,298.51,358,3,No Event,58339.68,0,Wednesday,0,0,2
+2024-10-02,Evening,Guntur,Warangal,234,Weekday,279.65,336,2,No Event,77051.52,0,Wednesday,1,0,2
+2024-10-03,Afternoon,Warangal,Visakhapatnam,166,Weekday,525.98,631,5,No Event,99508.7,0,Thursday,0,0,2
+2024-10-03,Evening,Kadapa,Nalagonda,315,Weekday,409.42,491,0,No Event,154665.0,1,Thursday,1,0,2
+2024-10-04,Night,Guntur,Nalagonda,76,Weekday,692.13,831,4,No Event,60629.759999999995,0,Friday,3,0,2
+2024-10-04,Night,Secunderabad,Kurnool,146,Weekday,219.87,264,5,No Event,36616.799999999996,0,Friday,3,0,2
+2024-10-04,Afternoon,Visakhapatnam,Kakinada,198,Weekday,171.6,206,0,No Event,40788.0,0,Friday,0,0,2
+2024-10-04,Evening,Nalagonda,Vijayawada,186,Weekday,726.77,872,0,No Event,162192.0,0,Friday,1,0,2
+2024-10-04,Afternoon,Kadapa,Vijayawada,145,Weekday,383.68,460,3,No Event,64699.0,0,Friday,0,0,2
+2024-10-04,Afternoon,Warangal,Nellore,89,Weekday,470.66,565,0,No Event,50285.0,0,Friday,0,0,2
+2024-10-05,Morning,Visakhapatnam,Nalagonda,192,Weekend,1087.66,1305,15,Weekend,212976.0,0,Saturday,2,1,3
+2024-10-05,Afternoon,Tirupati,Visakhapatnam,172,Weekend,775.66,931,15,Weekend,136112.19999999998,0,Saturday,0,1,3
+2024-10-05,Morning,Warangal,Secunderabad,192,Weekend,147.79,177,10,Weekend,30585.600000000002,0,Saturday,2,1,3
+2024-10-05,Afternoon,Visakhapatnam,Secunderabad,157,Weekend,610.32,732,15,Weekend,97685.4,0,Saturday,0,1,3
+2024-10-05,Night,Secunderabad,Visakhapatnam,69,Weekend,610.32,732,15,Weekend,42931.799999999996,0,Saturday,3,1,3
+2024-10-05,Morning,Khammam,Mahbubnagar,149,Weekend,283.12,340,10,Weekend,45594.0,0,Saturday,2,1,3
+2024-10-05,Night,Vijayawada,Hyderabad,100,Weekend,276.02,331,10,Weekend,29790.0,0,Saturday,3,1,3
+2024-10-06,Night,Nalagonda,Kadapa,112,Weekend,409.42,491,15,Weekend,46743.2,0,Sunday,3,1,3
+2024-10-06,Evening,Nellore,Nizamabad,281,Weekend,627.42,753,15,Weekend,179854.05,1,Sunday,1,1,3
+2024-10-07,Morning,Tenali,Secunderabad,204,Weekday,304.51,365,2,No Event,72970.8,0,Monday,2,0,2
+2024-10-07,Night,Warangal,Hyderabad,96,Weekday,149.36,179,1,No Event,17012.16,0,Monday,3,0,2
+2024-10-07,Afternoon,Secunderabad,Rajahmundry,122,Weekday,405.46,487,4,No Event,57037.439999999995,0,Monday,0,0,2
+2024-10-07,Night,Tenali,Nalagonda,138,Weekday,699.42,839,0,No Event,115782.0,0,Monday,3,0,2
+2024-10-08,Evening,Kakinada,Kurnool,238,Weekday,551.11,661,4,No Event,151025.28,0,Tuesday,1,0,2
+2024-10-08,Evening,Tenali,Nizamabad,187,Weekday,449.04,539,4,No Event,96761.28,0,Tuesday,1,0,2
+2024-10-08,Morning,Mahbubnagar,Kurnool,223,Weekday,120.89,145,3,No Event,31364.95,0,Tuesday,2,0,2
+2024-10-08,Afternoon,Visakhapatnam,Kurnool,152,Weekday,697.39,837,0,No Event,127224.0,0,Tuesday,0,0,2
+2024-10-09,Morning,Nalagonda,Karimnagar,206,Weekday,990.59,1189,2,No Event,240035.32,0,Wednesday,2,0,2
+2024-10-09,Evening,Nellore,Kurnool,196,Weekday,322.85,387,4,No Event,72817.92,0,Wednesday,1,0,2
+2024-10-09,Morning,Mahbubnagar,Kakinada,174,Weekday,548.14,658,2,No Event,112202.16,0,Wednesday,2,0,2
+2024-10-09,Morning,Warangal,Nizamabad,125,Weekday,227.44,273,2,No Event,33442.5,0,Wednesday,2,0,2
+2024-10-10,Morning,Nalagonda,Rajahmundry,137,Weekday,884.3,1061,1,No Event,143903.43,0,Thursday,2,0,2
+2024-10-10,Morning,Hyderabad,Nellore,213,Weekday,454.19,545,4,No Event,111441.59999999999,0,Thursday,2,0,2
+2024-10-10,Afternoon,Nalagonda,Nizamabad,190,Weekday,944.12,1133,0,No Event,215270.0,0,Thursday,0,0,2
+2024-10-10,Evening,Tirupati,Khammam,216,Weekday,505.63,607,0,No Event,131112.0,0,Thursday,1,0,2
+2024-10-11,Morning,Karimnagar,Mahbubnagar,244,Weekday,309.11,371,5,No Event,85997.8,0,Friday,2,0,2
+2024-10-11,Morning,Hyderabad,Mahbubnagar,197,Weekday,99.48,119,4,No Event,22505.28,0,Friday,2,0,2
+2024-10-11,Morning,Nellore,Tirupati,232,Weekday,136.37,164,0,No Event,38048.0,0,Friday,2,0,2
+2024-10-11,Evening,Nizamabad,Nellore,266,Weekday,627.42,753,4,No Event,192286.08,1,Friday,1,0,2
+2024-10-12,Evening,Khammam,Nizamabad,312,Weekend,332.21,399,15,Weekend,105814.8,1,Saturday,1,1,3
+2024-10-12,Afternoon,Khammam,Hyderabad,89,Weekend,194.9,234,10,Weekend,18743.4,0,Saturday,0,1,3
+2024-10-12,Morning,Kadapa,Khammam,148,Weekend,412.49,495,10,Weekend,65934.0,0,Saturday,2,1,3
+2024-10-12,Morning,Nalagonda,Nizamabad,180,Weekend,944.12,1133,10,Weekend,183546.0,0,Saturday,2,1,3
+2024-10-13,Evening,Nalagonda,Nizamabad,223,Weekend,944.12,1133,10,Weekend,227393.1,0,Sunday,1,1,3
+2024-10-13,Morning,Warangal,Nellore,197,Weekend,470.66,565,10,Weekend,100174.5,0,Sunday,2,1,3
+2024-10-13,Morning,Kadapa,Tenali,127,Weekend,356.33,428,15,Weekend,46202.6,0,Sunday,2,1,3
+2024-10-13,Afternoon,Nalagonda,Kakinada,138,Weekend,925.6,1111,15,Weekend,130320.3,0,Sunday,0,1,3
+2024-10-14,Morning,Kurnool,Visakhapatnam,141,Weekday,697.39,837,1,No Event,116836.83,0,Monday,2,0,2
+2024-10-14,Evening,Vijayawada,Warangal,292,Weekday,244.67,294,2,No Event,84131.04,1,Monday,1,0,2
+2024-10-14,Morning,Rajahmundry,Kadapa,195,Weekday,541.2,649,3,No Event,122758.34999999999,0,Monday,2,0,2
+2024-10-15,Afternoon,Hyderabad,Guntur,133,Weekday,270.74,325,1,No Event,42792.75,0,Tuesday,0,0,2
+2024-10-15,Evening,Mahbubnagar,Kakinada,194,Weekday,548.14,658,2,No Event,125098.95999999999,0,Tuesday,1,0,2
+2024-10-15,Morning,Vijayawada,Mahbubnagar,174,Weekday,344.37,413,1,No Event,71143.38,0,Tuesday,2,0,2
+2024-10-15,Morning,Hyderabad,Visakhapatnam,237,Weekday,604.32,725,0,No Event,171825.0,0,Tuesday,2,0,2
+2024-10-16,Evening,Mahbubnagar,Tenali,245,Weekday,350.45,421,0,No Event,103145.0,0,Wednesday,1,0,2
+2024-10-16,Evening,Mahbubnagar,Tenali,275,Weekday,350.45,421,0,No Event,115775.0,1,Wednesday,1,0,2
+2024-10-16,Night,Karimnagar,Khammam,129,Weekday,195.0,234,1,No Event,29884.14,0,Wednesday,3,0,2
+2024-10-16,Evening,Nellore,Visakhapatnam,291,Weekday,641.27,770,2,No Event,219588.6,1,Wednesday,1,0,2
+2024-10-17,Morning,Mahbubnagar,Warangal,129,Weekday,244.22,293,0,No Event,37797.0,0,Thursday,2,0,2
+2024-10-17,Evening,Nellore,Secunderabad,234,Weekday,462.5,555,1,No Event,128571.3,0,Thursday,1,0,2
+2024-10-17,Night,Visakhapatnam,Kakinada,73,Weekday,171.6,206,0,No Event,15038.0,0,Thursday,3,0,2
+2024-10-17,Morning,Guntur,Tirupati,127,Weekday,381.39,458,1,No Event,57584.34,0,Thursday,2,0,2
+2024-10-17,Night,Rajahmundry,Kakinada,103,Weekday,60.27,72,4,No Event,7119.36,0,Thursday,3,0,2
+2024-10-18,Morning,Khammam,Hyderabad,191,Weekday,194.9,234,0,No Event,44694.0,0,Friday,2,0,2
+2024-10-18,Morning,Nizamabad,Kadapa,133,Weekday,585.59,703,1,No Event,92564.01,0,Friday,2,0,2
+2024-10-18,Night,Mahbubnagar,Khammam,86,Weekday,283.12,340,5,No Event,27778.0,0,Friday,3,0,2
+2024-10-18,Afternoon,Visakhapatnam,Khammam,165,Weekday,408.01,490,0,No Event,80850.0,0,Friday,0,0,2
+2024-10-18,Morning,Kakinada,Tirupati,187,Weekday,614.86,738,0,No Event,138006.0,0,Friday,2,0,2
+2024-10-18,Morning,Rajahmundry,Guntur,123,Weekday,195.41,234,2,No Event,28206.36,0,Friday,2,0,2
+2024-10-19,Morning,Nellore,Rajahmundry,169,Weekend,437.9,525,10,Weekend,79852.5,0,Saturday,2,1,3
+2024-10-20,Morning,Tirupati,Mahbubnagar,194,Weekend,460.0,552,15,Weekend,91024.8,0,Sunday,2,1,3
+2024-10-20,Night,Kakinada,Vijayawada,145,Weekend,217.33,261,10,Weekend,34060.5,0,Sunday,3,1,3
+2024-10-20,Morning,Vijayawada,Khammam,204,Weekend,130.3,156,10,Weekend,28641.600000000002,0,Sunday,2,1,3
+2024-10-20,Evening,Nellore,Kakinada,290,Weekend,478.79,575,15,Weekend,141737.5,1,Sunday,1,1,3
+2024-10-21,Evening,Kurnool,Vijayawada,274,Weekday,336.5,404,5,No Event,105161.2,1,Monday,1,0,2
+2024-10-22,Evening,Guntur,Mahbubnagar,258,Weekday,310.15,372,4,No Event,92136.95999999999,1,Tuesday,1,0,2
+2024-10-22,Afternoon,Tirupati,Nellore,166,Weekday,136.37,164,5,No Event,25862.8,0,Tuesday,0,0,2
+2024-10-22,Morning,Nalagonda,Rajahmundry,179,Weekday,884.3,1061,1,No Event,188019.81,0,Tuesday,2,0,2
+2024-10-22,Morning,Secunderabad,Warangal,152,Weekday,147.79,177,3,No Event,26096.88,0,Tuesday,2,0,2
+2024-10-22,Morning,Nizamabad,Visakhapatnam,156,Weekday,742.62,891,2,No Event,136216.08,0,Tuesday,2,0,2
+2024-10-23,Afternoon,Secunderabad,Kadapa,168,Weekday,420.36,504,5,No Event,80438.4,0,Wednesday,0,0,2
+2024-10-23,Afternoon,Kadapa,Khammam,134,Weekday,412.49,495,1,No Event,65666.7,0,Wednesday,0,0,2
+2024-10-23,Night,Guntur,Secunderabad,69,Weekday,276.86,332,0,No Event,22908.0,0,Wednesday,3,0,2
+2024-10-24,Evening,Visakhapatnam,Khammam,220,Weekday,408.01,490,0,No Event,107800.0,0,Thursday,1,0,2
+2024-10-24,Morning,Secunderabad,Nizamabad,158,Weekday,166.26,200,0,No Event,31600.0,0,Thursday,2,0,2
+2024-10-24,Afternoon,Guntur,Nalagonda,91,Weekday,692.13,831,4,No Event,72596.16,0,Thursday,0,0,2
+2024-10-24,Evening,Warangal,Nizamabad,307,Weekday,227.44,273,2,No Event,82134.78,1,Thursday,1,0,2
+2024-10-24,Night,Visakhapatnam,Khammam,100,Weekday,408.01,490,0,No Event,49000.0,0,Thursday,3,0,2
+2024-10-24,Night,Kadapa,Hyderabad,81,Weekday,411.52,494,3,No Event,38813.58,0,Thursday,3,0,2
+2024-10-24,Evening,Karimnagar,Guntur,317,Weekday,356.45,428,2,No Event,132962.48,1,Thursday,1,0,2
+2024-10-25,Morning,Kadapa,Mahbubnagar,211,Weekday,321.38,386,0,No Event,81446.0,0,Friday,2,0,2
+2024-10-25,Evening,Karimnagar,Nizamabad,180,Weekday,148.92,179,3,No Event,31253.399999999998,0,Friday,1,0,2
+2024-10-25,Night,Tirupati,Nizamabad,104,Weekday,726.1,871,3,No Event,87866.48,0,Friday,3,0,2
+2024-10-25,Afternoon,Hyderabad,Visakhapatnam,134,Weekday,604.32,725,0,No Event,97150.0,0,Friday,0,0,2
+2024-10-26,Afternoon,Tenali,Hyderabad,87,Weekend,298.51,358,15,Weekend,26474.1,0,Saturday,0,1,3
+2024-10-26,Evening,Warangal,Rajahmundry,276,Weekend,323.09,388,15,Weekend,91024.8,1,Saturday,1,1,3
+2024-10-26,Evening,Kurnool,Visakhapatnam,280,Weekend,697.39,837,10,Weekend,210924.0,1,Saturday,1,1,3
+2024-10-26,Afternoon,Khammam,Tenali,190,Weekend,160.85,193,15,Weekend,31169.5,0,Saturday,0,1,3
+2024-10-26,Afternoon,Nizamabad,Secunderabad,148,Weekend,166.26,200,10,Weekend,26640.0,0,Saturday,0,1,3
+2024-10-26,Morning,Nellore,Tirupati,120,Weekend,136.37,164,10,Weekend,17712.0,0,Saturday,2,1,3
+2024-10-27,Night,Warangal,Tirupati,93,Weekend,605.06,726,10,Weekend,60766.200000000004,0,Sunday,3,1,3
+2024-10-27,Evening,Karimnagar,Kakinada,234,Weekend,458.76,551,15,Weekend,109593.9,0,Sunday,1,1,3
+2024-10-27,Morning,Warangal,Nalagonda,200,Weekend,901.64,1082,15,Weekend,183940.0,0,Sunday,2,1,3
+2024-10-28,Morning,Khammam,Tenali,139,Weekday,160.85,193,3,No Event,26022.19,0,Monday,2,0,2
+2024-10-28,Morning,Tenali,Nellore,226,Weekday,253.03,304,5,No Event,65268.799999999996,0,Monday,2,0,2
+2024-10-28,Afternoon,Guntur,Vijayawada,198,Weekday,37.88,45,2,No Event,8731.8,0,Monday,0,0,2
+2024-10-29,Night,Visakhapatnam,Kadapa,86,Weekday,744.57,893,3,No Event,74494.06,0,Tuesday,3,0,2
+2024-10-29,Morning,Nizamabad,Guntur,128,Weekday,441.78,530,0,No Event,67840.0,0,Tuesday,2,0,2
+2024-10-29,Morning,Vijayawada,Hyderabad,126,Weekday,276.02,331,1,No Event,41288.94,0,Tuesday,2,0,2
+2024-10-29,Night,Khammam,Karimnagar,138,Weekday,195.0,234,3,No Event,31323.239999999998,0,Tuesday,3,0,2
+2024-10-30,Night,Mahbubnagar,Visakhapatnam,66,Weekday,699.2,839,5,No Event,52605.299999999996,0,Wednesday,3,0,2
+2024-10-30,Afternoon,Visakhapatnam,Nizamabad,169,Weekday,742.62,891,1,No Event,149073.21,0,Wednesday,0,0,2
+2024-10-31,Morning,Khammam,Warangal,227,Weekday,118.24,142,4,No Event,30944.64,0,Thursday,2,0,2
+2024-10-31,Morning,Khammam,Kurnool,149,Weekday,396.97,476,5,No Event,67377.8,0,Thursday,2,0,2
+2024-10-31,Night,Khammam,Hyderabad,128,Weekday,194.9,234,0,No Event,29952.0,0,Thursday,3,0,2
+2024-10-31,Morning,Karimnagar,Khammam,146,Weekday,195.0,234,1,No Event,33822.36,0,Thursday,2,0,2
+2024-10-31,Night,Secunderabad,Tirupati,75,Weekday,559.94,672,3,No Event,48888.0,0,Thursday,3,0,2
+2024-10-31,Morning,Nellore,Secunderabad,234,Weekday,462.5,555,1,No Event,128571.3,0,Thursday,2,0,2
+2024-11-01,Night,Secunderabad,Nizamabad,145,Weekday,166.26,200,0,No Event,29000.0,0,Friday,3,0,2
+2024-11-01,Night,Vijayawada,Tirupati,78,Weekday,414.77,498,4,No Event,37290.24,0,Friday,3,0,2
+2024-11-01,Night,Kadapa,Secunderabad,80,Weekday,420.36,504,3,No Event,39110.4,0,Friday,3,0,2
+2024-11-01,Evening,Mahbubnagar,Warangal,246,Weekday,244.22,293,0,No Event,72078.0,0,Friday,1,0,2
+2024-11-02,Evening,Karimnagar,Nellore,280,Weekend,543.78,653,15,Weekend,155414.0,1,Saturday,1,1,3
+2024-11-02,Night,Warangal,Hyderabad,68,Weekend,149.36,179,10,Weekend,10954.800000000001,0,Saturday,3,1,3
+2024-11-02,Night,Kurnool,Mahbubnagar,99,Weekend,120.89,145,15,Weekend,12201.75,0,Saturday,3,1,3
+2024-11-02,Night,Tenali,Vijayawada,64,Weekend,33.07,40,10,Weekend,2304.0,0,Saturday,3,1,3
+2024-11-02,Night,Vijayawada,Nizamabad,98,Weekend,418.49,502,10,Weekend,44276.4,0,Saturday,3,1,3
+2024-11-03,Night,Khammam,Nizamabad,83,Weekend,332.21,399,15,Weekend,28149.45,0,Sunday,3,1,3
+2024-11-03,Evening,Vijayawada,Kurnool,268,Weekend,336.5,404,10,Weekend,97444.8,1,Sunday,1,1,3
+2024-11-03,Morning,Kurnool,Tirupati,155,Weekend,343.02,412,15,Weekend,54281.0,0,Sunday,2,1,3
+2024-11-03,Morning,Tenali,Hyderabad,190,Weekend,298.51,358,15,Weekend,57817.0,0,Sunday,2,1,3
+2024-11-03,Afternoon,Mahbubnagar,Nizamabad,168,Weekend,273.79,329,10,Weekend,49744.8,0,Sunday,0,1,3
+2024-11-04,Afternoon,Guntur,Kakinada,129,Weekday,254.32,305,4,No Event,37771.2,0,Monday,0,0,2
+2024-11-05,Night,Khammam,Nellore,102,Weekday,369.57,443,2,No Event,44282.28,0,Tuesday,3,0,2
+2024-11-05,Evening,Kakinada,Tirupati,259,Weekday,614.86,738,0,No Event,191142.0,1,Tuesday,1,0,2
+2024-11-05,Evening,Secunderabad,Warangal,242,Weekday,147.79,177,3,No Event,41548.979999999996,0,Tuesday,1,0,2
+2024-11-06,Morning,Karimnagar,Tirupati,233,Weekday,679.85,816,2,No Event,186325.44,0,Wednesday,2,0,2
+2024-11-06,Morning,Tenali,Guntur,120,Weekday,30.72,37,1,No Event,4395.6,0,Wednesday,2,0,2
+2024-11-06,Night,Vijayawada,Mahbubnagar,95,Weekday,344.37,413,1,No Event,38842.65,0,Wednesday,3,0,2
+2024-11-06,Morning,Nalagonda,Secunderabad,216,Weekday,778.9,935,2,No Event,197920.8,0,Wednesday,2,0,2
+2024-11-06,Night,Karimnagar,Secunderabad,132,Weekday,173.04,208,2,No Event,26906.88,0,Wednesday,3,0,2
+2024-11-06,Morning,Hyderabad,Warangal,156,Weekday,149.36,179,2,No Event,27365.52,0,Wednesday,2,0,2
+2024-11-08,Night,Nizamabad,Guntur,70,Weekday,441.78,530,0,No Event,37100.0,0,Friday,3,0,2
+2024-11-08,Evening,Tenali,Vijayawada,291,Weekday,33.07,40,0,No Event,11640.0,1,Friday,1,0,2
+2024-11-08,Night,Kurnool,Mahbubnagar,130,Weekday,120.89,145,2,No Event,18473.0,0,Friday,3,0,2
+2024-11-09,Morning,Rajahmundry,Nellore,219,Weekend,437.9,525,10,Weekend,103477.5,0,Saturday,2,1,3
+2024-11-09,Morning,Warangal,Rajahmundry,154,Weekend,323.09,388,15,Weekend,50789.2,0,Saturday,2,1,3
+2024-11-09,Morning,Kakinada,Vijayawada,182,Weekend,217.33,261,10,Weekend,42751.8,0,Saturday,2,1,3
+2024-11-09,Morning,Guntur,Tenali,138,Weekend,30.72,37,15,Weekend,4340.099999999999,0,Saturday,2,1,3
+2024-11-10,Morning,Kurnool,Warangal,186,Weekend,355.52,427,10,Weekend,71479.8,0,Sunday,2,1,3
+2024-11-10,Morning,Khammam,Nellore,140,Weekend,369.57,443,15,Weekend,52717.0,0,Sunday,2,1,3
+2024-11-10,Night,Nizamabad,Secunderabad,94,Weekend,166.26,200,10,Weekend,16920.0,0,Sunday,3,1,3
+2024-11-10,Night,Visakhapatnam,Nizamabad,89,Weekend,742.62,891,10,Weekend,71369.1,0,Sunday,3,1,3
+2024-11-10,Night,Tirupati,Guntur,124,Weekend,381.39,458,10,Weekend,51112.8,0,Sunday,3,1,3
+2024-11-11,Evening,Guntur,Kurnool,222,Weekday,297.53,357,4,No Event,76083.84,0,Monday,1,0,2
+2024-11-11,Afternoon,Nizamabad,Khammam,97,Weekday,332.21,399,0,No Event,38703.0,0,Monday,0,0,2
+2024-11-12,Afternoon,Rajahmundry,Karimnagar,180,Weekday,399.74,480,5,No Event,82080.0,0,Tuesday,0,0,2
+2024-11-12,Evening,Kadapa,Kakinada,294,Weekday,583.93,701,5,No Event,195789.3,1,Tuesday,1,0,2
+2024-11-12,Afternoon,Rajahmundry,Hyderabad,142,Weekday,400.95,481,5,No Event,64886.899999999994,0,Tuesday,0,0,2
+2024-11-12,Evening,Hyderabad,Secunderabad,243,Weekday,9.46,11,5,No Event,2539.35,0,Tuesday,1,0,2
+2024-11-12,Evening,Karimnagar,Rajahmundry,226,Weekday,399.74,480,0,No Event,108480.0,0,Tuesday,1,0,2
+2024-11-13,Morning,Tirupati,Khammam,122,Weekday,505.63,607,0,No Event,74054.0,0,Wednesday,2,0,2
+2024-11-13,Morning,Guntur,Visakhapatnam,222,Weekday,398.78,479,3,No Event,103147.86,0,Wednesday,2,0,2
+2024-11-13,Night,Karimnagar,Khammam,107,Weekday,195.0,234,1,No Event,24787.62,0,Wednesday,3,0,2
+2024-11-13,Afternoon,Kurnool,Kakinada,124,Weekday,551.11,661,2,No Event,80324.72,0,Wednesday,0,0,2
+2024-11-14,Evening,Visakhapatnam,Nalagonda,318,Weekday,1087.66,1305,4,No Event,398390.39999999997,1,Thursday,1,0,2
+2024-11-14,Morning,Vijayawada,Tirupati,160,Weekday,414.77,498,4,No Event,76492.8,0,Thursday,2,0,2
+2024-11-14,Night,Kadapa,Nizamabad,131,Weekday,585.59,703,0,No Event,92093.0,0,Thursday,3,0,2
+2024-11-15,Afternoon,Khammam,Kurnool,116,Weekday,396.97,476,5,No Event,52455.2,0,Friday,0,0,2
+2024-11-15,Evening,Nellore,Nalagonda,296,Weekday,447.56,537,4,No Event,152593.91999999998,1,Friday,1,0,2
+2024-11-15,Morning,Nizamabad,Karimnagar,139,Weekday,148.92,179,4,No Event,23885.76,0,Friday,2,0,2
+2024-11-16,Morning,Tirupati,Hyderabad,155,Weekend,551.16,661,15,Weekend,87086.75,0,Saturday,2,1,3
+2024-11-16,Morning,Mahbubnagar,Rajahmundry,156,Weekend,495.83,595,10,Weekend,83538.0,0,Saturday,2,1,3
+2024-11-16,Evening,Khammam,Karimnagar,250,Weekend,195.0,234,15,Weekend,49725.0,0,Saturday,1,1,3
+2024-11-16,Morning,Karimnagar,Hyderabad,126,Weekend,213.92,257,10,Weekend,29143.8,0,Saturday,2,1,3
+2024-11-16,Evening,Tenali,Rajahmundry,283,Weekend,190.49,229,10,Weekend,58326.3,1,Saturday,1,1,3
+2024-11-16,Evening,Khammam,Tirupati,250,Weekend,505.63,607,15,Weekend,128987.5,0,Saturday,1,1,3
+2024-11-17,Morning,Kadapa,Kakinada,156,Weekend,583.93,701,15,Weekend,92952.59999999999,0,Sunday,2,1,3
+2024-11-17,Night,Mahbubnagar,Warangal,122,Weekend,244.22,293,10,Weekend,32171.4,0,Sunday,3,1,3
+2024-11-17,Evening,Secunderabad,Mahbubnagar,313,Weekend,108.57,130,15,Weekend,34586.5,1,Sunday,1,1,3
+2024-11-18,Afternoon,Visakhapatnam,Hyderabad,197,Weekday,604.32,725,4,No Event,137112.0,0,Monday,0,0,2
+2024-11-18,Afternoon,Warangal,Tirupati,87,Weekday,605.06,726,0,No Event,63162.0,0,Monday,0,0,2
+2024-11-18,Evening,Karimnagar,Warangal,240,Weekday,79.27,95,3,No Event,22116.0,0,Monday,1,0,2
+2024-11-18,Evening,Warangal,Kurnool,255,Weekday,355.52,427,0,No Event,108885.0,1,Monday,1,0,2
+2024-11-18,Afternoon,Nalagonda,Kurnool,121,Weekday,561.65,674,5,No Event,77476.3,0,Monday,0,0,2
+2024-11-18,Afternoon,Kadapa,Guntur,195,Weekday,349.41,419,4,No Event,78436.8,0,Monday,0,0,2
+2024-11-18,Evening,Visakhapatnam,Vijayawada,274,Weekday,361.84,434,2,No Event,116537.68,1,Monday,1,0,2
+2024-11-18,Evening,Tenali,Kurnool,210,Weekday,329.18,395,1,No Event,82120.5,0,Monday,1,0,2
+2024-11-19,Morning,Karimnagar,Warangal,153,Weekday,79.27,95,3,No Event,14098.949999999999,0,Tuesday,2,0,2
+2024-11-19,Morning,Nizamabad,Vijayawada,229,Weekday,418.49,502,1,No Event,113808.42,0,Tuesday,2,0,2
+2024-11-19,Afternoon,Hyderabad,Warangal,89,Weekday,149.36,179,2,No Event,15612.38,0,Tuesday,0,0,2
+2024-11-19,Night,Hyderabad,Kurnool,76,Weekday,213.32,256,3,No Event,18872.32,0,Tuesday,3,0,2
+2024-11-19,Afternoon,Hyderabad,Tenali,136,Weekday,298.51,358,3,No Event,47227.36,0,Tuesday,0,0,2
+2024-11-19,Evening,Secunderabad,Nizamabad,222,Weekday,166.26,200,0,No Event,44400.0,0,Tuesday,1,0,2
+2024-11-19,Evening,Kakinada,Nalagonda,299,Weekday,925.6,1111,0,No Event,332189.0,1,Tuesday,1,0,2
+2024-11-20,Morning,Tirupati,Warangal,120,Weekday,605.06,726,2,No Event,85377.59999999999,0,Wednesday,2,0,2
+2024-11-20,Morning,Tirupati,Vijayawada,249,Weekday,414.77,498,3,No Event,120281.94,0,Wednesday,2,0,2
+2024-11-20,Night,Khammam,Warangal,73,Weekday,118.24,142,4,No Event,9951.359999999999,0,Wednesday,3,0,2
+2024-11-20,Night,Rajahmundry,Nalagonda,143,Weekday,884.3,1061,4,No Event,145654.08,0,Wednesday,3,0,2
+2024-11-20,Morning,Kakinada,Tenali,175,Weekday,261.69,314,4,No Event,52752.0,0,Wednesday,2,0,2
+2024-11-20,Afternoon,Warangal,Khammam,95,Weekday,118.24,142,0,No Event,13490.0,0,Wednesday,0,0,2
+2024-11-20,Night,Kurnool,Kakinada,109,Weekday,551.11,661,2,No Event,70608.02,0,Wednesday,3,0,2
+2024-11-21,Evening,Kurnool,Nizamabad,224,Weekday,385.09,462,2,No Event,101418.24,0,Thursday,1,0,2
+2024-11-21,Evening,Warangal,Kakinada,282,Weekday,381.97,458,5,No Event,122698.2,1,Thursday,1,0,2
+2024-11-21,Afternoon,Guntur,Secunderabad,183,Weekday,276.86,332,0,No Event,60756.0,0,Thursday,0,0,2
+2024-11-22,Afternoon,Kakinada,Guntur,172,Weekday,254.32,305,0,No Event,52460.0,0,Friday,0,0,2
+2024-11-22,Evening,Tirupati,Kadapa,196,Weekday,140.34,168,5,No Event,31281.6,0,Friday,1,0,2
+2024-11-22,Afternoon,Vijayawada,Rajahmundry,88,Weekday,158.45,190,2,No Event,16385.6,0,Friday,0,0,2
+2024-11-22,Night,Warangal,Tenali,114,Weekday,274.84,330,0,No Event,37620.0,0,Friday,3,0,2
+2024-11-22,Evening,Karimnagar,Rajahmundry,221,Weekday,399.74,480,0,No Event,106080.0,0,Friday,1,0,2
+2024-11-22,Night,Nellore,Kurnool,89,Weekday,322.85,387,4,No Event,33065.28,0,Friday,3,0,2
+2024-11-22,Night,Rajahmundry,Kurnool,67,Weekday,494.02,593,4,No Event,38141.76,0,Friday,3,0,2
+2024-11-23,Evening,Vijayawada,Secunderabad,213,Weekend,282.02,338,10,Weekend,64794.6,0,Saturday,1,1,3
+2024-11-23,Night,Kurnool,Tenali,100,Weekend,329.18,395,10,Weekend,35550.0,0,Saturday,3,1,3
+2024-11-24,Afternoon,Nizamabad,Visakhapatnam,178,Weekend,742.62,891,15,Weekend,134808.3,0,Sunday,0,1,3
+2024-11-24,Afternoon,Warangal,Tenali,129,Weekend,274.84,330,10,Weekend,38313.0,0,Sunday,0,1,3
+2024-11-24,Morning,Rajahmundry,Mahbubnagar,170,Weekend,495.83,595,15,Weekend,85977.5,0,Sunday,2,1,3
+2024-11-24,Night,Mahbubnagar,Tirupati,147,Weekend,460.0,552,10,Weekend,73029.6,0,Sunday,3,1,3
+2024-11-24,Evening,Tirupati,Kurnool,307,Weekend,343.02,412,10,Weekend,113835.6,1,Sunday,1,1,3
+2024-11-25,Afternoon,Kakinada,Khammam,87,Weekday,263.53,316,2,No Event,26942.16,0,Monday,0,0,2
+2024-11-25,Evening,Visakhapatnam,Nizamabad,263,Weekday,742.62,891,1,No Event,231989.66999999998,1,Monday,1,0,2
+2024-11-25,Morning,Rajahmundry,Secunderabad,155,Weekday,405.46,487,5,No Event,71710.75,0,Monday,2,0,2
+2024-11-26,Afternoon,Nalagonda,Hyderabad,174,Weekday,769.79,924,2,No Event,157560.48,0,Tuesday,0,0,2
+2024-11-26,Evening,Nellore,Rajahmundry,269,Weekday,437.9,525,0,No Event,141225.0,1,Tuesday,1,0,2
+2024-11-26,Morning,Karimnagar,Kadapa,172,Weekday,570.65,685,0,No Event,117820.0,0,Tuesday,2,0,2
+2024-11-26,Evening,Kadapa,Secunderabad,320,Weekday,420.36,504,3,No Event,156441.6,1,Tuesday,1,0,2
+2024-11-26,Morning,Vijayawada,Mahbubnagar,147,Weekday,344.37,413,1,No Event,60103.89,0,Tuesday,2,0,2
+2024-11-27,Evening,Nellore,Warangal,192,Weekday,470.66,565,5,No Event,103056.0,0,Wednesday,1,0,2
+2024-11-27,Afternoon,Mahbubnagar,Vijayawada,174,Weekday,344.37,413,3,No Event,69706.14,0,Wednesday,0,0,2
+2024-11-27,Night,Tirupati,Kurnool,125,Weekday,343.02,412,5,No Event,48925.0,0,Wednesday,3,0,2
+2024-11-27,Night,Tirupati,Visakhapatnam,133,Weekday,775.66,931,2,No Event,121346.54,0,Wednesday,3,0,2
+2024-11-27,Night,Visakhapatnam,Secunderabad,77,Weekday,610.32,732,5,No Event,53545.799999999996,0,Wednesday,3,0,2
+2024-11-28,Night,Karimnagar,Warangal,79,Weekday,79.27,95,3,No Event,7279.849999999999,0,Thursday,3,0,2
+2024-11-28,Evening,Kurnool,Visakhapatnam,302,Weekday,697.39,837,1,No Event,250246.26,1,Thursday,1,0,2
+2024-11-28,Evening,Nalagonda,Kadapa,200,Weekday,409.42,491,3,No Event,95254.0,0,Thursday,1,0,2
+2024-11-29,Morning,Nalagonda,Khammam,173,Weekday,816.37,980,5,No Event,161063.0,0,Friday,2,0,2
+2024-11-29,Morning,Nellore,Warangal,190,Weekday,470.66,565,5,No Event,101982.5,0,Friday,2,0,2
+2024-11-30,Evening,Vijayawada,Kurnool,231,Weekend,336.5,404,10,Weekend,83991.6,0,Saturday,1,1,3
+2024-12-01,Afternoon,Karimnagar,Warangal,164,Weekend,79.27,95,15,Weekend,13243.0,0,Sunday,0,1,3
+2024-12-01,Evening,Tenali,Warangal,181,Weekend,274.84,330,10,Weekend,53757.0,0,Sunday,1,1,3
+2024-12-01,Evening,Mahbubnagar,Khammam,182,Weekend,283.12,340,10,Weekend,55692.0,0,Sunday,1,1,3
+2024-12-02,Evening,Visakhapatnam,Hyderabad,256,Weekday,604.32,725,4,No Event,178176.0,1,Monday,1,0,2
+2024-12-02,Night,Kadapa,Kurnool,88,Weekday,200.49,241,5,No Event,20147.6,0,Monday,3,0,2
+2024-12-02,Afternoon,Nellore,Khammam,87,Weekday,369.57,443,3,No Event,37384.77,0,Monday,0,0,2
+2024-12-02,Morning,Karimnagar,Tirupati,214,Weekday,679.85,816,2,No Event,171131.52,0,Monday,2,0,2
+2024-12-03,Morning,Karimnagar,Warangal,218,Weekday,79.27,95,3,No Event,20088.7,0,Tuesday,2,0,2
+2024-12-03,Evening,Warangal,Nellore,242,Weekday,470.66,565,0,No Event,136730.0,0,Tuesday,1,0,2
+2024-12-04,Evening,Rajahmundry,Nalagonda,318,Weekday,884.3,1061,4,No Event,323902.08,1,Wednesday,1,0,2
+2024-12-04,Evening,Kakinada,Karimnagar,182,Weekday,458.76,551,1,No Event,99279.18,0,Wednesday,1,0,2
+2024-12-04,Afternoon,Nalagonda,Kadapa,195,Weekday,409.42,491,3,No Event,92872.65,0,Wednesday,0,0,2
+2024-12-04,Morning,Karimnagar,Nalagonda,163,Weekday,990.59,1189,4,No Event,186054.72,0,Wednesday,2,0,2
+2024-12-04,Morning,Kurnool,Nizamabad,208,Weekday,385.09,462,2,No Event,94174.08,0,Wednesday,2,0,2
+2024-12-05,Morning,Nizamabad,Tirupati,130,Weekday,726.1,871,3,No Event,109833.09999999999,0,Thursday,2,0,2
+2024-12-06,Morning,Nalagonda,Tenali,179,Weekday,699.42,839,1,No Event,148679.19,0,Friday,2,0,2
+2024-12-06,Evening,Visakhapatnam,Kadapa,226,Weekday,744.57,893,3,No Event,195763.46,0,Friday,1,0,2
+2024-12-06,Evening,Kakinada,Khammam,289,Weekday,263.53,316,2,No Event,89497.52,1,Friday,1,0,2
+2024-12-07,Afternoon,Nellore,Kakinada,84,Weekend,478.79,575,15,Weekend,41055.0,0,Saturday,0,1,3
+2024-12-07,Afternoon,Rajahmundry,Tenali,179,Weekend,190.49,229,10,Weekend,36891.9,0,Saturday,0,1,3
+2024-12-08,Evening,Vijayawada,Kadapa,210,Weekend,383.68,460,15,Weekend,82110.0,0,Sunday,1,1,3
+2024-12-08,Night,Guntur,Kadapa,146,Weekend,349.41,419,15,Weekend,51997.9,0,Sunday,3,1,3
+2024-12-08,Night,Nizamabad,Hyderabad,87,Weekend,174.68,210,10,Weekend,16443.0,0,Sunday,3,1,3
+2024-12-08,Afternoon,Kakinada,Khammam,148,Weekend,263.53,316,15,Weekend,39752.799999999996,0,Sunday,0,1,3
+2024-12-08,Morning,Secunderabad,Nellore,194,Weekend,462.5,555,15,Weekend,91519.5,0,Sunday,2,1,3
+2024-12-08,Evening,Rajahmundry,Tirupati,252,Weekend,573.02,688,15,Weekend,147369.6,1,Sunday,1,1,3
+2024-12-09,Evening,Guntur,Visakhapatnam,297,Weekday,398.78,479,3,No Event,137995.11,1,Monday,1,0,2
+2024-12-09,Morning,Guntur,Kadapa,219,Weekday,349.41,419,3,No Event,89008.17,0,Monday,2,0,2
+2024-12-09,Evening,Khammam,Nalagonda,282,Weekday,816.37,980,4,No Event,265305.6,1,Monday,1,0,2
+2024-12-10,Night,Khammam,Kakinada,90,Weekday,263.53,316,1,No Event,28155.6,0,Tuesday,3,0,2
+2024-12-10,Evening,Kadapa,Nalagonda,309,Weekday,409.42,491,0,No Event,151719.0,1,Tuesday,1,0,2
+2024-12-10,Night,Guntur,Hyderabad,113,Weekday,270.74,325,3,No Event,35623.25,0,Tuesday,3,0,2
+2024-12-11,Morning,Secunderabad,Nizamabad,153,Weekday,166.26,200,0,No Event,30600.0,0,Wednesday,2,0,2
+2024-12-11,Evening,Kakinada,Karimnagar,310,Weekday,458.76,551,1,No Event,169101.9,1,Wednesday,1,0,2
+2024-12-12,Morning,Vijayawada,Tenali,189,Weekday,33.07,40,2,No Event,7408.8,0,Thursday,2,0,2
+2024-12-12,Evening,Nizamabad,Kakinada,190,Weekday,597.23,717,0,No Event,136230.0,0,Thursday,1,0,2
+2024-12-13,Evening,Vijayawada,Nizamabad,285,Weekday,418.49,502,4,No Event,137347.19999999998,1,Friday,1,0,2
+2024-12-13,Morning,Visakhapatnam,Kadapa,245,Weekday,744.57,893,3,No Event,212221.44999999998,0,Friday,2,0,2
+2024-12-13,Evening,Kurnool,Rajahmundry,253,Weekday,494.02,593,3,No Event,145528.13,1,Friday,1,0,2
+2024-12-13,Night,Nellore,Nizamabad,88,Weekday,627.42,753,2,No Event,64938.72,0,Friday,3,0,2
+2024-12-14,Morning,Mahbubnagar,Tirupati,137,Weekend,460.0,552,10,Weekend,68061.6,0,Saturday,2,1,3
+2024-12-14,Afternoon,Tenali,Tirupati,143,Weekend,387.98,466,15,Weekend,56642.299999999996,0,Saturday,0,1,3
+2024-12-15,Afternoon,Nellore,Karimnagar,156,Weekend,543.78,653,15,Weekend,86587.8,0,Sunday,0,1,3
+2024-12-15,Morning,Vijayawada,Warangal,171,Weekend,244.67,294,15,Weekend,42732.9,0,Sunday,2,1,3
+2024-12-15,Afternoon,Warangal,Tenali,165,Weekend,274.84,330,10,Weekend,49005.0,0,Sunday,0,1,3
+2024-12-15,Morning,Khammam,Secunderabad,140,Weekend,199.31,239,15,Weekend,28441.0,0,Sunday,2,1,3
+2024-12-15,Morning,Rajahmundry,Khammam,135,Weekend,204.64,246,15,Weekend,28228.5,0,Sunday,2,1,3
+2024-12-15,Evening,Tenali,Kakinada,303,Weekend,261.69,314,10,Weekend,85627.8,1,Sunday,1,1,3
+2024-12-16,Night,Mahbubnagar,Vijayawada,106,Weekday,344.37,413,3,No Event,42464.659999999996,0,Monday,3,0,2
+2024-12-16,Morning,Warangal,Tenali,198,Weekday,274.84,330,0,No Event,65340.0,0,Monday,2,0,2
+2024-12-17,Morning,Guntur,Karimnagar,190,Weekday,356.45,428,5,No Event,77254.0,0,Tuesday,2,0,2
+2024-12-17,Afternoon,Warangal,Mahbubnagar,155,Weekday,244.22,293,1,No Event,44960.85,0,Tuesday,0,0,2
+2024-12-17,Night,Karimnagar,Kurnool,67,Weekday,422.95,508,3,No Event,33014.92,0,Tuesday,3,0,2
+2024-12-18,Evening,Warangal,Hyderabad,268,Weekday,149.36,179,1,No Event,47492.28,1,Wednesday,1,0,2
+2024-12-18,Morning,Tenali,Rajahmundry,243,Weekday,190.49,229,1,No Event,55090.53,0,Wednesday,2,0,2
+2024-12-18,Morning,Khammam,Hyderabad,238,Weekday,194.9,234,0,No Event,55692.0,0,Wednesday,2,0,2
+2024-12-18,Morning,Guntur,Nellore,150,Weekday,245.33,294,4,No Event,42336.0,0,Wednesday,2,0,2
+2024-12-18,Afternoon,Secunderabad,Guntur,162,Weekday,276.86,332,2,No Event,52708.32,0,Wednesday,0,0,2
+2024-12-19,Morning,Hyderabad,Karimnagar,175,Weekday,213.92,257,4,No Event,43176.0,0,Thursday,2,0,2
+2024-12-19,Night,Guntur,Nizamabad,70,Weekday,441.78,530,1,No Event,36729.0,0,Thursday,3,0,2
+2024-12-19,Night,Tenali,Tirupati,68,Weekday,387.98,466,2,No Event,31054.239999999998,0,Thursday,3,0,2
+2024-12-20,Night,Nalagonda,Nellore,103,Weekday,447.56,537,1,No Event,54757.89,0,Friday,3,0,2
+2024-12-20,Evening,Karimnagar,Secunderabad,290,Weekday,173.04,208,2,No Event,59113.6,1,Friday,1,0,2
+2024-12-20,Afternoon,Khammam,Tenali,159,Weekday,160.85,193,3,No Event,29766.39,0,Friday,0,0,2
+2024-12-21,Morning,Rajahmundry,Kurnool,233,Weekend,494.02,593,15,Weekend,117443.65,0,Saturday,2,1,3
+2024-12-21,Morning,Tirupati,Karimnagar,150,Weekend,679.85,816,10,Weekend,110160.0,0,Saturday,2,1,3
+2024-12-21,Night,Karimnagar,Secunderabad,115,Weekend,173.04,208,15,Weekend,20332.0,0,Saturday,3,1,3
+2024-12-21,Evening,Tirupati,Rajahmundry,313,Weekend,573.02,688,15,Weekend,183042.4,1,Saturday,1,1,3
+2024-12-22,Night,Nalagonda,Kurnool,95,Weekend,561.65,674,15,Weekend,54425.5,0,Sunday,3,1,3
+2024-12-22,Morning,Nellore,Visakhapatnam,127,Weekend,641.27,770,15,Weekend,83121.5,0,Sunday,2,1,3
+2024-12-22,Night,Nellore,Nizamabad,146,Weekend,627.42,753,15,Weekend,93447.3,0,Sunday,3,1,3
+2024-12-22,Night,Secunderabad,Nalagonda,139,Weekend,778.9,935,15,Weekend,110470.25,0,Sunday,3,1,3
+2024-12-23,Afternoon,Warangal,Nalagonda,98,Weekday,901.64,1082,5,No Event,100734.2,0,Monday,0,0,2
+2024-12-24,Night,Kadapa,Nizamabad,121,Weekday,585.59,703,0,No Event,85063.0,0,Tuesday,3,0,2
+2024-12-24,Afternoon,Kurnool,Visakhapatnam,154,Weekday,697.39,837,1,No Event,127609.02,0,Tuesday,0,0,2
+2024-12-24,Night,Visakhapatnam,Mahbubnagar,99,Weekday,699.2,839,2,No Event,81399.78,0,Tuesday,3,0,2
+2024-12-24,Morning,Mahbubnagar,Vijayawada,153,Weekday,344.37,413,3,No Event,61293.33,0,Tuesday,2,0,2
+2024-12-24,Morning,Rajahmundry,Karimnagar,153,Weekday,399.74,480,5,No Event,69768.0,0,Tuesday,2,0,2
+2024-12-24,Evening,Nalagonda,Hyderabad,193,Weekday,769.79,924,2,No Event,174765.36,0,Tuesday,1,0,2
+2024-12-25,Night,Kurnool,Nellore,65,Weekday,322.85,387,3,No Event,24400.35,0,Wednesday,3,0,2
+2024-12-26,Evening,Warangal,Khammam,228,Weekday,118.24,142,0,No Event,32376.0,0,Thursday,1,0,2
+2024-12-26,Morning,Kurnool,Kakinada,229,Weekday,551.11,661,2,No Event,148341.62,0,Thursday,2,0,2
+2024-12-26,Morning,Karimnagar,Tirupati,159,Weekday,679.85,816,2,No Event,127149.12,0,Thursday,2,0,2
+2024-12-27,Evening,Kurnool,Hyderabad,180,Weekday,213.32,256,1,No Event,45619.2,0,Friday,1,0,2
+2024-12-27,Morning,Visakhapatnam,Warangal,197,Weekday,525.98,631,2,No Event,121820.86,0,Friday,2,0,2
+2024-12-27,Afternoon,Karimnagar,Kakinada,158,Weekday,458.76,551,2,No Event,85316.84,0,Friday,0,0,2
+2024-12-27,Evening,Kadapa,Nalagonda,202,Weekday,409.42,491,0,No Event,99182.0,0,Friday,1,0,2
+2024-12-27,Evening,Nalagonda,Secunderabad,301,Weekday,778.9,935,2,No Event,275806.3,1,Friday,1,0,2
+2024-12-28,Afternoon,Rajahmundry,Kurnool,163,Weekend,494.02,593,15,Weekend,82160.15,0,Saturday,0,1,3
+2024-12-28,Evening,Kadapa,Nalagonda,220,Weekend,409.42,491,10,Weekend,97218.0,0,Saturday,1,1,3
+2024-12-28,Evening,Hyderabad,Guntur,231,Weekend,270.74,325,10,Weekend,67567.5,0,Saturday,1,1,3
+2024-12-28,Morning,Nizamabad,Warangal,167,Weekend,227.44,273,15,Weekend,38752.35,0,Saturday,2,1,3
+2024-12-28,Night,Nizamabad,Tenali,61,Weekend,449.04,539,10,Weekend,29591.100000000002,0,Saturday,3,1,3
+2024-12-28,Morning,Visakhapatnam,Nizamabad,205,Weekend,742.62,891,10,Weekend,164389.5,0,Saturday,2,1,3
+2024-12-28,Afternoon,Khammam,Vijayawada,159,Weekend,130.3,156,10,Weekend,22323.600000000002,0,Saturday,0,1,3
+2024-12-29,Morning,Visakhapatnam,Khammam,198,Weekend,408.01,490,10,Weekend,87318.0,0,Sunday,2,1,3
+2024-12-29,Night,Nizamabad,Nalagonda,89,Weekend,944.12,1133,10,Weekend,90753.3,0,Sunday,3,1,3
+2024-12-29,Evening,Mahbubnagar,Tenali,231,Weekend,350.45,421,10,Weekend,87525.90000000001,0,Sunday,1,1,3
+2024-12-29,Afternoon,Vijayawada,Mahbubnagar,107,Weekend,344.37,413,10,Weekend,39771.9,0,Sunday,0,1,3
+2024-12-30,Night,Nalagonda,Nellore,111,Weekday,447.56,537,1,No Event,59010.93,0,Monday,3,0,2
+2024-12-30,Morning,Tenali,Kadapa,166,Weekday,356.33,428,2,No Event,69627.04,0,Monday,2,0,2
+2024-12-30,Evening,Guntur,Nellore,267,Weekday,245.33,294,4,No Event,75358.08,1,Monday,1,0,2
+2024-12-31,Afternoon,Karimnagar,Nellore,197,Weekday,543.78,653,3,No Event,124781.76999999999,0,Tuesday,0,0,2
+2024-12-31,Evening,Tenali,Visakhapatnam,280,Weekday,393.96,473,0,No Event,132440.0,1,Tuesday,1,0,2
+2024-12-31,Night,Hyderabad,Kakinada,107,Weekday,459.86,552,5,No Event,56110.799999999996,0,Tuesday,3,0,2
+2024-12-31,Night,Nellore,Khammam,107,Weekday,369.57,443,3,No Event,45978.97,0,Tuesday,3,0,2
+2024-12-31,Afternoon,Karimnagar,Nizamabad,93,Weekday,148.92,179,3,No Event,16147.59,0,Tuesday,0,0,2
+2024-12-31,Night,Visakhapatnam,Guntur,79,Weekday,398.78,479,4,No Event,36327.36,0,Tuesday,3,0,2
+2024-12-31,Evening,Kakinada,Tenali,225,Weekday,261.69,314,4,No Event,67824.0,0,Tuesday,1,0,2
+2024-12-31,Night,Mahbubnagar,Warangal,140,Weekday,244.22,293,0,No Event,41020.0,0,Tuesday,3,0,2
+2025-01-01,Evening,Secunderabad,Karimnagar,293,Weekday,173.04,208,1,No Event,60334.56,1,Wednesday,1,0,2
+2025-01-01,Afternoon,Vijayawada,Nalagonda,97,Weekday,726.77,872,4,No Event,81200.64,0,Wednesday,0,0,2
+2025-01-01,Evening,Hyderabad,Kadapa,266,Weekday,411.52,494,3,No Event,127461.87999999999,1,Wednesday,1,0,2
+2025-01-02,Afternoon,Nellore,Nalagonda,103,Weekday,447.56,537,4,No Event,53098.56,0,Thursday,0,0,2
+2025-01-02,Night,Kurnool,Visakhapatnam,127,Weekday,697.39,837,1,No Event,105236.01,0,Thursday,3,0,2
+2025-01-02,Evening,Tenali,Nizamabad,196,Weekday,449.04,539,4,No Event,101418.23999999999,0,Thursday,1,0,2
+2025-01-02,Afternoon,Mahbubnagar,Hyderabad,163,Weekday,99.48,119,2,No Event,19009.06,0,Thursday,0,0,2
+2025-01-03,Night,Kakinada,Khammam,66,Weekday,263.53,316,2,No Event,20438.88,0,Friday,3,0,2
+2025-01-03,Afternoon,Kurnool,Hyderabad,186,Weekday,213.32,256,1,No Event,47139.84,0,Friday,0,0,2
+2025-01-03,Afternoon,Tirupati,Visakhapatnam,157,Weekday,775.66,931,2,No Event,143243.66,0,Friday,0,0,2
+2025-01-04,Morning,Kurnool,Nellore,208,Weekend,322.85,387,15,Weekend,68421.59999999999,0,Saturday,2,1,3
+2025-01-04,Evening,Rajahmundry,Nalagonda,198,Weekend,884.3,1061,10,Weekend,189070.2,0,Saturday,1,1,3
+2025-01-05,Morning,Kakinada,Mahbubnagar,199,Weekend,548.14,658,15,Weekend,111300.7,0,Sunday,2,1,3
+2025-01-05,Morning,Tirupati,Khammam,194,Weekend,505.63,607,10,Weekend,105982.2,0,Sunday,2,1,3
+2025-01-06,Evening,Karimnagar,Tenali,316,Weekday,351.2,421,5,No Event,126384.2,1,Monday,1,0,2
+2025-01-06,Morning,Mahbubnagar,Kadapa,222,Weekday,321.38,386,3,No Event,83121.23999999999,0,Monday,2,0,2
+2025-01-06,Evening,Kadapa,Hyderabad,284,Weekday,411.52,494,3,No Event,136087.12,1,Monday,1,0,2
+2025-01-07,Morning,Mahbubnagar,Karimnagar,209,Weekday,309.11,371,4,No Event,74437.44,0,Tuesday,2,0,2
+2025-01-07,Morning,Tirupati,Mahbubnagar,173,Weekday,460.0,552,3,No Event,92631.12,0,Tuesday,2,0,2
+2025-01-07,Afternoon,Kurnool,Secunderabad,171,Weekday,219.87,264,2,No Event,44241.12,0,Tuesday,0,0,2
+2025-01-07,Morning,Rajahmundry,Karimnagar,154,Weekday,399.74,480,5,No Event,70224.0,0,Tuesday,2,0,2
+2025-01-07,Morning,Mahbubnagar,Visakhapatnam,179,Weekday,699.2,839,5,No Event,142671.94999999998,0,Tuesday,2,0,2
+2025-01-08,Morning,Guntur,Nellore,170,Weekday,245.33,294,4,No Event,47980.799999999996,0,Wednesday,2,0,2
+2025-01-08,Afternoon,Secunderabad,Guntur,183,Weekday,276.86,332,2,No Event,59540.88,0,Wednesday,0,0,2
+2025-01-08,Night,Guntur,Nellore,61,Weekday,245.33,294,4,No Event,17216.64,0,Wednesday,3,0,2
+2025-01-08,Evening,Nalagonda,Warangal,215,Weekday,901.64,1082,0,No Event,232630.0,0,Wednesday,1,0,2
+2025-01-08,Morning,Karimnagar,Nizamabad,127,Weekday,148.92,179,3,No Event,22051.01,0,Wednesday,2,0,2
+2025-01-08,Night,Nalagonda,Mahbubnagar,61,Weekday,678.63,814,0,No Event,49654.0,0,Wednesday,3,0,2
+2025-01-09,Night,Tenali,Nalagonda,106,Weekday,699.42,839,0,No Event,88934.0,0,Thursday,3,0,2
+2025-01-09,Night,Vijayawada,Visakhapatnam,142,Weekday,361.84,434,5,No Event,58546.6,0,Thursday,3,0,2
+2025-01-09,Night,Nalagonda,Visakhapatnam,141,Weekday,1087.66,1305,1,No Event,182164.95,0,Thursday,3,0,2
+2025-01-10,Morning,Visakhapatnam,Vijayawada,235,Weekday,361.84,434,2,No Event,99950.2,0,Friday,2,0,2
+2025-01-10,Afternoon,Kakinada,Nalagonda,192,Weekday,925.6,1111,0,No Event,213312.0,0,Friday,0,0,2
+2025-01-10,Evening,Warangal,Nalagonda,278,Weekday,901.64,1082,5,No Event,285756.2,1,Friday,1,0,2
+2025-01-10,Afternoon,Vijayawada,Kadapa,124,Weekday,383.68,460,3,No Event,55328.799999999996,0,Friday,0,0,2
+2025-01-10,Evening,Guntur,Visakhapatnam,247,Weekday,398.78,479,3,No Event,114763.61,0,Friday,1,0,2
+2025-01-11,Afternoon,Nalagonda,Nizamabad,188,Weekend,944.12,1133,10,Weekend,191703.6,0,Saturday,0,1,3
+2025-01-11,Morning,Kurnool,Nizamabad,169,Weekend,385.09,462,15,Weekend,66366.3,0,Saturday,2,1,3
+2025-01-11,Evening,Visakhapatnam,Vijayawada,249,Weekend,361.84,434,15,Weekend,91856.09999999999,0,Saturday,1,1,3
+2025-01-11,Morning,Mahbubnagar,Tirupati,157,Weekend,460.0,552,10,Weekend,77997.6,0,Saturday,2,1,3
+2025-01-11,Evening,Kakinada,Guntur,278,Weekend,254.32,305,10,Weekend,76311.0,1,Saturday,1,1,3
+2025-01-12,Night,Visakhapatnam,Nalagonda,141,Weekend,1087.66,1305,15,Weekend,156404.25,0,Sunday,3,1,3
+2025-01-12,Afternoon,Tenali,Khammam,135,Weekend,160.85,193,10,Weekend,23449.5,0,Sunday,0,1,3
+2025-01-12,Afternoon,Mahbubnagar,Tirupati,198,Weekend,460.0,552,10,Weekend,98366.40000000001,0,Sunday,0,1,3
+2025-01-12,Morning,Nellore,Tenali,215,Weekend,253.03,304,10,Weekend,58824.0,0,Sunday,2,1,3
+2025-01-12,Evening,Hyderabad,Tirupati,220,Weekend,551.16,661,15,Weekend,123607.0,0,Sunday,1,1,3
+2025-01-12,Afternoon,Khammam,Tirupati,99,Weekend,505.63,607,15,Weekend,51079.049999999996,0,Sunday,0,1,3
+2025-01-12,Morning,Mahbubnagar,Nellore,190,Weekend,439.84,528,15,Weekend,85272.0,0,Sunday,2,1,3
+2025-01-13,Afternoon,Nalagonda,Secunderabad,187,Weekday,778.9,935,2,No Event,171348.1,0,Monday,0,0,2
+2025-01-13,Evening,Guntur,Kurnool,182,Weekday,297.53,357,4,No Event,62375.04,0,Monday,1,0,2
+2025-01-13,Evening,Secunderabad,Visakhapatnam,199,Weekday,610.32,732,2,No Event,142754.63999999998,0,Monday,1,0,2
+2025-01-14,Morning,Hyderabad,Nellore,210,Weekday,454.19,545,4,No Event,109872.0,0,Tuesday,2,0,2
+2025-01-14,Evening,Khammam,Vijayawada,310,Weekday,130.3,156,5,No Event,45942.0,1,Tuesday,1,0,2
+2025-01-14,Evening,Secunderabad,Nalagonda,241,Weekday,778.9,935,3,No Event,218574.94999999998,0,Tuesday,1,0,2
+2025-01-14,Afternoon,Khammam,Visakhapatnam,90,Weekday,408.01,490,4,No Event,42336.0,0,Tuesday,0,0,2
+2025-01-14,Evening,Khammam,Mahbubnagar,318,Weekday,283.12,340,1,No Event,107038.8,1,Tuesday,1,0,2
+2025-01-14,Evening,Tenali,Khammam,241,Weekday,160.85,193,1,No Event,46047.87,0,Tuesday,1,0,2
+2025-01-15,Afternoon,Nizamabad,Warangal,83,Weekday,227.44,273,5,No Event,21526.05,0,Wednesday,0,0,2
+2025-01-15,Morning,Hyderabad,Kakinada,223,Weekday,459.86,552,5,No Event,116941.2,0,Wednesday,2,0,2
+2025-01-15,Afternoon,Warangal,Tenali,111,Weekday,274.84,330,0,No Event,36630.0,0,Wednesday,0,0,2
+2025-01-15,Evening,Karimnagar,Kadapa,190,Weekday,570.65,685,0,No Event,130150.0,0,Wednesday,1,0,2
+2025-01-16,Morning,Kurnool,Tenali,236,Weekday,329.18,395,4,No Event,89491.2,0,Thursday,2,0,2
+2025-01-16,Morning,Kurnool,Mahbubnagar,224,Weekday,120.89,145,2,No Event,31830.399999999998,0,Thursday,2,0,2
+2025-01-17,Afternoon,Karimnagar,Nizamabad,153,Weekday,148.92,179,3,No Event,26565.39,0,Friday,0,0,2
+2025-01-17,Afternoon,Nizamabad,Karimnagar,150,Weekday,148.92,179,4,No Event,25776.0,0,Friday,0,0,2
+2025-01-17,Evening,Nizamabad,Rajahmundry,217,Weekday,539.25,647,4,No Event,134783.04,0,Friday,1,0,2
+2025-01-17,Morning,Rajahmundry,Visakhapatnam,209,Weekday,212.8,255,4,No Event,51163.2,0,Friday,2,0,2
+2025-01-18,Evening,Tenali,Vijayawada,198,Weekend,33.07,40,10,Weekend,7128.0,0,Saturday,1,1,3
+2025-01-18,Morning,Karimnagar,Kurnool,189,Weekend,422.95,508,15,Weekend,81610.2,0,Saturday,2,1,3
+2025-01-18,Morning,Tirupati,Nellore,199,Weekend,136.37,164,10,Weekend,29372.4,0,Saturday,2,1,3
+2025-01-19,Morning,Mahbubnagar,Kadapa,239,Weekend,321.38,386,15,Weekend,78415.9,0,Sunday,2,1,3
+2025-01-19,Afternoon,Kakinada,Visakhapatnam,98,Weekend,171.6,206,15,Weekend,17159.8,0,Sunday,0,1,3
+2025-01-19,Afternoon,Nalagonda,Nizamabad,111,Weekend,944.12,1133,10,Weekend,113186.7,0,Sunday,0,1,3
+2025-01-19,Morning,Nizamabad,Mahbubnagar,222,Weekend,273.79,329,10,Weekend,65734.2,0,Sunday,2,1,3
+2025-01-19,Afternoon,Tenali,Mahbubnagar,106,Weekend,350.45,421,15,Weekend,37932.1,0,Sunday,0,1,3
+2025-01-20,Morning,Nellore,Tenali,191,Weekday,253.03,304,0,No Event,58064.0,0,Monday,2,0,2
+2025-01-20,Morning,Visakhapatnam,Khammam,229,Weekday,408.01,490,0,No Event,112210.0,0,Monday,2,0,2
+2025-01-21,Morning,Nalagonda,Visakhapatnam,146,Weekday,1087.66,1305,1,No Event,188624.7,0,Tuesday,2,0,2
+2025-01-21,Afternoon,Tenali,Vijayawada,179,Weekday,33.07,40,0,No Event,7160.0,0,Tuesday,0,0,2
+2025-01-21,Night,Rajahmundry,Vijayawada,106,Weekday,158.45,190,4,No Event,19334.399999999998,0,Tuesday,3,0,2
+2025-01-23,Morning,Warangal,Kadapa,207,Weekday,493.86,593,3,No Event,119068.47,0,Thursday,2,0,2
+2025-01-23,Evening,Tirupati,Secunderabad,197,Weekday,559.94,672,2,No Event,129736.31999999999,0,Thursday,1,0,2
+2025-01-23,Night,Nizamabad,Hyderabad,68,Weekday,174.68,210,0,No Event,14280.0,0,Thursday,3,0,2
+2025-01-23,Evening,Vijayawada,Nizamabad,260,Weekday,418.49,502,4,No Event,125299.2,1,Thursday,1,0,2
+2025-01-23,Evening,Rajahmundry,Secunderabad,219,Weekday,405.46,487,5,No Event,101320.34999999999,0,Thursday,1,0,2
+2025-01-24,Evening,Vijayawada,Nalagonda,246,Weekday,726.77,872,4,No Event,205931.52,0,Friday,1,0,2
+2025-01-24,Evening,Vijayawada,Tenali,267,Weekday,33.07,40,2,No Event,10466.4,1,Friday,1,0,2
+2025-01-24,Afternoon,Guntur,Warangal,177,Weekday,279.65,336,2,No Event,58282.56,0,Friday,0,0,2
+2025-01-24,Evening,Khammam,Nellore,181,Weekday,369.57,443,2,No Event,78579.34,0,Friday,1,0,2
+2025-01-24,Night,Kakinada,Kadapa,97,Weekday,583.93,701,2,No Event,66637.06,0,Friday,3,0,2
+2025-01-24,Morning,Hyderabad,Vijayawada,180,Weekday,276.02,331,3,No Event,57792.6,0,Friday,2,0,2
+2025-01-25,Afternoon,Guntur,Kadapa,200,Weekend,349.41,419,15,Weekend,71230.0,0,Saturday,0,1,3
+2025-01-25,Night,Visakhapatnam,Vijayawada,64,Weekend,361.84,434,15,Weekend,23609.6,0,Saturday,3,1,3
+2025-01-26,Evening,Warangal,Tirupati,258,Weekend,605.06,726,10,Weekend,168577.2,1,Sunday,1,1,3
+2025-01-26,Afternoon,Secunderabad,Khammam,124,Weekend,199.31,239,15,Weekend,25190.6,0,Sunday,0,1,3
+2025-01-26,Evening,Mahbubnagar,Hyderabad,250,Weekend,99.48,119,15,Weekend,25287.5,0,Sunday,1,1,3
+2025-01-27,Afternoon,Visakhapatnam,Nizamabad,107,Weekday,742.62,891,1,No Event,94383.63,0,Monday,0,0,2
+2025-01-27,Night,Secunderabad,Warangal,127,Weekday,147.79,177,3,No Event,21804.63,0,Monday,3,0,2
+2025-01-28,Evening,Secunderabad,Vijayawada,202,Weekday,282.02,338,1,No Event,67593.24,0,Tuesday,1,0,2
+2025-01-29,Night,Nizamabad,Warangal,86,Weekday,227.44,273,5,No Event,22304.1,0,Wednesday,3,0,2
+2025-01-29,Morning,Secunderabad,Nalagonda,137,Weekday,778.9,935,3,No Event,124252.15,0,Wednesday,2,0,2
+2025-01-29,Afternoon,Rajahmundry,Nizamabad,185,Weekday,539.25,647,1,No Event,118498.05,0,Wednesday,0,0,2
+2025-01-29,Morning,Khammam,Kadapa,195,Weekday,412.49,495,1,No Event,95559.75,0,Wednesday,2,0,2
+2025-01-29,Afternoon,Kadapa,Rajahmundry,125,Weekday,541.2,649,5,No Event,77068.75,0,Wednesday,0,0,2
+2025-01-29,Morning,Kurnool,Nellore,239,Weekday,322.85,387,3,No Event,89718.20999999999,0,Wednesday,2,0,2
+2025-01-29,Afternoon,Nellore,Hyderabad,168,Weekday,454.19,545,4,No Event,87897.59999999999,0,Wednesday,0,0,2
+2025-01-30,Morning,Karimnagar,Guntur,139,Weekday,356.45,428,2,No Event,58302.159999999996,0,Thursday,2,0,2
+2025-01-30,Evening,Secunderabad,Nellore,272,Weekday,462.5,555,3,No Event,146431.19999999998,1,Thursday,1,0,2
+2025-01-30,Evening,Khammam,Vijayawada,286,Weekday,130.3,156,5,No Event,42385.2,1,Thursday,1,0,2
+2025-01-30,Evening,Khammam,Nellore,276,Weekday,369.57,443,2,No Event,119822.64,1,Thursday,1,0,2
+2025-01-31,Morning,Visakhapatnam,Vijayawada,243,Weekday,361.84,434,2,No Event,103352.76,0,Friday,2,0,2
+2025-01-31,Evening,Vijayawada,Rajahmundry,183,Weekday,158.45,190,2,No Event,34074.6,0,Friday,1,0,2
+2025-01-31,Afternoon,Hyderabad,Khammam,152,Weekday,194.9,234,5,No Event,33789.6,0,Friday,0,0,2
+2025-01-31,Morning,Kakinada,Tirupati,223,Weekday,614.86,738,0,No Event,164574.0,0,Friday,2,0,2
+2025-01-31,Evening,Rajahmundry,Vijayawada,274,Weekday,158.45,190,4,No Event,49977.6,1,Friday,1,0,2
+2025-01-31,Evening,Nalagonda,Kakinada,258,Weekday,925.6,1111,3,No Event,278038.86,1,Friday,1,0,2
+2025-01-31,Evening,Hyderabad,Nellore,268,Weekday,454.19,545,4,No Event,140217.6,1,Friday,1,0,2
+2025-02-01,Night,Vijayawada,Khammam,70,Weekend,130.3,156,10,Weekend,9828.0,0,Saturday,3,1,3
+2025-02-01,Evening,Karimnagar,Hyderabad,301,Weekend,213.92,257,10,Weekend,69621.3,1,Saturday,1,1,3
+2025-02-02,Afternoon,Hyderabad,Khammam,137,Weekend,194.9,234,15,Weekend,27249.3,0,Sunday,0,1,3
+2025-02-02,Evening,Kakinada,Nalagonda,238,Weekend,925.6,1111,10,Weekend,237976.2,0,Sunday,1,1,3
+2025-02-03,Night,Warangal,Karimnagar,123,Weekday,79.27,95,2,No Event,11451.3,0,Monday,3,0,2
+2025-02-03,Morning,Hyderabad,Visakhapatnam,234,Weekday,604.32,725,0,No Event,169650.0,0,Monday,2,0,2
+2025-02-03,Evening,Nellore,Vijayawada,279,Weekday,280.37,336,2,No Event,91869.12,1,Monday,1,0,2
+2025-02-03,Morning,Khammam,Visakhapatnam,250,Weekday,408.01,490,4,No Event,117600.0,0,Monday,2,0,2
+2025-02-03,Morning,Tirupati,Guntur,139,Weekday,381.39,458,0,No Event,63662.0,0,Monday,2,0,2
+2025-02-03,Morning,Mahbubnagar,Kurnool,235,Weekday,120.89,145,3,No Event,33052.75,0,Monday,2,0,2
+2025-02-03,Morning,Guntur,Rajahmundry,220,Weekday,195.41,234,1,No Event,50965.2,0,Monday,2,0,2
+2025-02-04,Morning,Guntur,Kadapa,229,Weekday,349.41,419,3,No Event,93072.47,0,Tuesday,2,0,2
+2025-02-04,Afternoon,Karimnagar,Kakinada,147,Weekday,458.76,551,2,No Event,79377.06,0,Tuesday,0,0,2
+2025-02-04,Afternoon,Visakhapatnam,Hyderabad,200,Weekday,604.32,725,4,No Event,139200.0,0,Tuesday,0,0,2
+2025-02-04,Morning,Nalagonda,Kadapa,157,Weekday,409.42,491,3,No Event,74774.39,0,Tuesday,2,0,2
+2025-02-04,Night,Nellore,Khammam,138,Weekday,369.57,443,3,No Event,59299.979999999996,0,Tuesday,3,0,2
+2025-02-04,Afternoon,Hyderabad,Visakhapatnam,183,Weekday,604.32,725,0,No Event,132675.0,0,Tuesday,0,0,2
+2025-02-04,Evening,Guntur,Visakhapatnam,210,Weekday,398.78,479,3,No Event,97572.3,0,Tuesday,1,0,2
+2025-02-04,Afternoon,Visakhapatnam,Nalagonda,134,Weekday,1087.66,1305,4,No Event,167875.19999999998,0,Tuesday,0,0,2
+2025-02-05,Night,Warangal,Khammam,94,Weekday,118.24,142,0,No Event,13348.0,0,Wednesday,3,0,2
+2025-02-05,Morning,Kurnool,Nalagonda,194,Weekday,561.65,674,4,No Event,125525.76,0,Wednesday,2,0,2
+2025-02-06,Morning,Tirupati,Hyderabad,186,Weekday,551.16,661,2,No Event,120487.08,0,Thursday,2,0,2
+2025-02-06,Morning,Karimnagar,Nellore,150,Weekday,543.78,653,3,No Event,95011.5,0,Thursday,2,0,2
+2025-02-06,Morning,Tenali,Nalagonda,172,Weekday,699.42,839,0,No Event,144308.0,0,Thursday,2,0,2
+2025-02-06,Evening,Tirupati,Hyderabad,201,Weekday,551.16,661,2,No Event,130203.78,0,Thursday,1,0,2
+2025-02-06,Afternoon,Karimnagar,Visakhapatnam,139,Weekday,603.1,724,2,No Event,98623.28,0,Thursday,0,0,2
+2025-02-06,Night,Mahbubnagar,Nellore,99,Weekday,439.84,528,2,No Event,51226.56,0,Thursday,3,0,2
+2025-02-07,Afternoon,Tenali,Nellore,135,Weekday,253.03,304,5,No Event,38988.0,0,Friday,0,0,2
+2025-02-07,Morning,Warangal,Mahbubnagar,149,Weekday,244.22,293,1,No Event,43220.43,0,Friday,2,0,2
+2025-02-09,Night,Guntur,Mahbubnagar,96,Weekend,310.15,372,10,Weekend,32140.8,0,Sunday,3,1,3
+2025-02-09,Morning,Kadapa,Mahbubnagar,158,Weekend,321.38,386,10,Weekend,54889.200000000004,0,Sunday,2,1,3
+2025-02-09,Morning,Karimnagar,Secunderabad,248,Weekend,173.04,208,15,Weekend,43846.4,0,Sunday,2,1,3
+2025-02-09,Morning,Rajahmundry,Guntur,134,Weekend,195.41,234,15,Weekend,26652.6,0,Sunday,2,1,3
+2025-02-10,Morning,Visakhapatnam,Secunderabad,135,Weekday,610.32,732,5,No Event,93879.0,0,Monday,2,0,2
+2025-02-10,Evening,Khammam,Tirupati,233,Weekday,505.63,607,2,No Event,138602.38,0,Monday,1,0,2
+2025-02-10,Night,Secunderabad,Mahbubnagar,93,Weekday,108.57,130,2,No Event,11848.199999999999,0,Monday,3,0,2
+2025-02-11,Evening,Guntur,Tirupati,284,Weekday,381.39,458,1,No Event,128771.28,1,Tuesday,1,0,2
+2025-02-12,Afternoon,Nizamabad,Visakhapatnam,89,Weekday,742.62,891,2,No Event,77713.02,0,Wednesday,0,0,2
+2025-02-12,Evening,Khammam,Tirupati,279,Weekday,505.63,607,2,No Event,165965.94,1,Wednesday,1,0,2
+2025-02-13,Night,Secunderabad,Mahbubnagar,79,Weekday,108.57,130,2,No Event,10064.6,0,Thursday,3,0,2
+2025-02-13,Night,Vijayawada,Nellore,80,Weekday,280.37,336,3,No Event,26073.6,0,Thursday,3,0,2
+2025-02-13,Afternoon,Kurnool,Kakinada,189,Weekday,551.11,661,2,No Event,122430.42,0,Thursday,0,0,2
+2025-02-13,Afternoon,Warangal,Rajahmundry,117,Weekday,323.09,388,3,No Event,44034.119999999995,0,Thursday,0,0,2
+2025-02-13,Afternoon,Nalagonda,Tirupati,166,Weekday,316.03,379,5,No Event,59768.299999999996,0,Thursday,0,0,2
+2025-02-13,Night,Mahbubnagar,Nalagonda,96,Weekday,678.63,814,0,No Event,78144.0,0,Thursday,3,0,2
+2025-02-13,Afternoon,Nellore,Warangal,111,Weekday,470.66,565,5,No Event,59579.25,0,Thursday,0,0,2
+2025-02-14,Afternoon,Mahbubnagar,Warangal,99,Weekday,244.22,293,0,No Event,29007.0,0,Friday,0,0,2
+2025-02-14,Morning,Guntur,Tirupati,169,Weekday,381.39,458,1,No Event,76627.98,0,Friday,2,0,2
+2025-02-14,Evening,Kakinada,Visakhapatnam,289,Weekday,171.6,206,3,No Event,57747.979999999996,1,Friday,1,0,2
+2025-02-15,Morning,Mahbubnagar,Hyderabad,140,Weekend,99.48,119,15,Weekend,14161.0,0,Saturday,2,1,3
+2025-02-15,Afternoon,Warangal,Karimnagar,101,Weekend,79.27,95,15,Weekend,8155.75,0,Saturday,0,1,3
+2025-02-15,Night,Kakinada,Mahbubnagar,120,Weekend,548.14,658,15,Weekend,67116.0,0,Saturday,3,1,3
+2025-02-15,Morning,Hyderabad,Kadapa,129,Weekend,411.52,494,15,Weekend,54167.1,0,Saturday,2,1,3
+2025-02-15,Morning,Mahbubnagar,Nalagonda,227,Weekend,678.63,814,10,Weekend,166300.2,0,Saturday,2,1,3
+2025-02-16,Afternoon,Tenali,Warangal,164,Weekend,274.84,330,10,Weekend,48708.0,0,Sunday,0,1,3
+2025-02-16,Night,Tirupati,Guntur,136,Weekend,381.39,458,10,Weekend,56059.200000000004,0,Sunday,3,1,3
+2025-02-16,Night,Rajahmundry,Khammam,126,Weekend,204.64,246,15,Weekend,26346.6,0,Sunday,3,1,3
+2025-02-16,Evening,Nalagonda,Kakinada,305,Weekend,925.6,1111,15,Weekend,288026.75,1,Sunday,1,1,3
+2025-02-17,Afternoon,Secunderabad,Visakhapatnam,131,Weekday,610.32,732,2,No Event,93974.16,0,Monday,0,0,2
+2025-02-17,Evening,Tirupati,Nalagonda,317,Weekday,316.03,379,2,No Event,117740.14,1,Monday,1,0,2
+2025-02-18,Evening,Nellore,Secunderabad,226,Weekday,462.5,555,1,No Event,124175.7,0,Tuesday,1,0,2
+2025-02-18,Evening,Visakhapatnam,Kurnool,195,Weekday,697.39,837,0,No Event,163215.0,0,Tuesday,1,0,2
+2025-02-18,Night,Warangal,Kakinada,125,Weekday,381.97,458,5,No Event,54387.5,0,Tuesday,3,0,2
+2025-02-18,Morning,Visakhapatnam,Vijayawada,227,Weekday,361.84,434,2,No Event,96547.64,0,Tuesday,2,0,2
+2025-02-19,Evening,Visakhapatnam,Nalagonda,282,Weekday,1087.66,1305,4,No Event,353289.6,1,Wednesday,1,0,2
+2025-02-20,Evening,Guntur,Khammam,185,Weekday,166.01,199,1,No Event,36446.85,0,Thursday,1,0,2
+2025-02-20,Morning,Guntur,Secunderabad,249,Weekday,276.86,332,0,No Event,82668.0,0,Thursday,2,0,2
+2025-02-20,Night,Secunderabad,Kurnool,80,Weekday,219.87,264,5,No Event,20064.0,0,Thursday,3,0,2
+2025-02-20,Morning,Vijayawada,Nellore,148,Weekday,280.37,336,3,No Event,48236.159999999996,0,Thursday,2,0,2
+2025-02-20,Evening,Hyderabad,Vijayawada,297,Weekday,276.02,331,3,No Event,95357.79,1,Thursday,1,0,2
+2025-02-21,Evening,Secunderabad,Kakinada,201,Weekday,464.34,557,4,No Event,107478.72,0,Friday,1,0,2
+2025-02-21,Night,Mahbubnagar,Vijayawada,109,Weekday,344.37,413,3,No Event,43666.49,0,Friday,3,0,2
+2025-02-21,Night,Kakinada,Hyderabad,111,Weekday,459.86,552,1,No Event,60659.28,0,Friday,3,0,2
+2025-02-21,Night,Kurnool,Kadapa,140,Weekday,200.49,241,0,No Event,33740.0,0,Friday,3,0,2
+2025-02-21,Afternoon,Kurnool,Nellore,91,Weekday,322.85,387,3,No Event,34160.49,0,Friday,0,0,2
+2025-02-21,Afternoon,Kurnool,Vijayawada,174,Weekday,336.5,404,5,No Event,66781.2,0,Friday,0,0,2
+2025-02-22,Evening,Secunderabad,Mahbubnagar,198,Weekend,108.57,130,15,Weekend,21879.0,0,Saturday,1,1,3
+2025-02-22,Afternoon,Vijayawada,Warangal,102,Weekend,244.67,294,15,Weekend,25489.8,0,Saturday,0,1,3
+2025-02-22,Afternoon,Tenali,Secunderabad,175,Weekend,304.51,365,15,Weekend,54293.75,0,Saturday,0,1,3
+2025-02-23,Morning,Mahbubnagar,Hyderabad,139,Weekend,99.48,119,15,Weekend,14059.85,0,Sunday,2,1,3
+2025-02-23,Evening,Guntur,Khammam,227,Weekend,166.01,199,10,Weekend,40655.700000000004,0,Sunday,1,1,3
+2025-02-24,Morning,Mahbubnagar,Rajahmundry,245,Weekday,495.83,595,5,No Event,138486.25,0,Monday,2,0,2
+2025-02-24,Night,Hyderabad,Nalagonda,121,Weekday,769.79,924,0,No Event,111804.0,0,Monday,3,0,2
+2025-02-24,Morning,Karimnagar,Vijayawada,129,Weekday,320.65,385,4,No Event,47678.4,0,Monday,2,0,2
+2025-02-24,Afternoon,Rajahmundry,Nalagonda,102,Weekday,884.3,1061,4,No Event,103893.12,0,Monday,0,0,2
+2025-02-24,Afternoon,Khammam,Vijayawada,163,Weekday,130.3,156,5,No Event,24156.6,0,Monday,0,0,2
+2025-02-25,Night,Visakhapatnam,Tenali,122,Weekday,393.96,473,1,No Event,57128.94,0,Tuesday,3,0,2
+2025-02-25,Evening,Kurnool,Nalagonda,218,Weekday,561.65,674,4,No Event,141054.72,0,Tuesday,1,0,2
+2025-02-26,Morning,Kurnool,Vijayawada,183,Weekday,336.5,404,5,No Event,70235.4,0,Wednesday,2,0,2
+2025-02-26,Night,Nizamabad,Visakhapatnam,98,Weekday,742.62,891,2,No Event,85571.64,0,Wednesday,3,0,2
+2025-02-27,Evening,Warangal,Nellore,280,Weekday,470.66,565,0,No Event,158200.0,1,Thursday,1,0,2
+2025-02-27,Morning,Secunderabad,Rajahmundry,137,Weekday,405.46,487,4,No Event,64050.24,0,Thursday,2,0,2
+2025-02-27,Morning,Khammam,Secunderabad,126,Weekday,199.31,239,2,No Event,29511.72,0,Thursday,2,0,2
+2025-02-27,Morning,Nalagonda,Mahbubnagar,181,Weekday,678.63,814,0,No Event,147334.0,0,Thursday,2,0,2
+2025-02-27,Afternoon,Warangal,Kakinada,129,Weekday,381.97,458,5,No Event,56127.899999999994,0,Thursday,0,0,2
+2025-02-28,Afternoon,Vijayawada,Kurnool,127,Weekday,336.5,404,1,No Event,50794.92,0,Friday,0,0,2
+2025-02-28,Evening,Kakinada,Hyderabad,218,Weekday,459.86,552,1,No Event,119132.64,0,Friday,1,0,2
+2025-02-28,Afternoon,Khammam,Kakinada,136,Weekday,263.53,316,1,No Event,42546.24,0,Friday,0,0,2
+2025-02-28,Evening,Nizamabad,Rajahmundry,243,Weekday,539.25,647,4,No Event,150932.16,0,Friday,1,0,2
+2025-03-01,Evening,Hyderabad,Nalagonda,243,Weekend,769.79,924,10,Weekend,202078.80000000002,0,Saturday,1,1,3
+2025-03-01,Morning,Khammam,Hyderabad,177,Weekend,194.9,234,10,Weekend,37276.200000000004,0,Saturday,2,1,3
+2025-03-01,Morning,Nalagonda,Tenali,192,Weekend,699.42,839,10,Weekend,144979.2,0,Saturday,2,1,3
+2025-03-01,Night,Hyderabad,Secunderabad,146,Weekend,9.46,11,15,Weekend,1365.1,0,Saturday,3,1,3
+2025-03-01,Morning,Secunderabad,Rajahmundry,191,Weekend,405.46,487,10,Weekend,83715.3,0,Saturday,2,1,3
+2025-03-02,Evening,Rajahmundry,Tirupati,252,Weekend,573.02,688,15,Weekend,147369.6,1,Sunday,1,1,3
+2025-03-02,Morning,Tirupati,Kadapa,216,Weekend,140.34,168,15,Weekend,30844.8,0,Sunday,2,1,3
+2025-03-04,Morning,Guntur,Secunderabad,234,Weekday,276.86,332,0,No Event,77688.0,0,Tuesday,2,0,2
+2025-03-04,Morning,Nizamabad,Kadapa,173,Weekday,585.59,703,1,No Event,120402.81,0,Tuesday,2,0,2
+2025-03-04,Night,Warangal,Kurnool,130,Weekday,355.52,427,0,No Event,55510.0,0,Tuesday,3,0,2
+2025-03-04,Afternoon,Kakinada,Nellore,113,Weekday,478.79,575,0,No Event,64975.0,0,Tuesday,0,0,2
+2025-03-04,Night,Nellore,Warangal,150,Weekday,470.66,565,5,No Event,80512.5,0,Tuesday,3,0,2
+2025-03-04,Evening,Tirupati,Warangal,186,Weekday,605.06,726,2,No Event,132335.28,0,Tuesday,1,0,2
+2025-03-05,Morning,Nalagonda,Guntur,221,Weekday,692.13,831,5,No Event,174468.44999999998,0,Wednesday,2,0,2
+2025-03-05,Morning,Nalagonda,Tirupati,210,Weekday,316.03,379,5,No Event,75610.5,0,Wednesday,2,0,2
+2025-03-05,Afternoon,Nalagonda,Secunderabad,174,Weekday,778.9,935,2,No Event,159436.2,0,Wednesday,0,0,2
+2025-03-06,Morning,Khammam,Tirupati,203,Weekday,505.63,607,2,No Event,120756.58,0,Thursday,2,0,2
+2025-03-06,Afternoon,Secunderabad,Nellore,89,Weekday,462.5,555,3,No Event,47913.15,0,Thursday,0,0,2
+2025-03-06,Afternoon,Nizamabad,Tirupati,198,Weekday,726.1,871,3,No Event,167284.26,0,Thursday,0,0,2
+2025-03-06,Night,Rajahmundry,Kakinada,108,Weekday,60.27,72,4,No Event,7464.96,0,Thursday,3,0,2
+2025-03-07,Evening,Nalagonda,Guntur,254,Weekday,692.13,831,5,No Event,200520.3,1,Friday,1,0,2
+2025-03-07,Morning,Vijayawada,Karimnagar,153,Weekday,320.65,385,0,No Event,58905.0,0,Friday,2,0,2
+2025-03-07,Night,Nizamabad,Tirupati,144,Weekday,726.1,871,3,No Event,121661.28,0,Friday,3,0,2
+2025-03-07,Morning,Visakhapatnam,Nellore,199,Weekday,641.27,770,3,No Event,148633.1,0,Friday,2,0,2
+2025-03-07,Night,Warangal,Visakhapatnam,98,Weekday,525.98,631,5,No Event,58746.1,0,Friday,3,0,2
+2025-03-07,Morning,Nizamabad,Kakinada,140,Weekday,597.23,717,0,No Event,100380.0,0,Friday,2,0,2
+2025-03-08,Evening,Visakhapatnam,Karimnagar,198,Weekend,603.1,724,15,Weekend,121849.2,0,Saturday,1,1,3
+2025-03-08,Evening,Visakhapatnam,Hyderabad,270,Weekend,604.32,725,10,Weekend,176175.0,1,Saturday,1,1,3
+2025-03-08,Evening,Nizamabad,Tenali,226,Weekend,449.04,539,10,Weekend,109632.6,0,Saturday,1,1,3
+2025-03-08,Morning,Guntur,Nalagonda,140,Weekend,692.13,831,15,Weekend,98889.0,0,Saturday,2,1,3
+2025-03-08,Morning,Nalagonda,Kurnool,132,Weekend,561.65,674,15,Weekend,75622.8,0,Saturday,2,1,3
+2025-03-08,Night,Rajahmundry,Vijayawada,119,Weekend,158.45,190,10,Weekend,20349.0,0,Saturday,3,1,3
+2025-03-09,Afternoon,Kadapa,Warangal,142,Weekend,493.86,593,10,Weekend,75785.40000000001,0,Sunday,0,1,3
+2025-03-10,Night,Tenali,Visakhapatnam,114,Weekday,393.96,473,0,No Event,53922.0,0,Monday,3,0,2
+2025-03-10,Morning,Nizamabad,Guntur,212,Weekday,441.78,530,0,No Event,112360.0,0,Monday,2,0,2
+2025-03-11,Morning,Rajahmundry,Hyderabad,134,Weekday,400.95,481,5,No Event,61231.299999999996,0,Tuesday,2,0,2
+2025-03-11,Night,Mahbubnagar,Kakinada,88,Weekday,548.14,658,2,No Event,56745.92,0,Tuesday,3,0,2
+2025-03-11,Evening,Rajahmundry,Nizamabad,228,Weekday,539.25,647,1,No Event,146040.84,0,Tuesday,1,0,2
+2025-03-11,Night,Nizamabad,Vijayawada,67,Weekday,418.49,502,1,No Event,33297.659999999996,0,Tuesday,3,0,2
+2025-03-12,Night,Kurnool,Mahbubnagar,150,Weekday,120.89,145,2,No Event,21315.0,0,Wednesday,3,0,2
+2025-03-12,Evening,Kurnool,Khammam,299,Weekday,396.97,476,2,No Event,139477.52,1,Wednesday,1,0,2
+2025-03-12,Afternoon,Rajahmundry,Kadapa,174,Weekday,541.2,649,3,No Event,109538.22,0,Wednesday,0,0,2
+2025-03-13,Afternoon,Kurnool,Mahbubnagar,157,Weekday,120.89,145,2,No Event,22309.7,0,Thursday,0,0,2
+2025-03-13,Evening,Nizamabad,Visakhapatnam,219,Weekday,742.62,891,2,No Event,191226.41999999998,0,Thursday,1,0,2
+2025-03-13,Evening,Tirupati,Nalagonda,214,Weekday,316.03,379,2,No Event,79483.88,0,Thursday,1,0,2
+2025-03-13,Evening,Kakinada,Tenali,260,Weekday,261.69,314,4,No Event,78374.4,1,Thursday,1,0,2
+2025-03-14,Morning,Rajahmundry,Karimnagar,243,Weekday,399.74,480,5,No Event,110808.0,0,Friday,2,0,2
+2025-03-14,Night,Kakinada,Secunderabad,150,Weekday,464.34,557,3,No Event,81043.5,0,Friday,3,0,2
+2025-03-15,Morning,Nizamabad,Rajahmundry,199,Weekend,539.25,647,10,Weekend,115877.7,0,Saturday,2,1,3
+2025-03-15,Night,Visakhapatnam,Tenali,109,Weekend,393.96,473,10,Weekend,46401.3,0,Saturday,3,1,3
+2025-03-15,Evening,Nizamabad,Warangal,223,Weekend,227.44,273,15,Weekend,51747.15,0,Saturday,1,1,3
+2025-03-15,Evening,Kadapa,Mahbubnagar,189,Weekend,321.38,386,10,Weekend,65658.6,0,Saturday,1,1,3
+2025-03-16,Afternoon,Kakinada,Rajahmundry,103,Weekend,60.27,72,10,Weekend,6674.400000000001,0,Sunday,0,1,3
+2025-03-17,Morning,Nizamabad,Warangal,249,Weekday,227.44,273,5,No Event,64578.149999999994,0,Monday,2,0,2
+2025-03-17,Afternoon,Nellore,Guntur,153,Weekday,245.33,294,0,No Event,44982.0,0,Monday,0,0,2
+2025-03-17,Afternoon,Kadapa,Kakinada,183,Weekday,583.93,701,5,No Event,121868.84999999999,0,Monday,0,0,2
+2025-03-18,Evening,Rajahmundry,Warangal,236,Weekday,323.09,388,3,No Event,88820.95999999999,0,Tuesday,1,0,2
+2025-03-18,Evening,Nizamabad,Nalagonda,265,Weekday,944.12,1133,0,No Event,300245.0,1,Tuesday,1,0,2
+2025-03-18,Afternoon,Rajahmundry,Vijayawada,102,Weekday,158.45,190,4,No Event,18604.8,0,Tuesday,0,0,2
+2025-03-19,Night,Kakinada,Warangal,99,Weekday,381.97,458,3,No Event,43981.74,0,Wednesday,3,0,2
+2025-03-19,Night,Karimnagar,Tenali,109,Weekday,351.2,421,5,No Event,43594.549999999996,0,Wednesday,3,0,2
+2025-03-19,Morning,Kurnool,Warangal,125,Weekday,355.52,427,0,No Event,53375.0,0,Wednesday,2,0,2
+2025-03-20,Afternoon,Visakhapatnam,Nellore,126,Weekday,641.27,770,3,No Event,94109.4,0,Thursday,0,0,2
+2025-03-20,Afternoon,Karimnagar,Kakinada,133,Weekday,458.76,551,2,No Event,71817.34,0,Thursday,0,0,2
+2025-03-20,Evening,Kadapa,Secunderabad,296,Weekday,420.36,504,3,No Event,144708.48,1,Thursday,1,0,2
+2025-03-20,Morning,Nalagonda,Rajahmundry,148,Weekday,884.3,1061,1,No Event,155457.72,0,Thursday,2,0,2
+2025-03-21,Evening,Kadapa,Nizamabad,191,Weekday,585.59,703,0,No Event,134273.0,0,Friday,1,0,2
+2025-03-21,Night,Kadapa,Visakhapatnam,63,Weekday,744.57,893,0,No Event,56259.0,0,Friday,3,0,2
+2025-03-21,Morning,Warangal,Nalagonda,121,Weekday,901.64,1082,5,No Event,124375.9,0,Friday,2,0,2
+2025-03-22,Evening,Warangal,Hyderabad,241,Weekend,149.36,179,10,Weekend,38825.1,0,Saturday,1,1,3
+2025-03-22,Afternoon,Kakinada,Hyderabad,195,Weekend,459.86,552,10,Weekend,96876.0,0,Saturday,0,1,3
+2025-03-22,Morning,Tenali,Kurnool,179,Weekend,329.18,395,10,Weekend,63634.5,0,Saturday,2,1,3
+2025-03-22,Afternoon,Secunderabad,Mahbubnagar,188,Weekend,108.57,130,15,Weekend,20774.0,0,Saturday,0,1,3
+2025-03-23,Evening,Kurnool,Vijayawada,276,Weekend,336.5,404,15,Weekend,94778.4,1,Sunday,1,1,3
+2025-03-23,Morning,Rajahmundry,Tenali,159,Weekend,190.49,229,10,Weekend,32769.9,0,Sunday,2,1,3
+2025-03-23,Morning,Kadapa,Nalagonda,192,Weekend,409.42,491,10,Weekend,84844.8,0,Sunday,2,1,3
+2025-03-23,Morning,Warangal,Nellore,163,Weekend,470.66,565,10,Weekend,82885.5,0,Sunday,2,1,3
+2025-03-23,Night,Khammam,Mahbubnagar,98,Weekend,283.12,340,10,Weekend,29988.0,0,Sunday,3,1,3
+2025-03-23,Afternoon,Nizamabad,Tenali,185,Weekend,449.04,539,10,Weekend,89743.5,0,Sunday,0,1,3
+2025-03-24,Morning,Kadapa,Nizamabad,160,Weekday,585.59,703,0,No Event,112480.0,0,Monday,2,0,2
+2025-03-24,Night,Visakhapatnam,Hyderabad,91,Weekday,604.32,725,4,No Event,63336.0,0,Monday,3,0,2
+2025-03-24,Morning,Rajahmundry,Secunderabad,250,Weekday,405.46,487,5,No Event,115662.5,0,Monday,2,0,2
+2025-03-24,Morning,Kurnool,Nalagonda,129,Weekday,561.65,674,4,No Event,83468.16,0,Monday,2,0,2
+2025-03-24,Evening,Nalagonda,Rajahmundry,261,Weekday,884.3,1061,1,No Event,274151.79,1,Monday,1,0,2
+2025-03-24,Morning,Karimnagar,Warangal,177,Weekday,79.27,95,3,No Event,16310.55,0,Monday,2,0,2
+2025-03-24,Evening,Kadapa,Rajahmundry,239,Weekday,541.2,649,5,No Event,147355.44999999998,0,Monday,1,0,2
+2025-03-25,Morning,Khammam,Kadapa,219,Weekday,412.49,495,1,No Event,107320.95,0,Tuesday,2,0,2
+2025-03-26,Night,Visakhapatnam,Khammam,94,Weekday,408.01,490,0,No Event,46060.0,0,Wednesday,3,0,2
+2025-03-26,Afternoon,Kadapa,Khammam,139,Weekday,412.49,495,1,No Event,68116.95,0,Wednesday,0,0,2
+2025-03-27,Evening,Nellore,Rajahmundry,305,Weekday,437.9,525,0,No Event,160125.0,1,Thursday,1,0,2
+2025-03-27,Morning,Nalagonda,Tirupati,188,Weekday,316.03,379,5,No Event,67689.4,0,Thursday,2,0,2
+2025-03-27,Morning,Warangal,Khammam,210,Weekday,118.24,142,0,No Event,29820.0,0,Thursday,2,0,2
+2025-03-27,Evening,Visakhapatnam,Kadapa,184,Weekday,744.57,893,3,No Event,159382.63999999998,0,Thursday,1,0,2
+2025-03-27,Afternoon,Hyderabad,Kurnool,168,Weekday,213.32,256,3,No Event,41717.76,0,Thursday,0,0,2
+2025-03-27,Morning,Visakhapatnam,Tirupati,223,Weekday,775.66,931,2,No Event,203460.74,0,Thursday,2,0,2
+2025-03-27,Afternoon,Karimnagar,Tenali,83,Weekday,351.2,421,5,No Event,33195.85,0,Thursday,0,0,2
+2025-03-28,Morning,Mahbubnagar,Nalagonda,120,Weekday,678.63,814,0,No Event,97680.0,0,Friday,2,0,2
+2025-03-28,Evening,Visakhapatnam,Khammam,316,Weekday,408.01,490,0,No Event,154840.0,1,Friday,1,0,2
+2025-03-28,Night,Kakinada,Nalagonda,102,Weekday,925.6,1111,0,No Event,113322.0,0,Friday,3,0,2
+2025-03-28,Afternoon,Visakhapatnam,Rajahmundry,110,Weekday,212.8,255,0,No Event,28050.0,0,Friday,0,0,2
+2025-03-28,Evening,Vijayawada,Tirupati,258,Weekday,414.77,498,4,No Event,123344.64,1,Friday,1,0,2
+2025-03-29,Morning,Kakinada,Khammam,202,Weekend,263.53,316,15,Weekend,54257.2,0,Saturday,2,1,3
+2025-03-29,Afternoon,Nizamabad,Karimnagar,170,Weekend,148.92,179,15,Weekend,25865.5,0,Saturday,0,1,3
+2025-03-29,Evening,Tenali,Kurnool,272,Weekend,329.18,395,10,Weekend,96696.0,1,Saturday,1,1,3
+2025-03-30,Evening,Tenali,Nalagonda,310,Weekend,699.42,839,10,Weekend,234081.0,1,Sunday,1,1,3
+2025-03-30,Night,Nizamabad,Guntur,81,Weekend,441.78,530,10,Weekend,38637.0,0,Sunday,3,1,3
+2025-03-30,Evening,Visakhapatnam,Nalagonda,258,Weekend,1087.66,1305,15,Weekend,286186.5,1,Sunday,1,1,3
+2025-03-31,Night,Kurnool,Vijayawada,105,Weekday,336.5,404,5,No Event,40299.0,0,Monday,3,0,2
+2025-04-01,Evening,Tirupati,Secunderabad,306,Weekday,559.94,672,2,Festival,201519.36,1,Tuesday,1,0,0
+2025-04-01,Morning,Kakinada,Rajahmundry,197,Weekday,60.27,72,1,Festival,14042.16,0,Tuesday,2,0,0
+2025-04-02,Evening,Nellore,Guntur,308,Weekday,245.33,294,0,No Event,90552.0,1,Wednesday,1,0,2
+2025-04-02,Night,Nellore,Khammam,121,Weekday,369.57,443,3,No Event,51994.909999999996,0,Wednesday,3,0,2
+2025-04-03,Evening,Guntur,Tirupati,290,Weekday,381.39,458,1,Holiday,131491.8,1,Thursday,1,0,1
+2025-04-03,Morning,Guntur,Rajahmundry,133,Weekday,195.41,234,1,Holiday,30810.78,0,Thursday,2,0,1
+2025-04-03,Night,Nalagonda,Kadapa,92,Weekday,409.42,491,3,Holiday,43816.84,0,Thursday,3,0,1
+2025-04-03,Night,Kakinada,Hyderabad,143,Weekday,459.86,552,1,Holiday,78146.64,0,Thursday,3,0,1
+2025-04-04,Morning,Visakhapatnam,Guntur,158,Weekday,398.78,479,4,No Event,72654.72,0,Friday,2,0,2
+2025-04-04,Morning,Khammam,Rajahmundry,196,Weekday,204.64,246,1,No Event,47733.84,0,Friday,2,0,2
+2025-04-04,Afternoon,Nellore,Nalagonda,164,Weekday,447.56,537,4,No Event,84545.28,0,Friday,0,0,2
+2025-04-04,Afternoon,Nellore,Rajahmundry,100,Weekday,437.9,525,0,No Event,52500.0,0,Friday,0,0,2
+2025-04-05,Night,Kakinada,Warangal,87,Weekend,381.97,458,15,Holiday,33869.1,0,Saturday,3,1,1
+2025-04-05,Night,Tirupati,Kakinada,121,Weekend,614.86,738,10,Holiday,80368.2,0,Saturday,3,1,1
+2025-04-05,Night,Rajahmundry,Warangal,63,Weekend,323.09,388,15,Holiday,20777.399999999998,0,Saturday,3,1,1
+2025-04-06,Evening,Kakinada,Kurnool,191,Weekend,551.11,661,15,Weekend,107313.34999999999,0,Sunday,1,1,3
+2025-04-06,Morning,Kakinada,Guntur,121,Weekend,254.32,305,10,Weekend,33214.5,0,Sunday,2,1,3
+2025-04-06,Morning,Secunderabad,Kakinada,140,Weekend,464.34,557,15,Weekend,66283.0,0,Sunday,2,1,3
+2025-04-07,Evening,Warangal,Hyderabad,238,Weekday,149.36,179,1,No Event,42175.98,0,Monday,1,0,2
+2025-04-07,Evening,Vijayawada,Tirupati,276,Weekday,414.77,498,4,No Event,131950.08,1,Monday,1,0,2
+2025-04-07,Evening,Warangal,Karimnagar,197,Weekday,79.27,95,2,No Event,18340.7,0,Monday,1,0,2
+2025-04-08,Morning,Vijayawada,Hyderabad,224,Weekday,276.02,331,1,No Event,73402.56,0,Tuesday,2,0,2
+2025-04-08,Afternoon,Khammam,Warangal,173,Weekday,118.24,142,4,No Event,23583.36,0,Tuesday,0,0,2
+2025-04-08,Night,Karimnagar,Guntur,80,Weekday,356.45,428,2,No Event,33555.2,0,Tuesday,3,0,2
+2025-04-08,Night,Guntur,Kadapa,83,Weekday,349.41,419,3,No Event,33733.69,0,Tuesday,3,0,2
+2025-04-09,Morning,Nellore,Tenali,199,Weekday,253.03,304,0,Festival,60496.0,0,Wednesday,2,0,0
+2025-04-09,Night,Kadapa,Rajahmundry,126,Weekday,541.2,649,5,Festival,77685.3,0,Wednesday,3,0,0
+2025-04-09,Afternoon,Kadapa,Nalagonda,129,Weekday,409.42,491,0,Festival,63339.0,0,Wednesday,0,0,0
+2025-04-09,Evening,Karimnagar,Khammam,297,Weekday,195.0,234,1,Festival,68803.02,1,Wednesday,1,0,0
+2025-04-09,Morning,Visakhapatnam,Tenali,202,Weekday,393.96,473,1,Festival,94590.54,0,Wednesday,2,0,0
+2025-04-10,Morning,Nalagonda,Rajahmundry,228,Weekday,884.3,1061,1,No Event,239488.91999999998,0,Thursday,2,0,2
+2025-04-10,Morning,Rajahmundry,Nellore,128,Weekday,437.9,525,1,No Event,66528.0,0,Thursday,2,0,2
+2025-04-10,Night,Nizamabad,Mahbubnagar,63,Weekday,273.79,329,0,No Event,20727.0,0,Thursday,3,0,2
+2025-04-10,Afternoon,Tirupati,Nellore,84,Weekday,136.37,164,5,No Event,13087.199999999999,0,Thursday,0,0,2
+2025-04-11,Morning,Nalagonda,Tirupati,169,Weekday,316.03,379,5,No Event,60848.45,0,Friday,2,0,2
+2025-04-11,Afternoon,Nellore,Tenali,130,Weekday,253.03,304,0,No Event,39520.0,0,Friday,0,0,2
+2025-04-11,Night,Guntur,Secunderabad,60,Weekday,276.86,332,0,No Event,19920.0,0,Friday,3,0,2
+2025-04-11,Evening,Guntur,Rajahmundry,194,Weekday,195.41,234,1,No Event,44942.04,0,Friday,1,0,2
+2025-04-12,Night,Nizamabad,Tirupati,113,Weekend,726.1,871,15,Weekend,83659.55,0,Saturday,3,1,3
+2025-04-12,Evening,Visakhapatnam,Karimnagar,245,Weekend,603.1,724,15,Weekend,150773.0,0,Saturday,1,1,3
+2025-04-12,Morning,Nizamabad,Secunderabad,230,Weekend,166.26,200,10,Weekend,41400.0,0,Saturday,2,1,3
+2025-04-12,Night,Rajahmundry,Karimnagar,76,Weekend,399.74,480,10,Weekend,32832.0,0,Saturday,3,1,3
+2025-04-12,Evening,Karimnagar,Visakhapatnam,296,Weekend,603.1,724,15,Weekend,182158.4,1,Saturday,1,1,3
+2025-04-12,Afternoon,Nalagonda,Tirupati,88,Weekend,316.03,379,15,Weekend,28349.2,0,Saturday,0,1,3
+2025-04-13,Morning,Hyderabad,Kadapa,152,Weekend,411.52,494,15,Weekend,63824.799999999996,0,Sunday,2,1,3
+2025-04-13,Night,Karimnagar,Nalagonda,74,Weekend,990.59,1189,15,Weekend,74788.09999999999,0,Sunday,3,1,3
+2025-04-13,Morning,Kakinada,Karimnagar,220,Weekend,458.76,551,10,Weekend,109098.0,0,Sunday,2,1,3
+2025-04-13,Evening,Tenali,Nellore,318,Weekend,253.03,304,15,Weekend,82171.2,1,Sunday,1,1,3
+2025-04-14,Night,Warangal,Kakinada,84,Weekday,381.97,458,5,Festival,36548.4,0,Monday,3,0,0
+2025-04-14,Morning,Khammam,Secunderabad,184,Weekday,199.31,239,2,Festival,43096.479999999996,0,Monday,2,0,0
+2025-04-14,Morning,Visakhapatnam,Secunderabad,231,Weekday,610.32,732,5,Festival,160637.4,0,Monday,2,0,0
+2025-04-14,Afternoon,Secunderabad,Nellore,126,Weekday,462.5,555,3,Festival,67832.09999999999,0,Monday,0,0,0
+2025-04-15,Morning,Visakhapatnam,Vijayawada,223,Weekday,361.84,434,2,No Event,94846.36,0,Tuesday,2,0,2
+2025-04-15,Evening,Karimnagar,Vijayawada,204,Weekday,320.65,385,4,No Event,75398.4,0,Tuesday,1,0,2
+2025-04-15,Morning,Khammam,Nizamabad,232,Weekday,332.21,399,3,No Event,89790.95999999999,0,Tuesday,2,0,2
+2025-04-17,Morning,Kurnool,Nalagonda,169,Weekday,561.65,674,4,No Event,109349.76,0,Thursday,2,0,2
+2025-04-17,Morning,Kakinada,Nalagonda,158,Weekday,925.6,1111,0,No Event,175538.0,0,Thursday,2,0,2
+2025-04-17,Afternoon,Kakinada,Nizamabad,154,Weekday,597.23,717,3,No Event,107105.45999999999,0,Thursday,0,0,2
+2025-04-18,Afternoon,Nizamabad,Karimnagar,177,Weekday,148.92,179,4,Festival,30415.68,0,Friday,0,0,0
+2025-04-18,Morning,Guntur,Nalagonda,217,Weekday,692.13,831,4,Festival,173113.91999999998,0,Friday,2,0,0
+2025-04-18,Afternoon,Nalagonda,Rajahmundry,100,Weekday,884.3,1061,1,Festival,105039.0,0,Friday,0,0,0
+2025-04-19,Night,Nizamabad,Kurnool,150,Weekend,385.09,462,15,Weekend,58905.0,0,Saturday,3,1,3
+2025-04-19,Afternoon,Rajahmundry,Karimnagar,86,Weekend,399.74,480,10,Weekend,37152.0,0,Saturday,0,1,3
+2025-04-19,Morning,Warangal,Kadapa,156,Weekend,493.86,593,15,Weekend,78631.8,0,Saturday,2,1,3
+2025-04-19,Night,Khammam,Kakinada,131,Weekend,263.53,316,10,Weekend,37256.4,0,Saturday,3,1,3
+2025-04-20,Evening,Nellore,Tirupati,198,Weekend,136.37,164,10,Weekend,29224.8,0,Sunday,1,1,3
+2025-04-20,Morning,Tirupati,Nalagonda,229,Weekend,316.03,379,15,Weekend,73772.34999999999,0,Sunday,2,1,3
+2025-04-21,Morning,Warangal,Kadapa,231,Weekday,493.86,593,3,Holiday,132873.51,0,Monday,2,0,1
+2025-04-22,Morning,Nalagonda,Warangal,151,Weekday,901.64,1082,0,No Event,163382.0,0,Tuesday,2,0,2
+2025-04-22,Evening,Nalagonda,Tirupati,293,Weekday,316.03,379,5,No Event,105494.65,1,Tuesday,1,0,2
+2025-04-22,Evening,Kadapa,Tirupati,239,Weekday,140.34,168,2,No Event,39348.96,0,Tuesday,1,0,2
+2025-04-22,Morning,Karimnagar,Nellore,217,Weekday,543.78,653,3,No Event,137449.97,0,Tuesday,2,0,2
+2025-04-22,Afternoon,Visakhapatnam,Warangal,157,Weekday,525.98,631,2,No Event,97085.66,0,Tuesday,0,0,2
+2025-04-23,Night,Kurnool,Guntur,102,Weekday,297.53,357,2,No Event,35685.72,0,Wednesday,3,0,2
+2025-04-23,Evening,Kurnool,Kadapa,213,Weekday,200.49,241,0,No Event,51333.0,0,Wednesday,1,0,2
+2025-04-23,Afternoon,Nalagonda,Kurnool,135,Weekday,561.65,674,5,No Event,86440.5,0,Wednesday,0,0,2
+2025-04-23,Morning,Kadapa,Rajahmundry,237,Weekday,541.2,649,5,No Event,146122.35,0,Wednesday,2,0,2
+2025-04-24,Evening,Kadapa,Hyderabad,293,Weekday,411.52,494,3,No Event,140399.74,1,Thursday,1,0,2
+2025-04-25,Evening,Mahbubnagar,Nellore,207,Weekday,439.84,528,2,No Event,107110.08,0,Friday,1,0,2
+2025-04-25,Evening,Vijayawada,Guntur,188,Weekday,37.88,45,4,No Event,8121.599999999999,0,Friday,1,0,2
+2025-04-25,Evening,Kurnool,Tenali,198,Weekday,329.18,395,4,No Event,75081.59999999999,0,Friday,1,0,2
+2025-04-26,Morning,Guntur,Nellore,212,Weekend,245.33,294,15,Weekend,52978.799999999996,0,Saturday,2,1,3
+2025-04-26,Evening,Warangal,Kakinada,314,Weekend,381.97,458,10,Weekend,129430.8,1,Saturday,1,1,3
+2025-04-26,Evening,Guntur,Tenali,261,Weekend,30.72,37,15,Weekend,8208.449999999999,1,Saturday,1,1,3
+2025-04-26,Afternoon,Nalagonda,Kurnool,102,Weekend,561.65,674,15,Weekend,58435.799999999996,0,Saturday,0,1,3
+2025-04-26,Morning,Vijayawada,Nalagonda,246,Weekend,726.77,872,10,Weekend,193060.80000000002,0,Saturday,2,1,3
+2025-04-26,Night,Warangal,Kurnool,109,Weekend,355.52,427,10,Weekend,41888.700000000004,0,Saturday,3,1,3
+2025-04-26,Night,Nellore,Rajahmundry,96,Weekend,437.9,525,10,Weekend,45360.0,0,Saturday,3,1,3
+2025-04-26,Night,Kakinada,Vijayawada,128,Weekend,217.33,261,10,Weekend,30067.2,0,Saturday,3,1,3
+2025-04-26,Morning,Secunderabad,Guntur,242,Weekend,276.86,332,15,Weekend,68292.4,0,Saturday,2,1,3
+2025-04-27,Evening,Karimnagar,Nalagonda,306,Weekend,990.59,1189,15,Weekend,309258.89999999997,1,Sunday,1,1,3
+2025-04-28,Morning,Kurnool,Nizamabad,146,Weekday,385.09,462,2,No Event,66102.95999999999,0,Monday,2,0,2
+2025-04-28,Evening,Secunderabad,Tirupati,289,Weekday,559.94,672,3,No Event,188381.76,1,Monday,1,0,2
+2025-04-28,Night,Khammam,Warangal,94,Weekday,118.24,142,4,No Event,12814.08,0,Monday,3,0,2
+2025-04-28,Afternoon,Kadapa,Vijayawada,174,Weekday,383.68,460,3,No Event,77638.8,0,Monday,0,0,2
+2025-04-28,Evening,Kakinada,Kurnool,182,Weekday,551.11,661,4,No Event,115489.92,0,Monday,1,0,2
+2025-04-29,Night,Tirupati,Rajahmundry,150,Weekday,573.02,688,3,No Event,100104.0,0,Tuesday,3,0,2
+2025-04-29,Evening,Karimnagar,Vijayawada,256,Weekday,320.65,385,4,No Event,94617.59999999999,1,Tuesday,1,0,2
+2025-04-30,Evening,Warangal,Nizamabad,215,Weekday,227.44,273,2,No Event,57521.1,0,Wednesday,1,0,2
+2025-04-30,Morning,Hyderabad,Karimnagar,130,Weekday,213.92,257,4,No Event,32073.6,0,Wednesday,2,0,2
+2025-04-30,Night,Mahbubnagar,Khammam,70,Weekday,283.12,340,5,No Event,22610.0,0,Wednesday,3,0,2
+2025-04-30,Night,Kurnool,Secunderabad,125,Weekday,219.87,264,2,No Event,32340.0,0,Wednesday,3,0,2
+2025-05-01,Morning,Khammam,Secunderabad,161,Weekday,199.31,239,2,No Event,37709.42,0,Thursday,2,0,2
+2025-05-01,Evening,Karimnagar,Secunderabad,193,Weekday,173.04,208,2,No Event,39341.12,0,Thursday,1,0,2
+2025-05-01,Evening,Hyderabad,Secunderabad,213,Weekday,9.46,11,5,No Event,2225.85,0,Thursday,1,0,2
+2025-05-01,Night,Karimnagar,Nalagonda,144,Weekday,990.59,1189,4,No Event,164367.36,0,Thursday,3,0,2
+2025-05-01,Morning,Karimnagar,Vijayawada,129,Weekday,320.65,385,4,No Event,47678.4,0,Thursday,2,0,2
+2025-05-02,Evening,Rajahmundry,Secunderabad,268,Weekday,405.46,487,5,No Event,123990.2,1,Friday,1,0,2
+2025-05-02,Morning,Hyderabad,Visakhapatnam,235,Weekday,604.32,725,0,No Event,170375.0,0,Friday,2,0,2
+2025-05-02,Afternoon,Nalagonda,Visakhapatnam,120,Weekday,1087.66,1305,1,No Event,155034.0,0,Friday,0,0,2
+2025-05-02,Afternoon,Warangal,Kurnool,196,Weekday,355.52,427,0,No Event,83692.0,0,Friday,0,0,2
+2025-05-02,Afternoon,Hyderabad,Vijayawada,165,Weekday,276.02,331,3,No Event,52976.549999999996,0,Friday,0,0,2
+2025-05-02,Morning,Tirupati,Hyderabad,131,Weekday,551.16,661,2,No Event,84859.18,0,Friday,2,0,2
+2025-05-02,Morning,Mahbubnagar,Guntur,228,Weekday,310.15,372,2,No Event,83119.68,0,Friday,2,0,2
+2025-05-03,Morning,Tirupati,Hyderabad,229,Weekend,551.16,661,15,Weekend,128663.65,0,Saturday,2,1,3
+2025-05-03,Morning,Nellore,Nizamabad,180,Weekend,627.42,753,15,Weekend,115209.0,0,Saturday,2,1,3
+2025-05-03,Afternoon,Mahbubnagar,Hyderabad,200,Weekend,99.48,119,15,Weekend,20230.0,0,Saturday,0,1,3
+2025-05-04,Night,Tirupati,Secunderabad,72,Weekend,559.94,672,15,Weekend,41126.4,0,Sunday,3,1,3
+2025-05-04,Morning,Warangal,Nalagonda,168,Weekend,901.64,1082,15,Weekend,154509.6,0,Sunday,2,1,3
+2025-05-04,Afternoon,Kakinada,Nalagonda,182,Weekend,925.6,1111,10,Weekend,181981.80000000002,0,Sunday,0,1,3
+2025-05-04,Afternoon,Secunderabad,Warangal,84,Weekend,147.79,177,15,Weekend,12637.8,0,Sunday,0,1,3
+2025-05-05,Evening,Nalagonda,Kakinada,313,Weekday,925.6,1111,3,No Event,337310.70999999996,1,Monday,1,0,2
+2025-05-05,Afternoon,Kakinada,Tirupati,89,Weekday,614.86,738,0,No Event,65682.0,0,Monday,0,0,2
+2025-05-05,Morning,Kurnool,Warangal,192,Weekday,355.52,427,0,No Event,81984.0,0,Monday,2,0,2
+2025-05-05,Afternoon,Kakinada,Warangal,169,Weekday,381.97,458,3,No Event,75079.94,0,Monday,0,0,2
+2025-05-05,Evening,Khammam,Karimnagar,218,Weekday,195.0,234,3,No Event,49481.64,0,Monday,1,0,2
+2025-05-05,Morning,Vijayawada,Tirupati,120,Weekday,414.77,498,4,No Event,57369.6,0,Monday,2,0,2
+2025-05-06,Evening,Secunderabad,Mahbubnagar,188,Weekday,108.57,130,2,No Event,23951.2,0,Tuesday,1,0,2
+2025-05-06,Evening,Kurnool,Karimnagar,266,Weekday,422.95,508,4,No Event,129722.87999999999,1,Tuesday,1,0,2
+2025-05-06,Evening,Tenali,Khammam,294,Weekday,160.85,193,1,No Event,56174.58,1,Tuesday,1,0,2
+2025-05-06,Night,Rajahmundry,Visakhapatnam,114,Weekday,212.8,255,4,No Event,27907.2,0,Tuesday,3,0,2
+2025-05-07,Morning,Vijayawada,Karimnagar,177,Weekday,320.65,385,0,No Event,68145.0,0,Wednesday,2,0,2
+2025-05-07,Afternoon,Mahbubnagar,Hyderabad,109,Weekday,99.48,119,2,No Event,12711.58,0,Wednesday,0,0,2
+2025-05-07,Evening,Kadapa,Nizamabad,218,Weekday,585.59,703,0,No Event,153254.0,0,Wednesday,1,0,2
+2025-05-07,Morning,Tirupati,Hyderabad,121,Weekday,551.16,661,2,No Event,78381.38,0,Wednesday,2,0,2
+2025-05-08,Night,Kakinada,Vijayawada,133,Weekday,217.33,261,1,No Event,34365.87,0,Thursday,3,0,2
+2025-05-08,Morning,Nizamabad,Guntur,140,Weekday,441.78,530,0,No Event,74200.0,0,Thursday,2,0,2
+2025-05-09,Evening,Guntur,Tirupati,238,Weekday,381.39,458,1,No Event,107913.95999999999,0,Friday,1,0,2
+2025-05-09,Afternoon,Rajahmundry,Visakhapatnam,174,Weekday,212.8,255,4,No Event,42595.2,0,Friday,0,0,2
+2025-05-09,Evening,Kadapa,Kakinada,252,Weekday,583.93,701,5,No Event,167819.4,1,Friday,1,0,2
+2025-05-09,Afternoon,Tirupati,Kadapa,109,Weekday,140.34,168,5,No Event,17396.399999999998,0,Friday,0,0,2
+2025-05-09,Night,Kurnool,Secunderabad,87,Weekday,219.87,264,2,No Event,22508.64,0,Friday,3,0,2
+2025-05-09,Night,Kurnool,Kadapa,146,Weekday,200.49,241,0,No Event,35186.0,0,Friday,3,0,2
+2025-05-09,Afternoon,Guntur,Tenali,173,Weekday,30.72,37,5,No Event,6080.95,0,Friday,0,0,2
+2025-05-10,Night,Hyderabad,Rajahmundry,132,Weekend,400.95,481,10,Weekend,57142.8,0,Saturday,3,1,3
+2025-05-10,Evening,Karimnagar,Kurnool,195,Weekend,422.95,508,15,Weekend,84201.0,0,Saturday,1,1,3
+2025-05-10,Morning,Kakinada,Kadapa,204,Weekend,583.93,701,15,Weekend,121553.4,0,Saturday,2,1,3
+2025-05-10,Morning,Nellore,Rajahmundry,157,Weekend,437.9,525,10,Weekend,74182.5,0,Saturday,2,1,3
+2025-05-10,Afternoon,Visakhapatnam,Rajahmundry,198,Weekend,212.8,255,10,Weekend,45441.0,0,Saturday,0,1,3
+2025-05-11,Afternoon,Kurnool,Karimnagar,87,Weekend,422.95,508,10,Weekend,39776.4,0,Sunday,0,1,3
+2025-05-11,Night,Kurnool,Warangal,103,Weekend,355.52,427,10,Weekend,39582.9,0,Sunday,3,1,3
+2025-05-11,Night,Warangal,Hyderabad,72,Weekend,149.36,179,10,Weekend,11599.2,0,Sunday,3,1,3
+2025-05-11,Afternoon,Khammam,Guntur,108,Weekend,166.01,199,10,Weekend,19342.8,0,Sunday,0,1,3
+2025-05-11,Afternoon,Tenali,Kadapa,108,Weekend,356.33,428,15,Weekend,39290.4,0,Sunday,0,1,3
+2025-05-11,Afternoon,Warangal,Vijayawada,192,Weekend,244.67,294,10,Weekend,50803.200000000004,0,Sunday,0,1,3
+2025-05-12,Night,Vijayawada,Rajahmundry,127,Weekday,158.45,190,2,No Event,23647.399999999998,0,Monday,3,0,2
+2025-05-12,Evening,Warangal,Khammam,186,Weekday,118.24,142,0,No Event,26412.0,0,Monday,1,0,2
+2025-05-12,Afternoon,Rajahmundry,Hyderabad,171,Weekday,400.95,481,5,No Event,78138.45,0,Monday,0,0,2
+2025-05-12,Morning,Tirupati,Secunderabad,143,Weekday,559.94,672,2,No Event,94174.08,0,Monday,2,0,2
+2025-05-12,Evening,Nizamabad,Nellore,302,Weekday,627.42,753,4,No Event,218309.75999999998,1,Monday,1,0,2
+2025-05-12,Morning,Rajahmundry,Karimnagar,138,Weekday,399.74,480,5,No Event,62928.0,0,Monday,2,0,2
+2025-05-13,Afternoon,Rajahmundry,Hyderabad,165,Weekday,400.95,481,5,No Event,75396.75,0,Tuesday,0,0,2
+2025-05-13,Night,Rajahmundry,Tirupati,87,Weekday,573.02,688,2,No Event,58658.88,0,Tuesday,3,0,2
+2025-05-13,Afternoon,Vijayawada,Nizamabad,190,Weekday,418.49,502,4,No Event,91564.8,0,Tuesday,0,0,2
+2025-05-14,Night,Guntur,Tenali,85,Weekday,30.72,37,5,No Event,2987.75,0,Wednesday,3,0,2
+2025-05-14,Evening,Warangal,Kurnool,231,Weekday,355.52,427,0,No Event,98637.0,0,Wednesday,1,0,2
+2025-05-14,Evening,Warangal,Visakhapatnam,196,Weekday,525.98,631,5,No Event,117492.2,0,Wednesday,1,0,2
+2025-05-14,Morning,Kurnool,Rajahmundry,205,Weekday,494.02,593,3,No Event,117918.05,0,Wednesday,2,0,2
+2025-05-15,Evening,Rajahmundry,Tirupati,289,Weekday,573.02,688,2,No Event,194855.36,1,Thursday,1,0,2
+2025-05-15,Night,Mahbubnagar,Karimnagar,84,Weekday,309.11,371,4,No Event,29917.44,0,Thursday,3,0,2
+2025-05-15,Evening,Guntur,Tirupati,208,Weekday,381.39,458,1,No Event,94311.36,0,Thursday,1,0,2
+2025-05-15,Evening,Karimnagar,Vijayawada,261,Weekday,320.65,385,4,No Event,96465.59999999999,1,Thursday,1,0,2
+2025-05-15,Night,Hyderabad,Guntur,133,Weekday,270.74,325,1,No Event,42792.75,0,Thursday,3,0,2
+2025-05-15,Evening,Kakinada,Mahbubnagar,300,Weekday,548.14,658,3,No Event,191478.0,1,Thursday,1,0,2
+2025-05-15,Night,Warangal,Rajahmundry,128,Weekday,323.09,388,3,No Event,48174.08,0,Thursday,3,0,2
+2025-05-15,Evening,Khammam,Nalagonda,194,Weekday,816.37,980,4,No Event,182515.19999999998,0,Thursday,1,0,2
+2025-05-16,Night,Hyderabad,Khammam,124,Weekday,194.9,234,5,No Event,27565.199999999997,0,Friday,3,0,2
+2025-05-16,Night,Tirupati,Nellore,147,Weekday,136.37,164,5,No Event,22902.6,0,Friday,3,0,2
+2025-05-17,Morning,Khammam,Hyderabad,120,Weekend,194.9,234,10,Weekend,25272.0,0,Saturday,2,1,3
+2025-05-17,Afternoon,Nizamabad,Tirupati,189,Weekend,726.1,871,15,Weekend,139926.15,0,Saturday,0,1,3
+2025-05-17,Afternoon,Nizamabad,Kadapa,98,Weekend,585.59,703,10,Weekend,62004.6,0,Saturday,0,1,3
+2025-05-18,Evening,Kurnool,Nellore,245,Weekend,322.85,387,15,Weekend,80592.75,0,Sunday,1,1,3
+2025-05-18,Evening,Mahbubnagar,Guntur,182,Weekend,310.15,372,15,Weekend,57548.4,0,Sunday,1,1,3
+2025-05-18,Morning,Secunderabad,Tirupati,125,Weekend,559.94,672,15,Weekend,71400.0,0,Sunday,2,1,3
+2025-05-18,Evening,Nellore,Nalagonda,258,Weekend,447.56,537,10,Weekend,124691.40000000001,1,Sunday,1,1,3
+2025-05-19,Evening,Hyderabad,Karimnagar,318,Weekday,213.92,257,4,No Event,78456.95999999999,1,Monday,1,0,2
+2025-05-19,Morning,Guntur,Rajahmundry,235,Weekday,195.41,234,1,No Event,54440.1,0,Monday,2,0,2
+2025-05-19,Morning,Secunderabad,Tenali,130,Weekday,304.51,365,3,No Event,46026.5,0,Monday,2,0,2
+2025-05-19,Evening,Nellore,Rajahmundry,306,Weekday,437.9,525,0,No Event,160650.0,1,Monday,1,0,2
+2025-05-19,Evening,Kadapa,Guntur,235,Weekday,349.41,419,4,No Event,94526.4,0,Monday,1,0,2
+2025-05-20,Evening,Karimnagar,Visakhapatnam,270,Weekday,603.1,724,2,No Event,191570.4,1,Tuesday,1,0,2
+2025-05-20,Afternoon,Guntur,Kakinada,162,Weekday,254.32,305,4,No Event,47433.6,0,Tuesday,0,0,2
+2025-05-20,Morning,Hyderabad,Warangal,247,Weekday,149.36,179,2,No Event,43328.74,0,Tuesday,2,0,2
+2025-05-20,Evening,Kakinada,Kadapa,183,Weekday,583.93,701,2,No Event,125717.34,0,Tuesday,1,0,2
+2025-05-21,Night,Mahbubnagar,Nellore,88,Weekday,439.84,528,2,No Event,45534.72,0,Wednesday,3,0,2
+2025-05-21,Morning,Secunderabad,Tirupati,189,Weekday,559.94,672,3,No Event,123197.76,0,Wednesday,2,0,2
+2025-05-21,Evening,Kurnool,Warangal,207,Weekday,355.52,427,0,No Event,88389.0,0,Wednesday,1,0,2
+2025-05-22,Night,Tirupati,Kurnool,99,Weekday,343.02,412,5,No Event,38748.6,0,Thursday,3,0,2
+2025-05-22,Night,Mahbubnagar,Kurnool,96,Weekday,120.89,145,3,No Event,13502.4,0,Thursday,3,0,2
+2025-05-22,Evening,Hyderabad,Warangal,195,Weekday,149.36,179,2,No Event,34206.9,0,Thursday,1,0,2
+2025-05-22,Evening,Guntur,Nizamabad,265,Weekday,441.78,530,1,No Event,139045.5,1,Thursday,1,0,2
+2025-05-23,Evening,Nalagonda,Kadapa,195,Weekday,409.42,491,3,No Event,92872.65,0,Friday,1,0,2
+2025-05-23,Afternoon,Nizamabad,Tirupati,119,Weekday,726.1,871,3,No Event,100539.53,0,Friday,0,0,2
+2025-05-23,Morning,Karimnagar,Secunderabad,180,Weekday,173.04,208,2,No Event,36691.2,0,Friday,2,0,2
+2025-05-23,Afternoon,Mahbubnagar,Kakinada,116,Weekday,548.14,658,2,No Event,74801.44,0,Friday,0,0,2
+2025-05-24,Evening,Guntur,Khammam,227,Weekend,166.01,199,10,Weekend,40655.700000000004,0,Saturday,1,1,3
+2025-05-24,Night,Kurnool,Nellore,65,Weekend,322.85,387,15,Weekend,21381.75,0,Saturday,3,1,3
+2025-05-25,Afternoon,Guntur,Warangal,146,Weekend,279.65,336,15,Weekend,41697.6,0,Sunday,0,1,3
+2025-05-25,Night,Kurnool,Nizamabad,121,Weekend,385.09,462,15,Weekend,47516.7,0,Sunday,3,1,3
+2025-05-25,Afternoon,Kadapa,Visakhapatnam,121,Weekend,744.57,893,10,Weekend,97247.7,0,Sunday,0,1,3
+2025-05-25,Evening,Guntur,Karimnagar,275,Weekend,356.45,428,15,Weekend,100045.0,1,Sunday,1,1,3
+2025-05-26,Evening,Guntur,Tirupati,293,Weekday,381.39,458,1,No Event,132852.06,1,Monday,1,0,2
+2025-05-26,Night,Kadapa,Nizamabad,118,Weekday,585.59,703,0,No Event,82954.0,0,Monday,3,0,2
+2025-05-26,Evening,Khammam,Kakinada,270,Weekday,263.53,316,1,No Event,84466.8,1,Monday,1,0,2
+2025-05-26,Evening,Rajahmundry,Nellore,214,Weekday,437.9,525,1,No Event,111226.5,0,Monday,1,0,2
+2025-05-26,Morning,Secunderabad,Kakinada,218,Weekday,464.34,557,4,No Event,116568.95999999999,0,Monday,2,0,2
+2025-05-27,Evening,Tirupati,Karimnagar,193,Weekday,679.85,816,4,No Event,151188.47999999998,0,Tuesday,1,0,2
+2025-05-27,Morning,Khammam,Nalagonda,125,Weekday,816.37,980,4,No Event,117600.0,0,Tuesday,2,0,2
+2025-05-27,Afternoon,Warangal,Nizamabad,183,Weekday,227.44,273,2,No Event,48959.82,0,Tuesday,0,0,2
+2025-05-28,Evening,Rajahmundry,Secunderabad,192,Weekday,405.46,487,5,No Event,88828.8,0,Wednesday,1,0,2
+2025-05-28,Morning,Rajahmundry,Nellore,206,Weekday,437.9,525,1,No Event,107068.5,0,Wednesday,2,0,2
+2025-05-28,Night,Visakhapatnam,Kadapa,61,Weekday,744.57,893,3,No Event,52838.81,0,Wednesday,3,0,2
+2025-05-28,Morning,Mahbubnagar,Kakinada,208,Weekday,548.14,658,2,No Event,134126.72,0,Wednesday,2,0,2
+2025-05-28,Evening,Khammam,Mahbubnagar,216,Weekday,283.12,340,1,No Event,72705.6,0,Wednesday,1,0,2
+2025-05-28,Afternoon,Nizamabad,Hyderabad,166,Weekday,174.68,210,0,No Event,34860.0,0,Wednesday,0,0,2
+2025-05-29,Evening,Kadapa,Khammam,199,Weekday,412.49,495,1,No Event,97519.95,0,Thursday,1,0,2
+2025-05-29,Morning,Mahbubnagar,Karimnagar,181,Weekday,309.11,371,4,No Event,64464.96,0,Thursday,2,0,2
+2025-05-29,Night,Tenali,Karimnagar,95,Weekday,351.2,421,0,No Event,39995.0,0,Thursday,3,0,2
+2025-05-29,Afternoon,Karimnagar,Mahbubnagar,122,Weekday,309.11,371,5,No Event,42998.9,0,Thursday,0,0,2
+2025-05-29,Night,Mahbubnagar,Kakinada,93,Weekday,548.14,658,2,No Event,59970.119999999995,0,Thursday,3,0,2
+2025-05-29,Evening,Kurnool,Nizamabad,263,Weekday,385.09,462,2,No Event,119075.88,1,Thursday,1,0,2
+2025-05-29,Evening,Visakhapatnam,Guntur,251,Weekday,398.78,479,4,No Event,115419.84,1,Thursday,1,0,2
+2025-05-30,Evening,Vijayawada,Mahbubnagar,183,Weekday,344.37,413,1,No Event,74823.21,0,Friday,1,0,2
+2025-05-30,Morning,Tenali,Vijayawada,240,Weekday,33.07,40,0,No Event,9600.0,0,Friday,2,0,2
+2025-05-30,Evening,Nizamabad,Kurnool,270,Weekday,385.09,462,2,No Event,122245.2,1,Friday,1,0,2
+2025-05-31,Evening,Mahbubnagar,Rajahmundry,215,Weekend,495.83,595,10,Weekend,115132.5,0,Saturday,1,1,3
+2025-05-31,Morning,Rajahmundry,Vijayawada,234,Weekend,158.45,190,10,Weekend,40014.0,0,Saturday,2,1,3
+2025-05-31,Evening,Kurnool,Secunderabad,205,Weekend,219.87,264,15,Weekend,46002.0,0,Saturday,1,1,3
