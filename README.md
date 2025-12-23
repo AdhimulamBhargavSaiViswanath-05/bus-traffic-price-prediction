@@ -473,7 +473,7 @@ Feel free to use the code for learning and research.
 
 - 🐱 GitHub: [@AdhimulamBhargavSaiViswanath-05](https://github.com/AdhimulamBhargavSaiViswanath-05)
 - 💼 LinkedIn: [adhimulambhargavsaiviswanath](https://www.linkedin.com/in/adhimulambhargavsaiviswanath/)
-- 📧 Email: [Your Email]
+- 📧 Email: bhargavsaiadhimulam12@gmail.com
 
 **Project Link:** [https://github.com/AdhimulamBhargavSaiViswanath-05/bus-traffic-price-prediction](https://github.com/AdhimulamBhargavSaiViswanath-05/bus-traffic-price-prediction)
 
