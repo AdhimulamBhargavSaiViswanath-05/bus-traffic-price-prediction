@@ -63,7 +63,7 @@ bus-traffic-price-prediction/
 │
 ├── README.md                         # Project documentation
 ├── requirements.txt                  # Python dependencies
-├── .gitignore                        # Git ignore file
+├── . gitignore                        # Git ignore file
 └── LICENSE                           # License information
 ```
 
@@ -97,14 +97,19 @@ bus-traffic-price-prediction/
 | **Seaborn** | Statistical data visualization |
 | **Scikit-learn** | Machine learning algorithms and tools |
 
-### ML Techniques Applied
-- Linear Regression
-- Decision Tree Regression
-- Random Forest Regression
+### ML Algorithms Implemented
+- **Linear Regression** - Baseline model
+- **Ridge Regression** - Regularized linear model
+- **Decision Tree Regressor** - Non-linear tree-based model
+- **Random Forest Regressor** - Ensemble learning method
+- **Support Vector Regressor (SVR)** - Kernel-based regression
+
+### Techniques Applied
 - Data preprocessing & normalization
 - Feature engineering & selection
-- Cross-validation
-- Model evaluation (RMSE, MAE, R²)
+- Hyperparameter tuning (GridSearchCV)
+- Cross-validation (5-fold CV)
+- Model evaluation (MAE, MSE, RMSE, R²)
 
 ---
 
@@ -151,7 +156,7 @@ bus-traffic-price-prediction/
 ┌─────────────────────────────────────────────────────────┐
 │          6. PREDICTION & EVALUATION                     │
 │   • Make predictions on test data                       │
-│   • Evaluate using RMSE, MAE, R²                        │
+│   • Evaluate using MAE, MSE, RMSE, R²                   │
 │   • Error analysis                                      │
 │   • Model optimization                                  │
 └──────────────────────┬──────────────────────────────────┘
@@ -244,47 +249,140 @@ bus-traffic-price-prediction/
 
 ---
 
-## 📉 Model Performance
+## 📉 Model Evaluation Summary
 
-| Model | Traffic Prediction | Price Prediction |
-|-------|-------------------|------------------|
-| **Linear Regression** | R² = 0.XX | R² = 0.XX |
-| **Decision Tree** | R² = 0.XX | R² = 0.XX |
-| **Random Forest** | R² = 0.XX | R² = 0.XX |
+### 🏆 Best Performing Models
 
-*Note: Replace XX with actual scores from your models*
+The **Random Forest Regressor** emerged as the best model with exceptional performance:
+- **R² Score:  0.9685** (Before Tuning) / **0.9521** (After Tuning)
+- **RMSE: 11.77** (Before Tuning) / **14.52** (After Tuning)
+- Explains **96.85%** of the variance in the data
 
-### Evaluation Metrics Used: 
-- **R² Score** - Coefficient of determination
-- **RMSE** - Root Mean Squared Error
-- **MAE** - Mean Absolute Error
-- **Cross-Validation Score** - 5-fold CV
+### 📊 Complete Model Comparison
+
+#### Before Tuning (Initial Training)
+
+| Model | MAE | MSE | RMSE | R² Score | Performance |
+|-------|-----|-----|------|----------|-------------|
+| **Random Forest Regressor** 🥇 | **8.76** | **138.66** | **11.78** | **0.9685** | ⭐⭐⭐⭐⭐ Excellent |
+| **Decision Tree Regressor** 🥈 | 12.62 | 318.80 | 17.86 | 0.9275 | ⭐⭐⭐⭐ Very Good |
+| **Linear Regression** 🥉 | 22.17 | 946.41 | 30.76 | 0.7849 | ⭐⭐⭐ Good |
+| **Support Vector Regressor** | 45.60 | 3162.49 | 56.24 | 0.2812 | ⭐ Poor |
+
+#### After Hyperparameter Tuning
+
+| Model | MAE | MSE | RMSE | R² Score | Performance |
+|-------|-----|-----|------|----------|-------------|
+| **Random Forest** 🥇 | **10.92** | **210.80** | **14.52** | **0.9521** | ⭐⭐⭐⭐⭐ Excellent |
+| **Decision Tree** 🥈 | 14.79 | 435.92 | 20.88 | 0.9009 | ⭐⭐⭐⭐ Very Good |
+| **Ridge Regression** 🥉 | 22.16 | 946.08 | 30.76 | 0.7850 | ⭐⭐⭐ Good |
+| **Support Vector Regressor** | 438.45 | 393334.34 | 627.16 | -88.3973 | ❌ Failed |
+
+#### Cross-Validation Results (5-Fold)
+
+| Model | MAE (CV) | MSE (CV) | RMSE (CV) | R² Score (CV) | Stability |
+|-------|----------|----------|-----------|---------------|-----------|
+| **Random Forest** 🥇 | **8.72** | **159.91** | **12.65** | **0.9620** | ✅ Highly Stable |
+| **Decision Tree** 🥈 | 12.56 | 322.02 | 17.95 | 0.9235 | ✅ Stable |
+| **Linear Regression** 🥉 | 22.35 | 962.79 | 31.03 | 0.7710 | ✅ Stable |
+| **Support Vector Regressor** | 44.67 | 3030.69 | 55.05 | 0.2789 | ⚠️ Unstable |
+
+---
+
+### 📊 Evaluation Metrics Explained
+
+| Metric | Description | Best Value | Interpretation |
+|--------|-------------|------------|----------------|
+| **MAE** (Mean Absolute Error) | Average absolute difference between predicted and actual values | Lower is better | Average prediction error in original units |
+| **MSE** (Mean Squared Error) | Average of squared differences | Lower is better | Penalizes larger errors more heavily |
+| **RMSE** (Root Mean Squared Error) | Square root of MSE | Lower is better | Standard deviation of prediction errors |
+| **R² Score** | Proportion of variance explained by the model | Closer to 1 is better | 1.0 = Perfect fit, 0.0 = No predictive power |
+
+---
+
+### 🔍 Key Insights from Model Evaluation
+
+1. **Random Forest Dominance** 🌲
+   - Consistently outperformed all other models
+   - Achieved **96.85% accuracy** in explaining data variance
+   - Most reliable for both traffic and price prediction
+
+2. **Decision Tree Performance** 🌿
+   - Second-best performer with **92.75% accuracy**
+   - Good balance between complexity and interpretability
+   - Useful for understanding feature importance
+
+3. **Linear Models** 📏
+   - Linear and Ridge Regression showed moderate performance (~78% R²)
+   - Useful for baseline comparison
+   - Limited by linear assumption of relationships
+
+4. **SVR Failure** ⚠️
+   - Support Vector Regressor performed poorly
+   - Negative R² score after tuning indicates catastrophic failure
+   - Not suitable for this dataset/problem
+
+5. **Model Stability** ✅
+   - Cross-validation results show Random Forest is highly stable
+   - Minimal variance between training and CV scores
+   - Indicates good generalization capability
+
+---
+
+### 🎯 Final Model Selection
+
+**Chosen Model:  Random Forest Regressor**
+
+**Justification:**
+- ✅ Highest R² score (0.9685)
+- ✅ Lowest MAE (8.76) and RMSE (11.78)
+- ✅ Excellent cross-validation performance
+- ✅ Stable across different data splits
+- ✅ Handles non-linear relationships well
+- ✅ Robust to outliers
+
+**Practical Implications:**
+- The model can predict bus ticket prices with an average error of only **₹8.76**
+- Explains **96.85%** of price variations
+- Reliable enough for production deployment
 
 ---
 
 ## 📚 Key Learnings
 
-Through this project, I gained hands-on experience in: 
+Through this project, I gained hands-on experience in:
 
 ### Technical Skills:
 - ✅ **End-to-end machine learning lifecycle** implementation
 - ✅ **Data preprocessing** techniques (handling missing data, outliers, normalization)
 - ✅ **Feature engineering** and selection strategies
 - ✅ **Model training, tuning, and evaluation**
+- ✅ **Hyperparameter optimization** using GridSearchCV
+- ✅ **Cross-validation** for robust model assessment
 - ✅ **Real-world application** of predictive analytics
 - ✅ **Dashboard-based data visualization** using Jupyter widgets
 
-### ML Concepts:
+### ML Concepts: 
 - ✅ Understanding how **ML models learn patterns** from data
 - ✅ Importance of **data quality** in model performance
 - ✅ **Overfitting vs Underfitting** and regularization
+- ✅ **Ensemble methods** (Random Forest) vs single models
 - ✅ **Model comparison** and selection strategies
-- ✅ **Hyperparameter tuning** for optimization
+- ✅ **Evaluation metrics** interpretation (MAE, MSE, RMSE, R²)
+- ✅ Why some models fail (SVR case study)
+
+### Practical Insights:
+- ✅ **Random Forest** consistently outperforms other algorithms for tabular data
+- ✅ **Hyperparameter tuning** doesn't always improve performance
+- ✅ **Cross-validation** is crucial for assessing model stability
+- ✅ **Feature engineering** is more important than algorithm selection
+- ✅ **Domain knowledge** helps in feature creation and interpretation
 
 ### Soft Skills:
 - ✅ Problem-solving and analytical thinking
 - ✅ Documentation and code organization
 - ✅ Communicating technical insights to non-technical audiences
+- ✅ Systematic experimentation and result tracking
 
 ---
 
@@ -293,7 +391,7 @@ Through this project, I gained hands-on experience in:
 The motivation behind this project was to address the lack of transparency in: 
 
 1. **How bus ticket prices are determined**  
-   Many passengers don't understand why prices vary for the same route at different times. 
+   Many passengers don't understand why prices vary for the same route at different times.
 
 2. **What factors influence passenger demand**  
    Understanding demand patterns can help optimize bus schedules and reduce wait times.
@@ -324,6 +422,9 @@ Vasireddy Venkatadri Institute of Technology (VVIT)
 - [ ] **Advanced Time-Series Models**  
   Implement ARIMA, LSTM, and Prophet for better forecasting
 
+- [ ] **Deep Learning Models**  
+  Explore Neural Networks for complex pattern recognition
+
 - [ ] **Route-Level Analysis**  
   Extend predictions to specific routes and cities
 
@@ -342,11 +443,14 @@ Vasireddy Venkatadri Institute of Technology (VVIT)
 - [ ] **Dynamic Pricing Model**  
   Implement surge pricing algorithms based on demand
 
+- [ ] **Explainable AI (XAI)**  
+  Add SHAP values for model interpretability
+
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome! If you'd like to improve this project:
+Contributions are welcome! If you'd like to improve this project: 
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
@@ -369,7 +473,7 @@ Feel free to use the code for learning and research.
 
 - 🐱 GitHub: [@AdhimulamBhargavSaiViswanath-05](https://github.com/AdhimulamBhargavSaiViswanath-05)
 - 💼 LinkedIn: [adhimulambhargavsaiviswanath](https://www.linkedin.com/in/adhimulambhargavsaiviswanath/)
-- 📧 Email: bhargavsaiadhimulam12@gmail.com
+- 📧 Email: [Your Email]
 
 **Project Link:** [https://github.com/AdhimulamBhargavSaiViswanath-05/bus-traffic-price-prediction](https://github.com/AdhimulamBhargavSaiViswanath-05/bus-traffic-price-prediction)
 
