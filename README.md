@@ -172,6 +172,38 @@ bus-traffic-price-prediction/
 
 ---
 
+## 🗂️ Dataset Collected & Preprocessed (What, Why, How)
+
+### What I collected
+- **`price_data.csv`**: 2,000 rows with fare-related fields (`Distance_km`, `Ticket_Price`, `Discount_Offered (%)`, `Special_Event`) and trip context (`Date`, `Time_Slot`, `From_Location`, `To_Location`).
+- **`passenger_data.csv`**: 2,000 rows with demand-related fields (`Passenger_Count`, `Day_Type`) and the same trip context columns.
+- **`merged_dataset.csv`**: 2,000-row unified dataset with both price and passenger variables (10 columns).
+- **`merged_bus_data.csv`** (processed): engineered version of the merged dataset with **16 columns** after preprocessing and feature extraction.
+
+### Why this dataset was needed
+- To jointly model **ticket price behavior** and **passenger traffic behavior** instead of treating them as separate problems.
+- To identify how route, timing, distance, demand, day type, and special events influence transport decisions.
+- To build a project that is useful for both operators (planning/scheduling) and passengers (pricing transparency).
+
+### How I preprocessed the data
+- Verified dataset size and schema, then standardized key text/date fields.
+- Filled categorical gaps (for example in `Special_Event`, `Time_Slot`, and `Day_Type`) with safe defaults.
+- Added engineered features:
+  - `Total_Revenue`
+  - `High_Demand` (flag based on passenger count)
+  - `Weekday` extracted from date
+  - Encoded categorical features (`Time_Slot_Encoded`, `Day_Type_Encoded`, `Special_Event_Encoded`)
+- Saved the final cleaned dataset as `Bus_Service_Predictions/Data Preprocessing/merged_bus_data.csv`.
+
+### Quick dataset profile
+- Time range: **2024-01-01 to 2025-05-31**
+- Time slots: **Morning, Afternoon, Evening, Night**
+- Locations: **18 source cities**, **18 destination cities**, **306 route pairs**
+- Ticket price range: **₹11 to ₹1305**
+- Passenger count range: **60 to 320**
+
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -345,6 +377,53 @@ The **Random Forest Regressor** emerged as the best model with exceptional perfo
 - The model can predict bus ticket prices with an average error of only **₹8.76**
 - Explains **96.85%** of price variations
 - Reliable enough for production deployment
+
+---
+
+## 🧩 Problems Faced, Approach Taken, and How They Were Solved
+
+### Problems faced
+- Combining fare and demand information into one consistent training dataset.
+- Handling noisy real-world categorical values and formatting inconsistencies.
+- Capturing non-linear relationships between route/demand context and ticket prices.
+- Selecting a model that is both accurate and stable across folds.
+
+### Approach taken
+- Built a preprocessing pipeline to clean, standardize, and enrich the merged data.
+- Trained multiple baseline and advanced regressors (Linear, Ridge, Decision Tree, Random Forest, SVR).
+- Evaluated all models with the same metrics (MAE, MSE, RMSE, R²) and 5-fold cross-validation.
+- Compared pre-tuning and post-tuning behavior before final model selection.
+
+### How issues were solved
+- Feature engineering improved signal quality (revenue, weekday, demand flag, encodings).
+- Model comparison showed tree-based methods handled non-linearity better than linear/SVR models.
+- Random Forest provided the best trade-off between predictive quality and generalization.
+- Cross-validation confirmed stability and reduced risk of choosing an overfit model.
+
+---
+
+## 📌 Key Metrics Achieved
+
+- **Best model**: Random Forest Regressor
+- **Best test performance (before tuning)**:
+  - R²: **0.9685**
+  - MAE: **8.76**
+  - RMSE: **11.78**
+- **Cross-validation (5-fold) for Random Forest**:
+  - R²: **0.9620**
+  - MAE: **8.72**
+  - RMSE: **12.65**
+- Interpretation: the selected model explains most variance in the target with low average error, and remains stable across folds.
+
+---
+
+## ⚠️ Current Project Limitations
+
+- Dataset size is moderate (2,000 records), which may limit generalization to all regions/seasons.
+- Data is historical and static; the project does not yet use live API feeds.
+- External drivers like fuel price, weather, road incidents, and policy shifts are not fully modeled.
+- Evaluation is notebook-based; there is no production-grade deployment pipeline yet.
+- Model explainability is limited (no SHAP/LIME-style interpretation included yet).
 
 ---
 
